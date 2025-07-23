@@ -1,0 +1,1817 @@
+Training dataset find sequences: 72436
+Testing dataset contain 7 folders, 2 frames / folder
+Loading pretrained image model:  checkpoints/cp_image_model_L_ft_best.pth.tar
+Learning rate: 0.0001
+Train epoch 0: [0/72436 (0%)]		Loss: 144.5102 |	RD loss: 287.3178 |	MSE loss: 0.337734 |	Bpp loss: 3.6216 |
+Train epoch 0: [4000/72436 (6%)]		Loss: 1.8852 |	RD loss: 2.1604 |	MSE loss: 0.001918 |	Bpp loss: 0.5495 |
+Train epoch 0: [8000/72436 (11%)]		Loss: 2.7181 |	RD loss: 2.5799 |	MSE loss: 0.002527 |	Bpp loss: 0.4573 |
+Train epoch 0: [12000/72436 (17%)]		Loss: 1.1867 |	RD loss: 1.0231 |	MSE loss: 0.000827 |	Bpp loss: 0.3286 |
+Train epoch 0: [16000/72436 (22%)]		Loss: 2.1840 |	RD loss: 2.2382 |	MSE loss: 0.002260 |	Bpp loss: 0.3395 |
+Train epoch 0: [20000/72436 (28%)]		Loss: 1.4643 |	RD loss: 1.1396 |	MSE loss: 0.001023 |	Bpp loss: 0.2806 |
+Train epoch 0: [24000/72436 (33%)]		Loss: 1.3274 |	RD loss: 0.9193 |	MSE loss: 0.000833 |	Bpp loss: 0.2194 |
+Train epoch 0: [28000/72436 (39%)]		Loss: 2.0031 |	RD loss: 1.3141 |	MSE loss: 0.001341 |	Bpp loss: 0.1875 |
+Train epoch 0: [32000/72436 (44%)]		Loss: 2.3155 |	RD loss: 1.1279 |	MSE loss: 0.001129 |	Bpp loss: 0.1792 |
+Train epoch 0: [36000/72436 (50%)]		Loss: 1.1552 |	RD loss: 0.6495 |	MSE loss: 0.000585 |	Bpp loss: 0.1579 |
+Train epoch 0: [40000/72436 (55%)]		Loss: 0.7775 |	RD loss: 0.4174 |	MSE loss: 0.000334 |	Bpp loss: 0.1372 |
+Train epoch 0: [44000/72436 (61%)]		Loss: 1.3002 |	RD loss: 0.7598 |	MSE loss: 0.000708 |	Bpp loss: 0.1650 |
+Train epoch 0: [48000/72436 (66%)]		Loss: 1.2516 |	RD loss: 0.6311 |	MSE loss: 0.000559 |	Bpp loss: 0.1615 |
+Train epoch 0: [52000/72436 (72%)]		Loss: 1.3464 |	RD loss: 0.6912 |	MSE loss: 0.000657 |	Bpp loss: 0.1393 |
+Train epoch 0: [56000/72436 (77%)]		Loss: 1.2863 |	RD loss: 0.6129 |	MSE loss: 0.000558 |	Bpp loss: 0.1444 |
+Train epoch 0: [60000/72436 (83%)]		Loss: 1.2510 |	RD loss: 0.5994 |	MSE loss: 0.000575 |	Bpp loss: 0.1161 |
+Train epoch 0: [64000/72436 (88%)]		Loss: 1.0913 |	RD loss: 0.6383 |	MSE loss: 0.000589 |	Bpp loss: 0.1438 |
+Train epoch 0: [68000/72436 (94%)]		Loss: 0.8621 |	RD loss: 0.4025 |	MSE loss: 0.000324 |	Bpp loss: 0.1307 |
+Train epoch 0: [72000/72436 (99%)]		Loss: 1.7128 |	RD loss: 1.0206 |	MSE loss: 0.001034 |	Bpp loss: 0.1518 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=34.92872725248153, BPP=0.039970703423023224
+Result of sequence Beauty: PSNR=36.1467, BPP=0.1345
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=37.520299250598406, BPP=0.0231556948274374
+Result of sequence HoneyBee: PSNR=38.8092, BPP=0.1390
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=35.954290355933935, BPP=0.04260482266545296
+Result of sequence ReadySteadyGo: PSNR=37.6776, BPP=0.2509
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=35.655540633623566, BPP=0.06600344181060791
+Result of sequence YachtRide: PSNR=38.6390, BPP=0.1710
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=39.1380807380948, BPP=0.023400483652949333
+Result of sequence Bosphorus: PSNR=40.4148, BPP=0.1293
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=35.2591651620857, BPP=0.11079765856266022
+Result of sequence Jockey: PSNR=38.0612, BPP=0.1605
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=34.18538232118937, BPP=0.08538448810577393
+Result of sequence ShakeNDry: PSNR=36.7627, BPP=0.2474
+Test epoch 0:	Loss: 0.3295 |	PSNR: 38.0730 |	MSE loss: 0.000183 |	Bpp loss: 0.1761 |
+Epoch: 0, loss: (now:0.3295)/(best:0.3295), training time: 5798.33s, testing time: 4.91s
+
+Learning rate: 0.0001
+Train epoch 1: [0/72436 (0%)]		Loss: 1.4996 |	RD loss: 0.7035 |	MSE loss: 0.000671 |	Bpp loss: 0.1399 |
+Train epoch 1: [4000/72436 (6%)]		Loss: 0.6571 |	RD loss: 0.2799 |	MSE loss: 0.000185 |	Bpp loss: 0.1247 |
+Train epoch 1: [8000/72436 (11%)]		Loss: 2.1120 |	RD loss: 0.9022 |	MSE loss: 0.000914 |	Bpp loss: 0.1347 |
+Train epoch 1: [12000/72436 (17%)]		Loss: 1.0434 |	RD loss: 0.4453 |	MSE loss: 0.000397 |	Bpp loss: 0.1115 |
+Train epoch 1: [16000/72436 (22%)]		Loss: 1.1054 |	RD loss: 0.5455 |	MSE loss: 0.000508 |	Bpp loss: 0.1186 |
+Train epoch 1: [20000/72436 (28%)]		Loss: 1.7755 |	RD loss: 0.7051 |	MSE loss: 0.000677 |	Bpp loss: 0.1368 |
+Train epoch 1: [24000/72436 (33%)]		Loss: 1.1539 |	RD loss: 0.4302 |	MSE loss: 0.000385 |	Bpp loss: 0.1065 |
+Train epoch 1: [28000/72436 (39%)]		Loss: 1.3848 |	RD loss: 0.5130 |	MSE loss: 0.000457 |	Bpp loss: 0.1289 |
+Train epoch 1: [32000/72436 (44%)]		Loss: 1.7036 |	RD loss: 0.7932 |	MSE loss: 0.000786 |	Bpp loss: 0.1327 |
+Train epoch 1: [36000/72436 (50%)]		Loss: 0.9104 |	RD loss: 0.3903 |	MSE loss: 0.000312 |	Bpp loss: 0.1284 |
+Train epoch 1: [40000/72436 (55%)]		Loss: 2.0919 |	RD loss: 0.9093 |	MSE loss: 0.000946 |	Bpp loss: 0.1143 |
+Train epoch 1: [44000/72436 (61%)]		Loss: 1.2070 |	RD loss: 0.5781 |	MSE loss: 0.000538 |	Bpp loss: 0.1261 |
+Train epoch 1: [48000/72436 (66%)]		Loss: 1.2636 |	RD loss: 0.5973 |	MSE loss: 0.000560 |	Bpp loss: 0.1265 |
+Train epoch 1: [52000/72436 (72%)]		Loss: 1.2513 |	RD loss: 0.4998 |	MSE loss: 0.000448 |	Bpp loss: 0.1236 |
+Train epoch 1: [56000/72436 (77%)]		Loss: 1.1457 |	RD loss: 0.5417 |	MSE loss: 0.000486 |	Bpp loss: 0.1335 |
+Train epoch 1: [60000/72436 (83%)]		Loss: 1.2254 |	RD loss: 0.4688 |	MSE loss: 0.000418 |	Bpp loss: 0.1180 |
+Train epoch 1: [64000/72436 (88%)]		Loss: 0.7066 |	RD loss: 0.2673 |	MSE loss: 0.000211 |	Bpp loss: 0.0900 |
+Train epoch 1: [68000/72436 (94%)]		Loss: 1.2850 |	RD loss: 0.5504 |	MSE loss: 0.000520 |	Bpp loss: 0.1140 |
+Train epoch 1: [72000/72436 (99%)]		Loss: 1.1979 |	RD loss: 0.6027 |	MSE loss: 0.000562 |	Bpp loss: 0.1303 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.1522240513885, BPP=0.03504706919193268
+Result of sequence Beauty: PSNR=36.2584, BPP=0.1321
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.32501753272667, BPP=0.01521274819970131
+Result of sequence HoneyBee: PSNR=39.2116, BPP=0.1351
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=36.70349350732027, BPP=0.033944811671972275
+Result of sequence ReadySteadyGo: PSNR=38.0522, BPP=0.2465
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=36.534557035232595, BPP=0.057618413120508194
+Result of sequence YachtRide: PSNR=39.0785, BPP=0.1668
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=39.68447394317317, BPP=0.01807301491498947
+Result of sequence Bosphorus: PSNR=40.6880, BPP=0.1267
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=36.39636297383199, BPP=0.09321784228086472
+Result of sequence Jockey: PSNR=38.6298, BPP=0.1518
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=34.94457709795944, BPP=0.07803906500339508
+Result of sequence ShakeNDry: PSNR=37.1423, BPP=0.2437
+Test epoch 1:	Loss: 0.3084 |	PSNR: 38.4372 |	MSE loss: 0.000163 |	Bpp loss: 0.1718 |
+Epoch: 1, loss: (now:0.3084)/(best:0.3084), training time: 5788.35s, testing time: 4.46s
+
+Learning rate: 0.0001
+Train epoch 2: [0/72436 (0%)]		Loss: 1.4337 |	RD loss: 0.6159 |	MSE loss: 0.000583 |	Bpp loss: 0.1265 |
+Train epoch 2: [4000/72436 (6%)]		Loss: 1.6012 |	RD loss: 0.7653 |	MSE loss: 0.000745 |	Bpp loss: 0.1392 |
+Train epoch 2: [8000/72436 (11%)]		Loss: 1.0116 |	RD loss: 0.3347 |	MSE loss: 0.000264 |	Bpp loss: 0.1128 |
+Train epoch 2: [12000/72436 (17%)]		Loss: 0.8311 |	RD loss: 0.3316 |	MSE loss: 0.000272 |	Bpp loss: 0.1035 |
+Train epoch 2: [16000/72436 (22%)]		Loss: 0.4757 |	RD loss: 0.1606 |	MSE loss: 0.000101 |	Bpp loss: 0.0759 |
+Train epoch 2: [20000/72436 (28%)]		Loss: 1.8012 |	RD loss: 0.7131 |	MSE loss: 0.000724 |	Bpp loss: 0.1046 |
+Train epoch 2: [24000/72436 (33%)]		Loss: 0.9570 |	RD loss: 0.3048 |	MSE loss: 0.000253 |	Bpp loss: 0.0923 |
+Train epoch 2: [28000/72436 (39%)]		Loss: 1.1859 |	RD loss: 0.4848 |	MSE loss: 0.000428 |	Bpp loss: 0.1250 |
+Train epoch 2: [32000/72436 (44%)]		Loss: 1.3329 |	RD loss: 0.4186 |	MSE loss: 0.000385 |	Bpp loss: 0.0949 |
+Train epoch 2: [36000/72436 (50%)]		Loss: 0.9613 |	RD loss: 0.4670 |	MSE loss: 0.000415 |	Bpp loss: 0.1184 |
+Train epoch 2: [40000/72436 (55%)]		Loss: 1.0925 |	RD loss: 0.3688 |	MSE loss: 0.000320 |	Bpp loss: 0.0998 |
+Train epoch 2: [44000/72436 (61%)]		Loss: 2.0297 |	RD loss: 0.7529 |	MSE loss: 0.000762 |	Bpp loss: 0.1127 |
+Train epoch 2: [48000/72436 (66%)]		Loss: 1.2461 |	RD loss: 0.4292 |	MSE loss: 0.000397 |	Bpp loss: 0.0957 |
+Train epoch 2: [52000/72436 (72%)]		Loss: 0.9394 |	RD loss: 0.2922 |	MSE loss: 0.000234 |	Bpp loss: 0.0958 |
+Train epoch 2: [56000/72436 (77%)]		Loss: 1.2626 |	RD loss: 0.4925 |	MSE loss: 0.000473 |	Bpp loss: 0.0954 |
+Train epoch 2: [60000/72436 (83%)]		Loss: 0.5280 |	RD loss: 0.1720 |	MSE loss: 0.000121 |	Bpp loss: 0.0706 |
+Train epoch 2: [64000/72436 (88%)]		Loss: 1.1321 |	RD loss: 0.4022 |	MSE loss: 0.000344 |	Bpp loss: 0.1130 |
+Train epoch 2: [68000/72436 (94%)]		Loss: 1.2827 |	RD loss: 0.4766 |	MSE loss: 0.000440 |	Bpp loss: 0.1071 |
+Train epoch 2: [72000/72436 (99%)]		Loss: 0.6454 |	RD loss: 0.2239 |	MSE loss: 0.000165 |	Bpp loss: 0.0850 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.18414426405458, BPP=0.03513675183057785
+Result of sequence Beauty: PSNR=36.2744, BPP=0.1321
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=37.98036758765262, BPP=0.014015617780387402
+Result of sequence HoneyBee: PSNR=39.0393, BPP=0.1345
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=36.61394637281796, BPP=0.031721629202365875
+Result of sequence ReadySteadyGo: PSNR=38.0074, BPP=0.2454
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=36.66269796552561, BPP=0.058156341314315796
+Result of sequence YachtRide: PSNR=39.1426, BPP=0.1671
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=39.15428321430045, BPP=0.01580066792666912
+Result of sequence Bosphorus: PSNR=40.4229, BPP=0.1255
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=36.40794946805808, BPP=0.08832097798585892
+Result of sequence Jockey: PSNR=38.6356, BPP=0.1493
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=34.73956729747492, BPP=0.07455573230981827
+Result of sequence ShakeNDry: PSNR=37.0397, BPP=0.2420
+Test epoch 2:	Loss: 0.3096 |	PSNR: 38.3660 |	MSE loss: 0.000165 |	Bpp loss: 0.1708 |
+Epoch: 2, loss: (now:0.3096)/(best:0.3084), training time: 5784.55s, testing time: 4.58s
+
+Learning rate: 0.0001
+Train epoch 3: [0/72436 (0%)]		Loss: 1.5151 |	RD loss: 0.5709 |	MSE loss: 0.000538 |	Bpp loss: 0.1190 |
+Train epoch 3: [4000/72436 (6%)]		Loss: 0.8194 |	RD loss: 0.2758 |	MSE loss: 0.000207 |	Bpp loss: 0.1020 |
+Train epoch 3: [8000/72436 (11%)]		Loss: 1.0640 |	RD loss: 0.4009 |	MSE loss: 0.000337 |	Bpp loss: 0.1180 |
+Train epoch 3: [12000/72436 (17%)]		Loss: 1.0676 |	RD loss: 0.4255 |	MSE loss: 0.000393 |	Bpp loss: 0.0958 |
+Train epoch 3: [16000/72436 (22%)]		Loss: 1.0372 |	RD loss: 0.3611 |	MSE loss: 0.000310 |	Bpp loss: 0.1007 |
+Train epoch 3: [20000/72436 (28%)]		Loss: 0.5572 |	RD loss: 0.1708 |	MSE loss: 0.000119 |	Bpp loss: 0.0711 |
+Train epoch 3: [24000/72436 (33%)]		Loss: 0.7262 |	RD loss: 0.2558 |	MSE loss: 0.000211 |	Bpp loss: 0.0783 |
+Train epoch 3: [28000/72436 (39%)]		Loss: 1.7446 |	RD loss: 0.6324 |	MSE loss: 0.000607 |	Bpp loss: 0.1222 |
+Train epoch 3: [32000/72436 (44%)]		Loss: 1.2941 |	RD loss: 0.4687 |	MSE loss: 0.000412 |	Bpp loss: 0.1228 |
+Train epoch 3: [36000/72436 (50%)]		Loss: 0.7642 |	RD loss: 0.3227 |	MSE loss: 0.000260 |	Bpp loss: 0.1046 |
+Train epoch 3: [40000/72436 (55%)]		Loss: 1.1878 |	RD loss: 0.4389 |	MSE loss: 0.000414 |	Bpp loss: 0.0915 |
+Train epoch 3: [44000/72436 (61%)]		Loss: 1.8702 |	RD loss: 0.6581 |	MSE loss: 0.000626 |	Bpp loss: 0.1326 |
+Train epoch 3: [48000/72436 (66%)]		Loss: 1.2421 |	RD loss: 0.4414 |	MSE loss: 0.000398 |	Bpp loss: 0.1073 |
+Train epoch 3: [52000/72436 (72%)]		Loss: 1.6890 |	RD loss: 0.6609 |	MSE loss: 0.000652 |	Bpp loss: 0.1131 |
+Train epoch 3: [56000/72436 (77%)]		Loss: 1.1055 |	RD loss: 0.4197 |	MSE loss: 0.000380 |	Bpp loss: 0.1004 |
+Train epoch 3: [60000/72436 (83%)]		Loss: 1.6376 |	RD loss: 0.4901 |	MSE loss: 0.000461 |	Bpp loss: 0.1027 |
+Train epoch 3: [64000/72436 (88%)]		Loss: 0.9312 |	RD loss: 0.3756 |	MSE loss: 0.000328 |	Bpp loss: 0.0998 |
+Train epoch 3: [68000/72436 (94%)]		Loss: 1.2481 |	RD loss: 0.3817 |	MSE loss: 0.000325 |	Bpp loss: 0.1083 |
+Train epoch 3: [72000/72436 (99%)]		Loss: 0.8863 |	RD loss: 0.2837 |	MSE loss: 0.000224 |	Bpp loss: 0.0959 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.49093779420676, BPP=0.03110647387802601
+Result of sequence Beauty: PSNR=36.4278, BPP=0.1301
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.302536791288375, BPP=0.010081896558403969
+Result of sequence HoneyBee: PSNR=39.2003, BPP=0.1325
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.03131135786238, BPP=0.023739494383335114
+Result of sequence ReadySteadyGo: PSNR=38.2161, BPP=0.2414
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=36.79805112618176, BPP=0.05219590291380882
+Result of sequence YachtRide: PSNR=39.2103, BPP=0.1641
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=38.76869102509579, BPP=0.014904101379215717
+Result of sequence Bosphorus: PSNR=40.2301, BPP=0.1251
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=37.04916215817756, BPP=0.08208351582288742
+Result of sequence Jockey: PSNR=38.9562, BPP=0.1462
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.306637811411335, BPP=0.07270938903093338
+Result of sequence ShakeNDry: PSNR=37.3233, BPP=0.2411
+Test epoch 3:	Loss: 0.3002 |	PSNR: 38.5091 |	MSE loss: 0.000157 |	Bpp loss: 0.1686 |
+Epoch: 3, loss: (now:0.3002)/(best:0.3002), training time: 5787.34s, testing time: 4.45s
+
+Learning rate: 0.0001
+Train epoch 4: [0/72436 (0%)]		Loss: 2.2139 |	RD loss: 0.7595 |	MSE loss: 0.000769 |	Bpp loss: 0.1138 |
+Train epoch 4: [4000/72436 (6%)]		Loss: 1.4635 |	RD loss: 0.4700 |	MSE loss: 0.000438 |	Bpp loss: 0.1023 |
+Train epoch 4: [8000/72436 (11%)]		Loss: 1.3373 |	RD loss: 0.4200 |	MSE loss: 0.000377 |	Bpp loss: 0.1029 |
+Train epoch 4: [12000/72436 (17%)]		Loss: 0.9990 |	RD loss: 0.2981 |	MSE loss: 0.000243 |	Bpp loss: 0.0938 |
+Train epoch 4: [16000/72436 (22%)]		Loss: 1.2597 |	RD loss: 0.3469 |	MSE loss: 0.000316 |	Bpp loss: 0.0812 |
+Train epoch 4: [20000/72436 (28%)]		Loss: 1.4012 |	RD loss: 0.4160 |	MSE loss: 0.000378 |	Bpp loss: 0.0986 |
+Train epoch 4: [24000/72436 (33%)]		Loss: 1.1024 |	RD loss: 0.3480 |	MSE loss: 0.000297 |	Bpp loss: 0.0989 |
+Train epoch 4: [28000/72436 (39%)]		Loss: 1.1541 |	RD loss: 0.3540 |	MSE loss: 0.000307 |	Bpp loss: 0.0961 |
+Train epoch 4: [32000/72436 (44%)]		Loss: 1.6770 |	RD loss: 0.5483 |	MSE loss: 0.000519 |	Bpp loss: 0.1124 |
+Train epoch 4: [36000/72436 (50%)]		Loss: 1.3177 |	RD loss: 0.6263 |	MSE loss: 0.000624 |	Bpp loss: 0.1026 |
+Train epoch 4: [40000/72436 (55%)]		Loss: 0.5886 |	RD loss: 0.2115 |	MSE loss: 0.000158 |	Bpp loss: 0.0785 |
+Train epoch 4: [44000/72436 (61%)]		Loss: 2.0305 |	RD loss: 0.8176 |	MSE loss: 0.000839 |	Bpp loss: 0.1132 |
+Train epoch 4: [48000/72436 (66%)]		Loss: 1.1301 |	RD loss: 0.3530 |	MSE loss: 0.000302 |	Bpp loss: 0.0991 |
+Train epoch 4: [52000/72436 (72%)]		Loss: 0.9675 |	RD loss: 0.3235 |	MSE loss: 0.000267 |	Bpp loss: 0.0992 |
+Train epoch 4: [56000/72436 (77%)]		Loss: 1.1120 |	RD loss: 0.3049 |	MSE loss: 0.000261 |	Bpp loss: 0.0856 |
+Train epoch 4: [60000/72436 (83%)]		Loss: 0.8048 |	RD loss: 0.3627 |	MSE loss: 0.000324 |	Bpp loss: 0.0903 |
+Train epoch 4: [64000/72436 (88%)]		Loss: 1.3119 |	RD loss: 0.4847 |	MSE loss: 0.000461 |	Bpp loss: 0.0972 |
+Train epoch 4: [68000/72436 (94%)]		Loss: 0.8379 |	RD loss: 0.3385 |	MSE loss: 0.000290 |	Bpp loss: 0.0952 |
+Train epoch 4: [72000/72436 (99%)]		Loss: 1.3335 |	RD loss: 0.5240 |	MSE loss: 0.000505 |	Bpp loss: 0.1001 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.72520550250607, BPP=0.03372799605131149
+Result of sequence Beauty: PSNR=36.5449, BPP=0.1314
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.39540216420502, BPP=0.013600992038846016
+Result of sequence HoneyBee: PSNR=39.2468, BPP=0.1343
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.32522097196846, BPP=0.024932943284511566
+Result of sequence ReadySteadyGo: PSNR=38.3630, BPP=0.2420
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.117907187459814, BPP=0.051662735641002655
+Result of sequence YachtRide: PSNR=39.3702, BPP=0.1639
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=39.5180079699458, BPP=0.014315280131995678
+Result of sequence Bosphorus: PSNR=40.6047, BPP=0.1248
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=37.71585241308383, BPP=0.07697605341672897
+Result of sequence Jockey: PSNR=39.2895, BPP=0.1436
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.435011902912656, BPP=0.07517941296100616
+Result of sequence ShakeNDry: PSNR=37.3875, BPP=0.2423
+Test epoch 4:	Loss: 0.2943 |	PSNR: 38.6867 |	MSE loss: 0.000149 |	Bpp loss: 0.1689 |
+Epoch: 4, loss: (now:0.2943)/(best:0.2943), training time: 5791.50s, testing time: 4.30s
+
+Learning rate: 0.0001
+Train epoch 5: [0/72436 (0%)]		Loss: 0.8365 |	RD loss: 0.2184 |	MSE loss: 0.000176 |	Bpp loss: 0.0702 |
+Train epoch 5: [4000/72436 (6%)]		Loss: 0.7072 |	RD loss: 0.1908 |	MSE loss: 0.000141 |	Bpp loss: 0.0722 |
+Train epoch 5: [8000/72436 (11%)]		Loss: 1.2343 |	RD loss: 0.4376 |	MSE loss: 0.000414 |	Bpp loss: 0.0901 |
+Train epoch 5: [12000/72436 (17%)]		Loss: 1.1966 |	RD loss: 0.3599 |	MSE loss: 0.000318 |	Bpp loss: 0.0928 |
+Train epoch 5: [16000/72436 (22%)]		Loss: 0.9707 |	RD loss: 0.2775 |	MSE loss: 0.000239 |	Bpp loss: 0.0770 |
+Train epoch 5: [20000/72436 (28%)]		Loss: 1.2167 |	RD loss: 0.3748 |	MSE loss: 0.000346 |	Bpp loss: 0.0846 |
+Train epoch 5: [24000/72436 (33%)]		Loss: 0.8353 |	RD loss: 0.2561 |	MSE loss: 0.000193 |	Bpp loss: 0.0943 |
+Train epoch 5: [28000/72436 (39%)]		Loss: 0.7514 |	RD loss: 0.2367 |	MSE loss: 0.000185 |	Bpp loss: 0.0814 |
+Train epoch 5: [32000/72436 (44%)]		Loss: 0.8802 |	RD loss: 0.3334 |	MSE loss: 0.000298 |	Bpp loss: 0.0834 |
+Train epoch 5: [36000/72436 (50%)]		Loss: 1.1016 |	RD loss: 0.3223 |	MSE loss: 0.000274 |	Bpp loss: 0.0924 |
+Train epoch 5: [40000/72436 (55%)]		Loss: 2.0104 |	RD loss: 0.6643 |	MSE loss: 0.000658 |	Bpp loss: 0.1113 |
+Train epoch 5: [44000/72436 (61%)]		Loss: 1.2209 |	RD loss: 0.4745 |	MSE loss: 0.000425 |	Bpp loss: 0.1175 |
+Train epoch 5: [48000/72436 (66%)]		Loss: 0.8759 |	RD loss: 0.2600 |	MSE loss: 0.000221 |	Bpp loss: 0.0740 |
+Train epoch 5: [52000/72436 (72%)]		Loss: 0.7175 |	RD loss: 0.3038 |	MSE loss: 0.000230 |	Bpp loss: 0.1105 |
+Train epoch 5: [56000/72436 (77%)]		Loss: 0.9851 |	RD loss: 0.3208 |	MSE loss: 0.000290 |	Bpp loss: 0.0768 |
+Train epoch 5: [60000/72436 (83%)]		Loss: 1.4147 |	RD loss: 0.3542 |	MSE loss: 0.000314 |	Bpp loss: 0.0907 |
+Train epoch 5: [64000/72436 (88%)]		Loss: 0.9160 |	RD loss: 0.3224 |	MSE loss: 0.000264 |	Bpp loss: 0.1006 |
+Train epoch 5: [68000/72436 (94%)]		Loss: 1.1422 |	RD loss: 0.3571 |	MSE loss: 0.000319 |	Bpp loss: 0.0896 |
+Train epoch 5: [72000/72436 (99%)]		Loss: 1.0134 |	RD loss: 0.3204 |	MSE loss: 0.000273 |	Bpp loss: 0.0914 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.76572757424249, BPP=0.03145884349942207
+Result of sequence Beauty: PSNR=36.5652, BPP=0.1303
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.74883028918586, BPP=0.011099552735686302
+Result of sequence HoneyBee: PSNR=39.4235, BPP=0.1330
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.501523130114414, BPP=0.021601369604468346
+Result of sequence ReadySteadyGo: PSNR=38.4512, BPP=0.2404
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.31843333837011, BPP=0.04960155487060547
+Result of sequence YachtRide: PSNR=39.4705, BPP=0.1628
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=39.98101113584822, BPP=0.014103631488978863
+Result of sequence Bosphorus: PSNR=40.8362, BPP=0.1247
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.14737226504339, BPP=0.06976307928562164
+Result of sequence Jockey: PSNR=39.5053, BPP=0.1400
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.67351440341035, BPP=0.0744413211941719
+Result of sequence ShakeNDry: PSNR=37.5067, BPP=0.2419
+Test epoch 5:	Loss: 0.2886 |	PSNR: 38.8226 |	MSE loss: 0.000144 |	Bpp loss: 0.1676 |
+Epoch: 5, loss: (now:0.2886)/(best:0.2886), training time: 5787.24s, testing time: 4.57s
+
+Learning rate: 0.0001
+Train epoch 6: [0/72436 (0%)]		Loss: 1.3042 |	RD loss: 0.4642 |	MSE loss: 0.000400 |	Bpp loss: 0.1280 |
+Train epoch 6: [4000/72436 (6%)]		Loss: 0.9463 |	RD loss: 0.3198 |	MSE loss: 0.000254 |	Bpp loss: 0.1063 |
+Train epoch 6: [8000/72436 (11%)]		Loss: 1.1480 |	RD loss: 0.4912 |	MSE loss: 0.000476 |	Bpp loss: 0.0917 |
+Train epoch 6: [12000/72436 (17%)]		Loss: 1.0680 |	RD loss: 0.3157 |	MSE loss: 0.000261 |	Bpp loss: 0.0968 |
+Train epoch 6: [16000/72436 (22%)]		Loss: 1.1924 |	RD loss: 0.4261 |	MSE loss: 0.000387 |	Bpp loss: 0.1013 |
+Train epoch 6: [20000/72436 (28%)]		Loss: 1.5359 |	RD loss: 0.6177 |	MSE loss: 0.000583 |	Bpp loss: 0.1278 |
+Train epoch 6: [24000/72436 (33%)]		Loss: 0.8293 |	RD loss: 0.2699 |	MSE loss: 0.000225 |	Bpp loss: 0.0810 |
+Train epoch 6: [28000/72436 (39%)]		Loss: 0.9261 |	RD loss: 0.3684 |	MSE loss: 0.000326 |	Bpp loss: 0.0942 |
+Train epoch 6: [32000/72436 (44%)]		Loss: 0.9739 |	RD loss: 0.3328 |	MSE loss: 0.000290 |	Bpp loss: 0.0892 |
+Train epoch 6: [36000/72436 (50%)]		Loss: 0.6522 |	RD loss: 0.1991 |	MSE loss: 0.000166 |	Bpp loss: 0.0600 |
+Train epoch 6: [40000/72436 (55%)]		Loss: 1.0425 |	RD loss: 0.2866 |	MSE loss: 0.000245 |	Bpp loss: 0.0809 |
+Train epoch 6: [44000/72436 (61%)]		Loss: 0.9531 |	RD loss: 0.2985 |	MSE loss: 0.000228 |	Bpp loss: 0.1067 |
+Train epoch 6: [48000/72436 (66%)]		Loss: 0.9112 |	RD loss: 0.2819 |	MSE loss: 0.000243 |	Bpp loss: 0.0775 |
+Train epoch 6: [52000/72436 (72%)]		Loss: 1.0912 |	RD loss: 0.3691 |	MSE loss: 0.000308 |	Bpp loss: 0.1105 |
+Train epoch 6: [56000/72436 (77%)]		Loss: 0.6148 |	RD loss: 0.2432 |	MSE loss: 0.000198 |	Bpp loss: 0.0771 |
+Train epoch 6: [60000/72436 (83%)]		Loss: 1.9237 |	RD loss: 0.7045 |	MSE loss: 0.000698 |	Bpp loss: 0.1179 |
+Train epoch 6: [64000/72436 (88%)]		Loss: 0.9745 |	RD loss: 0.3017 |	MSE loss: 0.000281 |	Bpp loss: 0.0653 |
+Train epoch 6: [68000/72436 (94%)]		Loss: 1.0414 |	RD loss: 0.2913 |	MSE loss: 0.000262 |	Bpp loss: 0.0713 |
+Train epoch 6: [72000/72436 (99%)]		Loss: 1.2581 |	RD loss: 0.3355 |	MSE loss: 0.000296 |	Bpp loss: 0.0867 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.78800582686186, BPP=0.028005609288811684
+Result of sequence Beauty: PSNR=36.5763, BPP=0.1286
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.83057722440962, BPP=0.0075951446779072285
+Result of sequence HoneyBee: PSNR=39.4644, BPP=0.1313
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.71821842807556, BPP=0.018166927620768547
+Result of sequence ReadySteadyGo: PSNR=38.5595, BPP=0.2386
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.905932640906556, BPP=0.04698367416858673
+Result of sequence YachtRide: PSNR=39.7642, BPP=0.1615
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.14441163277486, BPP=0.01224181242287159
+Result of sequence Bosphorus: PSNR=40.9179, BPP=0.1237
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.22616934890472, BPP=0.06962311267852783
+Result of sequence Jockey: PSNR=39.5447, BPP=0.1400
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.815070556193334, BPP=0.07492177188396454
+Result of sequence ShakeNDry: PSNR=37.5775, BPP=0.2422
+Test epoch 6:	Loss: 0.2845 |	PSNR: 38.9149 |	MSE loss: 0.000140 |	Bpp loss: 0.1666 |
+Epoch: 6, loss: (now:0.2845)/(best:0.2845), training time: 5789.86s, testing time: 4.54s
+
+Learning rate: 0.0001
+Train epoch 7: [0/72436 (0%)]		Loss: 1.2020 |	RD loss: 0.3470 |	MSE loss: 0.000300 |	Bpp loss: 0.0949 |
+Train epoch 7: [4000/72436 (6%)]		Loss: 1.5941 |	RD loss: 0.4793 |	MSE loss: 0.000459 |	Bpp loss: 0.0935 |
+Train epoch 7: [8000/72436 (11%)]		Loss: 1.1219 |	RD loss: 0.3025 |	MSE loss: 0.000272 |	Bpp loss: 0.0741 |
+Train epoch 7: [12000/72436 (17%)]		Loss: 0.9849 |	RD loss: 0.2691 |	MSE loss: 0.000230 |	Bpp loss: 0.0757 |
+Train epoch 7: [16000/72436 (22%)]		Loss: 1.1459 |	RD loss: 0.3970 |	MSE loss: 0.000343 |	Bpp loss: 0.1086 |
+Train epoch 7: [20000/72436 (28%)]		Loss: 1.3891 |	RD loss: 0.4164 |	MSE loss: 0.000367 |	Bpp loss: 0.1082 |
+Train epoch 7: [24000/72436 (33%)]		Loss: 0.8127 |	RD loss: 0.3354 |	MSE loss: 0.000264 |	Bpp loss: 0.1138 |
+Train epoch 7: [28000/72436 (39%)]		Loss: 0.7480 |	RD loss: 0.2081 |	MSE loss: 0.000164 |	Bpp loss: 0.0707 |
+Train epoch 7: [32000/72436 (44%)]		Loss: 0.5526 |	RD loss: 0.1725 |	MSE loss: 0.000119 |	Bpp loss: 0.0726 |
+Train epoch 7: [36000/72436 (50%)]		Loss: 1.1765 |	RD loss: 0.3095 |	MSE loss: 0.000278 |	Bpp loss: 0.0763 |
+Train epoch 7: [40000/72436 (55%)]		Loss: 0.8639 |	RD loss: 0.2092 |	MSE loss: 0.000178 |	Bpp loss: 0.0597 |
+Train epoch 7: [44000/72436 (61%)]		Loss: 1.3859 |	RD loss: 0.4089 |	MSE loss: 0.000377 |	Bpp loss: 0.0922 |
+Train epoch 7: [48000/72436 (66%)]		Loss: 0.8511 |	RD loss: 0.2214 |	MSE loss: 0.000172 |	Bpp loss: 0.0770 |
+Train epoch 7: [52000/72436 (72%)]		Loss: 1.4814 |	RD loss: 0.4071 |	MSE loss: 0.000386 |	Bpp loss: 0.0830 |
+Train epoch 7: [56000/72436 (77%)]		Loss: 1.1839 |	RD loss: 0.3171 |	MSE loss: 0.000257 |	Bpp loss: 0.1013 |
+Train epoch 7: [60000/72436 (83%)]		Loss: 1.5636 |	RD loss: 0.3581 |	MSE loss: 0.000341 |	Bpp loss: 0.0715 |
+Train epoch 7: [64000/72436 (88%)]		Loss: 1.6855 |	RD loss: 0.5475 |	MSE loss: 0.000520 |	Bpp loss: 0.1106 |
+Train epoch 7: [68000/72436 (94%)]		Loss: 1.4686 |	RD loss: 0.3932 |	MSE loss: 0.000377 |	Bpp loss: 0.0761 |
+Train epoch 7: [72000/72436 (99%)]		Loss: 0.5493 |	RD loss: 0.1998 |	MSE loss: 0.000135 |	Bpp loss: 0.0860 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.76748100459034, BPP=0.029460877180099487
+Result of sequence Beauty: PSNR=36.5660, BPP=0.1293
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.715137801266486, BPP=0.00993342511355877
+Result of sequence HoneyBee: PSNR=39.4066, BPP=0.1324
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.61874905447951, BPP=0.01888425275683403
+Result of sequence ReadySteadyGo: PSNR=38.5098, BPP=0.2390
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.944214966081525, BPP=0.04563247784972191
+Result of sequence YachtRide: PSNR=39.7833, BPP=0.1609
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.02621594130101, BPP=0.010723896324634552
+Result of sequence Bosphorus: PSNR=40.8588, BPP=0.1230
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.47329861633642, BPP=0.05997293069958687
+Result of sequence Jockey: PSNR=39.6682, BPP=0.1351
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.88211969637235, BPP=0.07493744045495987
+Result of sequence ShakeNDry: PSNR=37.6110, BPP=0.2422
+Test epoch 7:	Loss: 0.2838 |	PSNR: 38.9148 |	MSE loss: 0.000140 |	Bpp loss: 0.1660 |
+Epoch: 7, loss: (now:0.2838)/(best:0.2838), training time: 5799.61s, testing time: 4.33s
+
+Learning rate: 0.0001
+Train epoch 8: [0/72436 (0%)]		Loss: 1.1243 |	RD loss: 0.2819 |	MSE loss: 0.000247 |	Bpp loss: 0.0746 |
+Train epoch 8: [4000/72436 (6%)]		Loss: 1.0404 |	RD loss: 0.2909 |	MSE loss: 0.000265 |	Bpp loss: 0.0683 |
+Train epoch 8: [8000/72436 (11%)]		Loss: 1.1915 |	RD loss: 0.2995 |	MSE loss: 0.000267 |	Bpp loss: 0.0753 |
+Train epoch 8: [12000/72436 (17%)]		Loss: 0.9789 |	RD loss: 0.2459 |	MSE loss: 0.000213 |	Bpp loss: 0.0672 |
+Train epoch 8: [16000/72436 (22%)]		Loss: 1.1245 |	RD loss: 0.3155 |	MSE loss: 0.000280 |	Bpp loss: 0.0804 |
+Train epoch 8: [20000/72436 (28%)]		Loss: 1.1357 |	RD loss: 0.3626 |	MSE loss: 0.000322 |	Bpp loss: 0.0923 |
+Train epoch 8: [24000/72436 (33%)]		Loss: 1.0374 |	RD loss: 0.2948 |	MSE loss: 0.000238 |	Bpp loss: 0.0951 |
+Train epoch 8: [28000/72436 (39%)]		Loss: 0.6188 |	RD loss: 0.1593 |	MSE loss: 0.000112 |	Bpp loss: 0.0653 |
+Train epoch 8: [32000/72436 (44%)]		Loss: 1.2079 |	RD loss: 0.3459 |	MSE loss: 0.000303 |	Bpp loss: 0.0917 |
+Train epoch 8: [36000/72436 (50%)]		Loss: 1.4535 |	RD loss: 0.6198 |	MSE loss: 0.000628 |	Bpp loss: 0.0925 |
+Train epoch 8: [40000/72436 (55%)]		Loss: 0.6621 |	RD loss: 0.1751 |	MSE loss: 0.000135 |	Bpp loss: 0.0618 |
+Train epoch 8: [44000/72436 (61%)]		Loss: 1.0387 |	RD loss: 0.3325 |	MSE loss: 0.000293 |	Bpp loss: 0.0860 |
+Train epoch 8: [48000/72436 (66%)]		Loss: 0.7436 |	RD loss: 0.1874 |	MSE loss: 0.000142 |	Bpp loss: 0.0682 |
+Train epoch 8: [52000/72436 (72%)]		Loss: 1.4576 |	RD loss: 0.3988 |	MSE loss: 0.000375 |	Bpp loss: 0.0836 |
+Train epoch 8: [56000/72436 (77%)]		Loss: 0.9207 |	RD loss: 0.2862 |	MSE loss: 0.000227 |	Bpp loss: 0.0957 |
+Train epoch 8: [60000/72436 (83%)]		Loss: 0.8639 |	RD loss: 0.2814 |	MSE loss: 0.000234 |	Bpp loss: 0.0848 |
+Train epoch 8: [64000/72436 (88%)]		Loss: 0.9380 |	RD loss: 0.2826 |	MSE loss: 0.000238 |	Bpp loss: 0.0825 |
+Train epoch 8: [68000/72436 (94%)]		Loss: 0.6652 |	RD loss: 0.2621 |	MSE loss: 0.000203 |	Bpp loss: 0.0919 |
+Train epoch 8: [72000/72436 (99%)]		Loss: 0.9158 |	RD loss: 0.2812 |	MSE loss: 0.000251 |	Bpp loss: 0.0704 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.816887443455094, BPP=0.029063617810606956
+Result of sequence Beauty: PSNR=36.5907, BPP=0.1291
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.6862659650375, BPP=0.011161026544868946
+Result of sequence HoneyBee: PSNR=39.3922, BPP=0.1330
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.66000181855342, BPP=0.020212534815073013
+Result of sequence ReadySteadyGo: PSNR=38.5304, BPP=0.2397
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.6605767016091, BPP=0.04297284781932831
+Result of sequence YachtRide: PSNR=39.6415, BPP=0.1595
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=39.523414175980946, BPP=0.01079430989921093
+Result of sequence Bosphorus: PSNR=40.6074, BPP=0.1230
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=37.65690856548358, BPP=0.07685719430446625
+Result of sequence Jockey: PSNR=39.2600, BPP=0.1436
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.86691268084968, BPP=0.07416978478431702
+Result of sequence ShakeNDry: PSNR=37.6034, BPP=0.2418
+Test epoch 8:	Loss: 0.2879 |	PSNR: 38.8037 |	MSE loss: 0.000144 |	Bpp loss: 0.1671 |
+Epoch: 8, loss: (now:0.2879)/(best:0.2838), training time: 5794.63s, testing time: 4.60s
+
+Learning rate: 0.0001
+Train epoch 9: [0/72436 (0%)]		Loss: 1.2641 |	RD loss: 0.3287 |	MSE loss: 0.000310 |	Bpp loss: 0.0681 |
+Train epoch 9: [4000/72436 (6%)]		Loss: 0.5980 |	RD loss: 0.1752 |	MSE loss: 0.000131 |	Bpp loss: 0.0650 |
+Train epoch 9: [8000/72436 (11%)]		Loss: 1.2211 |	RD loss: 0.4652 |	MSE loss: 0.000429 |	Bpp loss: 0.1047 |
+Train epoch 9: [12000/72436 (17%)]		Loss: 1.0938 |	RD loss: 0.2264 |	MSE loss: 0.000196 |	Bpp loss: 0.0613 |
+Train epoch 9: [16000/72436 (22%)]		Loss: 1.3309 |	RD loss: 0.3678 |	MSE loss: 0.000332 |	Bpp loss: 0.0890 |
+Train epoch 9: [20000/72436 (28%)]		Loss: 1.1087 |	RD loss: 0.3448 |	MSE loss: 0.000294 |	Bpp loss: 0.0980 |
+Train epoch 9: [24000/72436 (33%)]		Loss: 1.0463 |	RD loss: 0.2695 |	MSE loss: 0.000238 |	Bpp loss: 0.0699 |
+Train epoch 9: [28000/72436 (39%)]		Loss: 0.8674 |	RD loss: 0.2480 |	MSE loss: 0.000207 |	Bpp loss: 0.0738 |
+Train epoch 9: [32000/72436 (44%)]		Loss: 0.9516 |	RD loss: 0.3200 |	MSE loss: 0.000270 |	Bpp loss: 0.0930 |
+Train epoch 9: [36000/72436 (50%)]		Loss: 0.6863 |	RD loss: 0.1788 |	MSE loss: 0.000137 |	Bpp loss: 0.0638 |
+Train epoch 9: [40000/72436 (55%)]		Loss: 0.7314 |	RD loss: 0.2843 |	MSE loss: 0.000251 |	Bpp loss: 0.0734 |
+Train epoch 9: [44000/72436 (61%)]		Loss: 1.0678 |	RD loss: 0.3353 |	MSE loss: 0.000279 |	Bpp loss: 0.1008 |
+Train epoch 9: [48000/72436 (66%)]		Loss: 1.2307 |	RD loss: 0.3661 |	MSE loss: 0.000324 |	Bpp loss: 0.0942 |
+Train epoch 9: [52000/72436 (72%)]		Loss: 1.2610 |	RD loss: 0.3665 |	MSE loss: 0.000315 |	Bpp loss: 0.1019 |
+Train epoch 9: [56000/72436 (77%)]		Loss: 1.1143 |	RD loss: 0.3536 |	MSE loss: 0.000308 |	Bpp loss: 0.0952 |
+Train epoch 9: [60000/72436 (83%)]		Loss: 0.7666 |	RD loss: 0.2088 |	MSE loss: 0.000169 |	Bpp loss: 0.0666 |
+Train epoch 9: [64000/72436 (88%)]		Loss: 0.6314 |	RD loss: 0.1866 |	MSE loss: 0.000140 |	Bpp loss: 0.0689 |
+Train epoch 9: [68000/72436 (94%)]		Loss: 1.5568 |	RD loss: 0.4512 |	MSE loss: 0.000419 |	Bpp loss: 0.0991 |
+Train epoch 9: [72000/72436 (99%)]		Loss: 0.5490 |	RD loss: 0.1627 |	MSE loss: 0.000113 |	Bpp loss: 0.0680 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.84204880392803, BPP=0.02756446786224842
+Result of sequence Beauty: PSNR=36.6033, BPP=0.1283
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.97051218087191, BPP=0.009074418805539608
+Result of sequence HoneyBee: PSNR=39.5343, BPP=0.1320
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.83780312417014, BPP=0.016325533390045166
+Result of sequence ReadySteadyGo: PSNR=38.6193, BPP=0.2377
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.65522648363523, BPP=0.04611813649535179
+Result of sequence YachtRide: PSNR=39.6388, BPP=0.1611
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.07363269353468, BPP=0.009698927402496338
+Result of sequence Bosphorus: PSNR=40.8826, BPP=0.1225
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.428686596940345, BPP=0.059450745582580566
+Result of sequence Jockey: PSNR=39.6459, BPP=0.1349
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.89948304602418, BPP=0.07267910242080688
+Result of sequence ShakeNDry: PSNR=37.6197, BPP=0.2411
+Test epoch 9:	Loss: 0.2826 |	PSNR: 38.9349 |	MSE loss: 0.000140 |	Bpp loss: 0.1654 |
+Epoch: 9, loss: (now:0.2826)/(best:0.2826), training time: 5787.67s, testing time: 4.51s
+
+Learning rate: 0.0001
+Train epoch 10: [0/72436 (0%)]		Loss: 0.8079 |	RD loss: 0.2249 |	MSE loss: 0.000177 |	Bpp loss: 0.0765 |
+Train epoch 10: [4000/72436 (6%)]		Loss: 1.1024 |	RD loss: 0.3331 |	MSE loss: 0.000286 |	Bpp loss: 0.0928 |
+Train epoch 10: [8000/72436 (11%)]		Loss: 1.3472 |	RD loss: 0.2940 |	MSE loss: 0.000257 |	Bpp loss: 0.0779 |
+Train epoch 10: [12000/72436 (17%)]		Loss: 0.9310 |	RD loss: 0.2514 |	MSE loss: 0.000214 |	Bpp loss: 0.0718 |
+Train epoch 10: [16000/72436 (22%)]		Loss: 1.6336 |	RD loss: 0.4893 |	MSE loss: 0.000476 |	Bpp loss: 0.0897 |
+Train epoch 10: [20000/72436 (28%)]		Loss: 1.1218 |	RD loss: 0.3128 |	MSE loss: 0.000282 |	Bpp loss: 0.0757 |
+Train epoch 10: [24000/72436 (33%)]		Loss: 1.1681 |	RD loss: 0.3098 |	MSE loss: 0.000286 |	Bpp loss: 0.0698 |
+Train epoch 10: [28000/72436 (39%)]		Loss: 1.1281 |	RD loss: 0.3234 |	MSE loss: 0.000300 |	Bpp loss: 0.0710 |
+Train epoch 10: [32000/72436 (44%)]		Loss: 1.5819 |	RD loss: 0.4384 |	MSE loss: 0.000415 |	Bpp loss: 0.0894 |
+Train epoch 10: [36000/72436 (50%)]		Loss: 1.0458 |	RD loss: 0.3618 |	MSE loss: 0.000313 |	Bpp loss: 0.0986 |
+Train epoch 10: [40000/72436 (55%)]		Loss: 1.0746 |	RD loss: 0.2739 |	MSE loss: 0.000236 |	Bpp loss: 0.0757 |
+Train epoch 10: [44000/72436 (61%)]		Loss: 1.2689 |	RD loss: 0.3453 |	MSE loss: 0.000301 |	Bpp loss: 0.0921 |
+Train epoch 10: [48000/72436 (66%)]		Loss: 1.2095 |	RD loss: 0.3598 |	MSE loss: 0.000307 |	Bpp loss: 0.1023 |
+Train epoch 10: [52000/72436 (72%)]		Loss: 1.2703 |	RD loss: 0.3017 |	MSE loss: 0.000256 |	Bpp loss: 0.0871 |
+Train epoch 10: [56000/72436 (77%)]		Loss: 0.7693 |	RD loss: 0.1964 |	MSE loss: 0.000153 |	Bpp loss: 0.0682 |
+Train epoch 10: [60000/72436 (83%)]		Loss: 1.1073 |	RD loss: 0.2752 |	MSE loss: 0.000243 |	Bpp loss: 0.0707 |
+Train epoch 10: [64000/72436 (88%)]		Loss: 1.4179 |	RD loss: 0.3566 |	MSE loss: 0.000328 |	Bpp loss: 0.0814 |
+Train epoch 10: [68000/72436 (94%)]		Loss: 0.9872 |	RD loss: 0.2459 |	MSE loss: 0.000207 |	Bpp loss: 0.0716 |
+Train epoch 10: [72000/72436 (99%)]		Loss: 0.4550 |	RD loss: 0.1404 |	MSE loss: 0.000084 |	Bpp loss: 0.0699 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.84467124311766, BPP=0.028635751456022263
+Result of sequence Beauty: PSNR=36.6046, BPP=0.1289
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=39.00514180199542, BPP=0.008649507537484169
+Result of sequence HoneyBee: PSNR=39.5516, BPP=0.1318
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.86270491737946, BPP=0.01695973426103592
+Result of sequence ReadySteadyGo: PSNR=38.6318, BPP=0.2380
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=38.19593654715605, BPP=0.043255407363176346
+Result of sequence YachtRide: PSNR=39.9092, BPP=0.1597
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.051545231372565, BPP=0.01103746984153986
+Result of sequence Bosphorus: PSNR=40.8715, BPP=0.1231
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.55030519645622, BPP=0.05409989133477211
+Result of sequence Jockey: PSNR=39.7067, BPP=0.1322
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.96746598515172, BPP=0.07386844605207443
+Result of sequence ShakeNDry: PSNR=37.6537, BPP=0.2417
+Test epoch 10:	Loss: 0.2805 |	PSNR: 38.9899 |	MSE loss: 0.000137 |	Bpp loss: 0.1650 |
+Epoch: 10, loss: (now:0.2805)/(best:0.2805), training time: 5792.83s, testing time: 4.40s
+
+Learning rate: 0.0001
+Train epoch 11: [0/72436 (0%)]		Loss: 0.9257 |	RD loss: 0.2182 |	MSE loss: 0.000201 |	Bpp loss: 0.0491 |
+Train epoch 11: [4000/72436 (6%)]		Loss: 1.0272 |	RD loss: 0.3226 |	MSE loss: 0.000291 |	Bpp loss: 0.0779 |
+Train epoch 11: [8000/72436 (11%)]		Loss: 1.3717 |	RD loss: 0.4342 |	MSE loss: 0.000388 |	Bpp loss: 0.1081 |
+Train epoch 11: [12000/72436 (17%)]		Loss: 0.7894 |	RD loss: 0.2255 |	MSE loss: 0.000188 |	Bpp loss: 0.0673 |
+Train epoch 11: [16000/72436 (22%)]		Loss: 1.0840 |	RD loss: 0.2897 |	MSE loss: 0.000250 |	Bpp loss: 0.0795 |
+Train epoch 11: [20000/72436 (28%)]		Loss: 1.0709 |	RD loss: 0.3498 |	MSE loss: 0.000292 |	Bpp loss: 0.1049 |
+Train epoch 11: [24000/72436 (33%)]		Loss: 1.5635 |	RD loss: 0.4701 |	MSE loss: 0.000418 |	Bpp loss: 0.1187 |
+Train epoch 11: [28000/72436 (39%)]		Loss: 1.4868 |	RD loss: 0.4691 |	MSE loss: 0.000449 |	Bpp loss: 0.0917 |
+Train epoch 11: [32000/72436 (44%)]		Loss: 1.3061 |	RD loss: 0.3266 |	MSE loss: 0.000294 |	Bpp loss: 0.0797 |
+Train epoch 11: [36000/72436 (50%)]		Loss: 0.5964 |	RD loss: 0.1581 |	MSE loss: 0.000111 |	Bpp loss: 0.0648 |
+Train epoch 11: [40000/72436 (55%)]		Loss: 1.2034 |	RD loss: 0.3256 |	MSE loss: 0.000274 |	Bpp loss: 0.0951 |
+Train epoch 11: [44000/72436 (61%)]		Loss: 1.0203 |	RD loss: 0.2539 |	MSE loss: 0.000227 |	Bpp loss: 0.0633 |
+Train epoch 11: [48000/72436 (66%)]		Loss: 0.5070 |	RD loss: 0.1447 |	MSE loss: 0.000106 |	Bpp loss: 0.0556 |
+Train epoch 11: [52000/72436 (72%)]		Loss: 0.7570 |	RD loss: 0.1954 |	MSE loss: 0.000168 |	Bpp loss: 0.0541 |
+Train epoch 11: [56000/72436 (77%)]		Loss: 0.8973 |	RD loss: 0.2606 |	MSE loss: 0.000220 |	Bpp loss: 0.0759 |
+Train epoch 11: [60000/72436 (83%)]		Loss: 1.8599 |	RD loss: 0.7574 |	MSE loss: 0.000794 |	Bpp loss: 0.0902 |
+Train epoch 11: [64000/72436 (88%)]		Loss: 0.6896 |	RD loss: 0.1759 |	MSE loss: 0.000136 |	Bpp loss: 0.0615 |
+Train epoch 11: [68000/72436 (94%)]		Loss: 1.1694 |	RD loss: 0.3690 |	MSE loss: 0.000321 |	Bpp loss: 0.0994 |
+Train epoch 11: [72000/72436 (99%)]		Loss: 1.0558 |	RD loss: 0.2576 |	MSE loss: 0.000227 |	Bpp loss: 0.0668 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.8085221815894, BPP=0.02594180218875408
+Result of sequence Beauty: PSNR=36.5865, BPP=0.1275
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.84630614556562, BPP=0.006821740418672562
+Result of sequence HoneyBee: PSNR=39.4722, BPP=0.1309
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.85533315263918, BPP=0.01695054955780506
+Result of sequence ReadySteadyGo: PSNR=38.6281, BPP=0.2380
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=38.04832366089767, BPP=0.043660491704940796
+Result of sequence YachtRide: PSNR=39.8354, BPP=0.1599
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.028571295213396, BPP=0.00956589076668024
+Result of sequence Bosphorus: PSNR=40.8600, BPP=0.1224
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.67015769628392, BPP=0.0518069863319397
+Result of sequence Jockey: PSNR=39.7667, BPP=0.1310
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=35.9260964727181, BPP=0.07320323586463928
+Result of sequence ShakeNDry: PSNR=37.6330, BPP=0.2413
+Test epoch 11:	Loss: 0.2805 |	PSNR: 38.9689 |	MSE loss: 0.000138 |	Bpp loss: 0.1644 |
+Epoch: 11, loss: (now:0.2805)/(best:0.2805), training time: 5790.91s, testing time: 4.50s
+
+Learning rate: 0.0001
+Train epoch 12: [0/72436 (0%)]		Loss: 1.3959 |	RD loss: 0.4563 |	MSE loss: 0.000424 |	Bpp loss: 0.1003 |
+Train epoch 12: [4000/72436 (6%)]		Loss: 0.7479 |	RD loss: 0.2391 |	MSE loss: 0.000193 |	Bpp loss: 0.0768 |
+Train epoch 12: [8000/72436 (11%)]		Loss: 0.9698 |	RD loss: 0.2577 |	MSE loss: 0.000213 |	Bpp loss: 0.0786 |
+Train epoch 12: [12000/72436 (17%)]		Loss: 1.2136 |	RD loss: 0.3193 |	MSE loss: 0.000287 |	Bpp loss: 0.0782 |
+Train epoch 12: [16000/72436 (22%)]		Loss: 0.8746 |	RD loss: 0.2321 |	MSE loss: 0.000176 |	Bpp loss: 0.0844 |
+Train epoch 12: [20000/72436 (28%)]		Loss: 1.1037 |	RD loss: 0.3026 |	MSE loss: 0.000272 |	Bpp loss: 0.0739 |
+Train epoch 12: [24000/72436 (33%)]		Loss: 1.1959 |	RD loss: 0.2764 |	MSE loss: 0.000240 |	Bpp loss: 0.0744 |
+Train epoch 12: [28000/72436 (39%)]		Loss: 1.5596 |	RD loss: 0.4232 |	MSE loss: 0.000375 |	Bpp loss: 0.1079 |
+Train epoch 12: [32000/72436 (44%)]		Loss: 0.8386 |	RD loss: 0.2358 |	MSE loss: 0.000188 |	Bpp loss: 0.0780 |
+Train epoch 12: [36000/72436 (50%)]		Loss: 0.9671 |	RD loss: 0.2418 |	MSE loss: 0.000216 |	Bpp loss: 0.0600 |
+Train epoch 12: [40000/72436 (55%)]		Loss: 0.9158 |	RD loss: 0.2812 |	MSE loss: 0.000224 |	Bpp loss: 0.0927 |
+Train epoch 12: [44000/72436 (61%)]		Loss: 0.8016 |	RD loss: 0.2290 |	MSE loss: 0.000196 |	Bpp loss: 0.0639 |
+Train epoch 12: [48000/72436 (66%)]		Loss: 0.7503 |	RD loss: 0.2085 |	MSE loss: 0.000178 |	Bpp loss: 0.0587 |
+Train epoch 12: [52000/72436 (72%)]		Loss: 1.0216 |	RD loss: 0.2923 |	MSE loss: 0.000245 |	Bpp loss: 0.0863 |
+Train epoch 12: [56000/72436 (77%)]		Loss: 0.7496 |	RD loss: 0.1932 |	MSE loss: 0.000148 |	Bpp loss: 0.0693 |
+Train epoch 12: [60000/72436 (83%)]		Loss: 1.1484 |	RD loss: 0.3017 |	MSE loss: 0.000248 |	Bpp loss: 0.0934 |
+Train epoch 12: [64000/72436 (88%)]		Loss: 1.0049 |	RD loss: 0.2685 |	MSE loss: 0.000197 |	Bpp loss: 0.1029 |
+Train epoch 12: [68000/72436 (94%)]		Loss: 1.2420 |	RD loss: 0.3183 |	MSE loss: 0.000276 |	Bpp loss: 0.0866 |
+Train epoch 12: [72000/72436 (99%)]		Loss: 0.9781 |	RD loss: 0.2735 |	MSE loss: 0.000222 |	Bpp loss: 0.0866 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.886562734878645, BPP=0.03163880482316017
+Result of sequence Beauty: PSNR=36.6256, BPP=0.1304
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=38.7281752589878, BPP=0.012749919667840004
+Result of sequence HoneyBee: PSNR=39.4132, BPP=0.1338
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.881116511806795, BPP=0.01856980472803116
+Result of sequence ReadySteadyGo: PSNR=38.6410, BPP=0.2388
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=37.982390941358915, BPP=0.045409634709358215
+Result of sequence YachtRide: PSNR=39.8024, BPP=0.1607
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.04344358842971, BPP=0.01220368966460228
+Result of sequence Bosphorus: PSNR=40.8675, BPP=0.1237
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.71150380442761, BPP=0.04788637533783913
+Result of sequence Jockey: PSNR=39.7873, BPP=0.1291
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=36.01677714259336, BPP=0.07674018293619156
+Result of sequence ShakeNDry: PSNR=37.6784, BPP=0.2431
+Test epoch 12:	Loss: 0.2814 |	PSNR: 38.9736 |	MSE loss: 0.000138 |	Bpp loss: 0.1657 |
+Epoch: 12, loss: (now:0.2814)/(best:0.2805), training time: 5790.67s, testing time: 4.51s
+
+Learning rate: 0.0001
+Train epoch 13: [0/72436 (0%)]		Loss: 0.6529 |	RD loss: 0.1927 |	MSE loss: 0.000157 |	Bpp loss: 0.0605 |
+Train epoch 13: [4000/72436 (6%)]		Loss: 0.6504 |	RD loss: 0.1770 |	MSE loss: 0.000125 |	Bpp loss: 0.0723 |
+Train epoch 13: [8000/72436 (11%)]		Loss: 0.7188 |	RD loss: 0.2040 |	MSE loss: 0.000145 |	Bpp loss: 0.0819 |
+Train epoch 13: [12000/72436 (17%)]		Loss: 1.8278 |	RD loss: 0.4378 |	MSE loss: 0.000417 |	Bpp loss: 0.0874 |
+Train epoch 13: [16000/72436 (22%)]		Loss: 1.4138 |	RD loss: 0.4289 |	MSE loss: 0.000396 |	Bpp loss: 0.0960 |
+Train epoch 13: [20000/72436 (28%)]		Loss: 0.7625 |	RD loss: 0.2756 |	MSE loss: 0.000246 |	Bpp loss: 0.0687 |
+Train epoch 13: [24000/72436 (33%)]		Loss: 0.7470 |	RD loss: 0.2322 |	MSE loss: 0.000176 |	Bpp loss: 0.0844 |
+Train epoch 13: [28000/72436 (39%)]		Loss: 0.5949 |	RD loss: 0.1401 |	MSE loss: 0.000096 |	Bpp loss: 0.0596 |
+Train epoch 13: [32000/72436 (44%)]		Loss: 1.4821 |	RD loss: 0.4045 |	MSE loss: 0.000372 |	Bpp loss: 0.0922 |
+Train epoch 13: [36000/72436 (50%)]		Loss: 1.0567 |	RD loss: 0.3194 |	MSE loss: 0.000274 |	Bpp loss: 0.0896 |
+Train epoch 13: [40000/72436 (55%)]		Loss: 1.7707 |	RD loss: 0.4707 |	MSE loss: 0.000448 |	Bpp loss: 0.0942 |
+Train epoch 13: [44000/72436 (61%)]		Loss: 0.8013 |	RD loss: 0.2185 |	MSE loss: 0.000187 |	Bpp loss: 0.0618 |
+Train epoch 13: [48000/72436 (66%)]		Loss: 1.0096 |	RD loss: 0.2705 |	MSE loss: 0.000238 |	Bpp loss: 0.0703 |
+Train epoch 13: [52000/72436 (72%)]		Loss: 1.3202 |	RD loss: 0.3086 |	MSE loss: 0.000270 |	Bpp loss: 0.0814 |
+Train epoch 13: [56000/72436 (77%)]		Loss: 0.9409 |	RD loss: 0.2394 |	MSE loss: 0.000202 |	Bpp loss: 0.0695 |
+Train epoch 13: [60000/72436 (83%)]		Loss: 1.0449 |	RD loss: 0.2997 |	MSE loss: 0.000258 |	Bpp loss: 0.0828 |
+Train epoch 13: [64000/72436 (88%)]		Loss: 1.2546 |	RD loss: 0.3626 |	MSE loss: 0.000308 |	Bpp loss: 0.1040 |
+Train epoch 13: [68000/72436 (94%)]		Loss: 0.5857 |	RD loss: 0.1267 |	MSE loss: 0.000108 |	Bpp loss: 0.0361 |
+Train epoch 13: [72000/72436 (99%)]		Loss: 1.0848 |	RD loss: 0.2520 |	MSE loss: 0.000215 |	Bpp loss: 0.0714 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.87777072650886, BPP=0.029324419796466827
+Result of sequence Beauty: PSNR=36.6212, BPP=0.1292
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=39.008302267379584, BPP=0.007823282852768898
+Result of sequence HoneyBee: PSNR=39.5532, BPP=0.1314
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=37.97706300435842, BPP=0.016371073201298714
+Result of sequence ReadySteadyGo: PSNR=38.6890, BPP=0.2377
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=38.41009520044403, BPP=0.041508059948682785
+Result of sequence YachtRide: PSNR=40.0163, BPP=0.1588
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.35123806076776, BPP=0.009152466431260109
+Result of sequence Bosphorus: PSNR=41.0214, BPP=0.1222
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=39.001075195457894, BPP=0.04406501725316048
+Result of sequence Jockey: PSNR=39.9321, BPP=0.1272
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=36.098780655332725, BPP=0.07504519820213318
+Result of sequence ShakeNDry: PSNR=37.7194, BPP=0.2422
+Test epoch 13:	Loss: 0.2770 |	PSNR: 39.0789 |	MSE loss: 0.000134 |	Bpp loss: 0.1641 |
+Epoch: 13, loss: (now:0.2770)/(best:0.2770), training time: 5851.66s, testing time: 4.72s
+
+Learning rate: 0.0001
+Train epoch 14: [0/72436 (0%)]		Loss: 0.4524 |	RD loss: 0.1359 |	MSE loss: 0.000089 |	Bpp loss: 0.0612 |
+Train epoch 14: [4000/72436 (6%)]		Loss: 0.9657 |	RD loss: 0.2457 |	MSE loss: 0.000207 |	Bpp loss: 0.0721 |
+Train epoch 14: [8000/72436 (11%)]		Loss: 1.1929 |	RD loss: 0.3172 |	MSE loss: 0.000278 |	Bpp loss: 0.0836 |
+Train epoch 14: [12000/72436 (17%)]		Loss: 0.9006 |	RD loss: 0.2764 |	MSE loss: 0.000243 |	Bpp loss: 0.0720 |
+Train epoch 14: [16000/72436 (22%)]		Loss: 1.3407 |	RD loss: 0.3613 |	MSE loss: 0.000341 |	Bpp loss: 0.0750 |
+Train epoch 14: [20000/72436 (28%)]		Loss: 0.8874 |	RD loss: 0.3022 |	MSE loss: 0.000234 |	Bpp loss: 0.1059 |
+Train epoch 14: [24000/72436 (33%)]		Loss: 1.2857 |	RD loss: 0.3577 |	MSE loss: 0.000310 |	Bpp loss: 0.0976 |
+Train epoch 14: [28000/72436 (39%)]		Loss: 1.3097 |	RD loss: 0.3491 |	MSE loss: 0.000304 |	Bpp loss: 0.0937 |
+Train epoch 14: [32000/72436 (44%)]		Loss: 0.6462 |	RD loss: 0.1608 |	MSE loss: 0.000117 |	Bpp loss: 0.0622 |
+Train epoch 14: [36000/72436 (50%)]		Loss: 1.6907 |	RD loss: 0.5509 |	MSE loss: 0.000524 |	Bpp loss: 0.1106 |
+Train epoch 14: [40000/72436 (55%)]		Loss: 0.8272 |	RD loss: 0.1893 |	MSE loss: 0.000151 |	Bpp loss: 0.0622 |
+Train epoch 14: [44000/72436 (61%)]		Loss: 1.1467 |	RD loss: 0.3021 |	MSE loss: 0.000263 |	Bpp loss: 0.0810 |
+Train epoch 14: [48000/72436 (66%)]		Loss: 0.3954 |	RD loss: 0.1268 |	MSE loss: 0.000078 |	Bpp loss: 0.0613 |
+Train epoch 14: [52000/72436 (72%)]		Loss: 1.1820 |	RD loss: 0.2964 |	MSE loss: 0.000252 |	Bpp loss: 0.0843 |
+Train epoch 14: [56000/72436 (77%)]		Loss: 0.6129 |	RD loss: 0.2187 |	MSE loss: 0.000153 |	Bpp loss: 0.0898 |
+Train epoch 14: [60000/72436 (83%)]		Loss: 1.2473 |	RD loss: 0.3023 |	MSE loss: 0.000270 |	Bpp loss: 0.0757 |
+Train epoch 14: [64000/72436 (88%)]		Loss: 1.3140 |	RD loss: 0.4250 |	MSE loss: 0.000402 |	Bpp loss: 0.0869 |
+Train epoch 14: [68000/72436 (94%)]		Loss: 1.3800 |	RD loss: 0.4946 |	MSE loss: 0.000471 |	Bpp loss: 0.0989 |
+Train epoch 14: [72000/72436 (99%)]		Loss: 1.4145 |	RD loss: 0.4004 |	MSE loss: 0.000376 |	Bpp loss: 0.0849 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=37.3645744655852, BPP=0.22910535335540771
+Frame 2: PSNR=35.902621591531705, BPP=0.02778002619743347
+Result of sequence Beauty: PSNR=36.6336, BPP=0.1284
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=40.09814988570079, BPP=0.25491490960121155
+Frame 2: PSNR=39.0316581078056, BPP=0.00738104060292244
+Result of sequence HoneyBee: PSNR=39.5649, BPP=0.1311
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=39.40083927575296, BPP=0.4591253399848938
+Frame 2: PSNR=38.05150861524156, BPP=0.014816361479461193
+Result of sequence ReadySteadyGo: PSNR=38.7262, BPP=0.2370
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=41.62246800081016, BPP=0.2760675549507141
+Frame 2: PSNR=38.39869572348407, BPP=0.04004383087158203
+Result of sequence YachtRide: PSNR=40.0106, BPP=0.1581
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=41.691484034056934, BPP=0.23523439466953278
+Frame 2: PSNR=40.24175407092581, BPP=0.00928095169365406
+Result of sequence Bosphorus: PSNR=40.9666, BPP=0.1223
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=40.86318158767736, BPP=0.21028828620910645
+Frame 2: PSNR=38.80480647508044, BPP=0.047178782522678375
+Result of sequence Jockey: PSNR=39.8340, BPP=0.1287
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=39.33992544116799, BPP=0.4094463288784027
+Frame 2: PSNR=36.128977511816174, BPP=0.0744304284453392
+Result of sequence ShakeNDry: PSNR=37.7345, BPP=0.2419
+Test epoch 14:	Loss: 0.2770 |	PSNR: 39.0672 |	MSE loss: 0.000135 |	Bpp loss: 0.1639 |
+Epoch: 14, loss: (now:0.2770)/(best:0.2770), training time: 5937.04s, testing time: 4.51s
+
+Learning rate: 0.0001
+Train epoch 15: [0/72436 (0%)]		Loss: 0.4744 |	RD loss: 0.1296 |	MSE loss: 0.000092 |	Bpp loss: 0.0525 |
+Training dataset find sequences: 72436
+Testing dataset contain 7 folders, 2 frames / folder
+Freeze image model...
+Freeze flownet...
+Loading pretrained image model:  checkpoints/cp_image_model_7.pth.tar
+Training dataset find sequences: 72436
+Testing dataset contain 7 folders, 2 frames / folder
+Freeze image model...
+Freeze flownet...
+Loading pretrained image model:  checkpoints/cp_image_model_7.pth.tar
+Learning rate: 0.0001
+Training dataset find sequences: 72436
+Testing dataset contain 7 folders, 2 frames / folder
+Freeze image model...
+Freeze flownet...
+Loading pretrained image model:  checkpoints/cp_image_model_7.pth.tar
+Learning rate: 0.0001
+Train epoch 0: [0/72436 (0%)]		Loss: 472.8229 |	RD loss: 472.8229 |	MSE loss: 0.228986 |	Bpp loss: 3.8586 |
+Train epoch 0: [4000/72436 (6%)]		Loss: 7.5147 |	RD loss: 7.5147 |	MSE loss: 0.003249 |	Bpp loss: 0.8607 |
+Train epoch 0: [8000/72436 (11%)]		Loss: 2.9434 |	RD loss: 2.9434 |	MSE loss: 0.001153 |	Bpp loss: 0.5814 |
+Train epoch 0: [12000/72436 (17%)]		Loss: 4.1614 |	RD loss: 4.1614 |	MSE loss: 0.001739 |	Bpp loss: 0.5994 |
+Train epoch 0: [16000/72436 (22%)]		Loss: 2.8225 |	RD loss: 2.8225 |	MSE loss: 0.001167 |	Bpp loss: 0.4332 |
+Train epoch 0: [20000/72436 (28%)]		Loss: 6.7441 |	RD loss: 6.7441 |	MSE loss: 0.003059 |	Bpp loss: 0.4795 |
+Train epoch 0: [24000/72436 (33%)]		Loss: 5.4026 |	RD loss: 5.4026 |	MSE loss: 0.002412 |	Bpp loss: 0.4627 |
+Train epoch 0: [28000/72436 (39%)]		Loss: 4.0347 |	RD loss: 4.0347 |	MSE loss: 0.001760 |	Bpp loss: 0.4312 |
+Train epoch 0: [32000/72436 (44%)]		Loss: 2.6213 |	RD loss: 2.6213 |	MSE loss: 0.001121 |	Bpp loss: 0.3245 |
+Train epoch 0: [36000/72436 (50%)]		Loss: 1.4467 |	RD loss: 1.4467 |	MSE loss: 0.000577 |	Bpp loss: 0.2649 |
+Train epoch 0: [40000/72436 (55%)]		Loss: 2.4701 |	RD loss: 2.4701 |	MSE loss: 0.001032 |	Bpp loss: 0.3559 |
+Train epoch 0: [44000/72436 (61%)]		Loss: 1.6088 |	RD loss: 1.6088 |	MSE loss: 0.000636 |	Bpp loss: 0.3066 |
+Train epoch 0: [48000/72436 (66%)]		Loss: 2.1236 |	RD loss: 2.1236 |	MSE loss: 0.000906 |	Bpp loss: 0.2685 |
+Train epoch 0: [52000/72436 (72%)]		Loss: 2.6218 |	RD loss: 2.6218 |	MSE loss: 0.001145 |	Bpp loss: 0.2769 |
+Train epoch 0: [56000/72436 (77%)]		Loss: 2.1926 |	RD loss: 2.1926 |	MSE loss: 0.000940 |	Bpp loss: 0.2669 |
+Train epoch 0: [60000/72436 (83%)]		Loss: 1.1741 |	RD loss: 1.1741 |	MSE loss: 0.000442 |	Bpp loss: 0.2685 |
+Train epoch 0: [64000/72436 (88%)]		Loss: 1.1275 |	RD loss: 1.1275 |	MSE loss: 0.000430 |	Bpp loss: 0.2470 |
+Train epoch 0: [68000/72436 (94%)]		Loss: 0.8349 |	RD loss: 0.8349 |	MSE loss: 0.000327 |	Bpp loss: 0.1658 |
+Train epoch 0: [72000/72436 (99%)]		Loss: 2.7596 |	RD loss: 2.7596 |	MSE loss: 0.001199 |	Bpp loss: 0.3049 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=35.5585070172708, BPP=0.0906979963183403
+Result of sequence Beauty: PSNR=37.1795, BPP=0.2901
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=38.22843579639605, BPP=0.06521742045879364
+Result of sequence HoneyBee: PSNR=39.7295, BPP=0.1979
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=36.40552743663497, BPP=0.0909990668296814
+Result of sequence ReadySteadyGo: PSNR=38.8383, BPP=0.3392
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=35.914084901911714, BPP=0.10508022457361221
+Result of sequence YachtRide: PSNR=39.5796, BPP=0.2269
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=39.2643988685506, BPP=0.05433397367596626
+Result of sequence Bosphorus: PSNR=41.2179, BPP=0.1844
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=37.617249634322995, BPP=0.1320621371269226
+Result of sequence Jockey: PSNR=39.7983, BPP=0.2057
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=35.531203890595535, BPP=0.126124307513237
+Result of sequence ShakeNDry: PSNR=38.1670, BPP=0.3356
+Test epoch 0:	Loss: 0.5481 |	PSNR: 39.2157 |	MSE loss: 0.000143 |	Bpp loss: 0.2543 |
+Epoch: 0, loss: (now:0.5481)/(best:0.5481), training time: 6823.36s, testing time: 5.66s
+
+Learning rate: 0.0001
+Train epoch 1: [0/72436 (0%)]		Loss: 1.9350 |	RD loss: 1.9350 |	MSE loss: 0.000803 |	Bpp loss: 0.2897 |
+Train epoch 1: [4000/72436 (6%)]		Loss: 1.1324 |	RD loss: 1.1324 |	MSE loss: 0.000436 |	Bpp loss: 0.2389 |
+Train epoch 1: [8000/72436 (11%)]		Loss: 1.2206 |	RD loss: 1.2206 |	MSE loss: 0.000474 |	Bpp loss: 0.2497 |
+Train epoch 1: [12000/72436 (17%)]		Loss: 1.0345 |	RD loss: 1.0345 |	MSE loss: 0.000372 |	Bpp loss: 0.2716 |
+Train epoch 1: [16000/72436 (22%)]		Loss: 1.7372 |	RD loss: 1.7372 |	MSE loss: 0.000711 |	Bpp loss: 0.2818 |
+Train epoch 1: [20000/72436 (28%)]		Loss: 2.9501 |	RD loss: 2.9501 |	MSE loss: 0.001293 |	Bpp loss: 0.3026 |
+Train epoch 1: [24000/72436 (33%)]		Loss: 1.5360 |	RD loss: 1.5360 |	MSE loss: 0.000624 |	Bpp loss: 0.2584 |
+Train epoch 1: [28000/72436 (39%)]		Loss: 0.9949 |	RD loss: 0.9949 |	MSE loss: 0.000366 |	Bpp loss: 0.2450 |
+Train epoch 1: [32000/72436 (44%)]		Loss: 1.0521 |	RD loss: 1.0521 |	MSE loss: 0.000407 |	Bpp loss: 0.2178 |
+Train epoch 1: [36000/72436 (50%)]		Loss: 1.2490 |	RD loss: 1.2490 |	MSE loss: 0.000496 |	Bpp loss: 0.2332 |
+Train epoch 1: [40000/72436 (55%)]		Loss: 1.3734 |	RD loss: 1.3734 |	MSE loss: 0.000547 |	Bpp loss: 0.2524 |
+Train epoch 1: [44000/72436 (61%)]		Loss: 1.2999 |	RD loss: 1.2999 |	MSE loss: 0.000521 |	Bpp loss: 0.2338 |
+Train epoch 1: [48000/72436 (66%)]		Loss: 1.3608 |	RD loss: 1.3608 |	MSE loss: 0.000512 |	Bpp loss: 0.3121 |
+Train epoch 1: [52000/72436 (72%)]		Loss: 1.6348 |	RD loss: 1.6348 |	MSE loss: 0.000665 |	Bpp loss: 0.2732 |
+Train epoch 1: [56000/72436 (77%)]		Loss: 1.0556 |	RD loss: 1.0556 |	MSE loss: 0.000396 |	Bpp loss: 0.2444 |
+Train epoch 1: [60000/72436 (83%)]		Loss: 2.0090 |	RD loss: 2.0090 |	MSE loss: 0.000863 |	Bpp loss: 0.2425 |
+Train epoch 1: [64000/72436 (88%)]		Loss: 0.6782 |	RD loss: 0.6782 |	MSE loss: 0.000218 |	Bpp loss: 0.2324 |
+Train epoch 1: [68000/72436 (94%)]		Loss: 1.4415 |	RD loss: 1.4415 |	MSE loss: 0.000584 |	Bpp loss: 0.2453 |
+Train epoch 1: [72000/72436 (99%)]		Loss: 1.0137 |	RD loss: 1.0137 |	MSE loss: 0.000383 |	Bpp loss: 0.2300 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=35.91120575995192, BPP=0.0835326686501503
+Result of sequence Beauty: PSNR=37.3559, BPP=0.2866
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=38.52603658805422, BPP=0.0536382794380188
+Result of sequence HoneyBee: PSNR=39.8783, BPP=0.1921
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=37.03295341205184, BPP=0.08305414766073227
+Result of sequence ReadySteadyGo: PSNR=39.1520, BPP=0.3352
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=36.85866760265375, BPP=0.09335799515247345
+Result of sequence YachtRide: PSNR=40.0519, BPP=0.2210
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=39.619827961206106, BPP=0.052481260150671005
+Result of sequence Bosphorus: PSNR=41.3956, BPP=0.1835
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=39.21943382863177, BPP=0.08845686912536621
+Result of sequence Jockey: PSNR=40.5994, BPP=0.1839
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=35.87247512515441, BPP=0.12543153762817383
+Result of sequence ShakeNDry: PSNR=38.3377, BPP=0.3352
+Test epoch 1:	Loss: 0.5133 |	PSNR: 39.5387 |	MSE loss: 0.000129 |	Bpp loss: 0.2482 |
+Epoch: 1, loss: (now:0.5133)/(best:0.5133), training time: 6383.85s, testing time: 5.78s
+
+Learning rate: 0.0001
+Train epoch 2: [0/72436 (0%)]		Loss: 1.6567 |	RD loss: 1.6567 |	MSE loss: 0.000670 |	Bpp loss: 0.2845 |
+Train epoch 2: [4000/72436 (6%)]		Loss: 0.9478 |	RD loss: 0.9478 |	MSE loss: 0.000326 |	Bpp loss: 0.2799 |
+Train epoch 2: [8000/72436 (11%)]		Loss: 2.6264 |	RD loss: 2.6264 |	MSE loss: 0.001160 |	Bpp loss: 0.2513 |
+Train epoch 2: [12000/72436 (17%)]		Loss: 2.7864 |	RD loss: 2.7864 |	MSE loss: 0.001240 |	Bpp loss: 0.2474 |
+Train epoch 2: [16000/72436 (22%)]		Loss: 1.7762 |	RD loss: 1.7762 |	MSE loss: 0.000747 |	Bpp loss: 0.2457 |
+Train epoch 2: [20000/72436 (28%)]		Loss: 0.9432 |	RD loss: 0.9432 |	MSE loss: 0.000353 |	Bpp loss: 0.2207 |
+Train epoch 2: [24000/72436 (33%)]		Loss: 1.0925 |	RD loss: 1.0925 |	MSE loss: 0.000423 |	Bpp loss: 0.2255 |
+Train epoch 2: [28000/72436 (39%)]		Loss: 1.0030 |	RD loss: 1.0030 |	MSE loss: 0.000384 |	Bpp loss: 0.2159 |
+Train epoch 2: [32000/72436 (44%)]		Loss: 1.4088 |	RD loss: 1.4088 |	MSE loss: 0.000569 |	Bpp loss: 0.2439 |
+Train epoch 2: [36000/72436 (50%)]		Loss: 0.8700 |	RD loss: 0.8700 |	MSE loss: 0.000328 |	Bpp loss: 0.1973 |
+Train epoch 2: [40000/72436 (55%)]		Loss: 2.1848 |	RD loss: 2.1848 |	MSE loss: 0.000949 |	Bpp loss: 0.2412 |
+Train epoch 2: [44000/72436 (61%)]		Loss: 0.8710 |	RD loss: 0.8710 |	MSE loss: 0.000317 |	Bpp loss: 0.2221 |
+Train epoch 2: [48000/72436 (66%)]		Loss: 0.6002 |	RD loss: 0.6002 |	MSE loss: 0.000204 |	Bpp loss: 0.1828 |
+Train epoch 2: [52000/72436 (72%)]		Loss: 1.8795 |	RD loss: 1.8795 |	MSE loss: 0.000801 |	Bpp loss: 0.2382 |
+Train epoch 2: [56000/72436 (77%)]		Loss: 0.7095 |	RD loss: 0.7095 |	MSE loss: 0.000244 |	Bpp loss: 0.2099 |
+Train epoch 2: [60000/72436 (83%)]		Loss: 0.7509 |	RD loss: 0.7509 |	MSE loss: 0.000264 |	Bpp loss: 0.2099 |
+Train epoch 2: [64000/72436 (88%)]		Loss: 1.0323 |	RD loss: 1.0323 |	MSE loss: 0.000381 |	Bpp loss: 0.2512 |
+Train epoch 2: [68000/72436 (94%)]		Loss: 0.7511 |	RD loss: 0.7511 |	MSE loss: 0.000274 |	Bpp loss: 0.1897 |
+Train epoch 2: [72000/72436 (99%)]		Loss: 1.7836 |	RD loss: 1.7836 |	MSE loss: 0.000738 |	Bpp loss: 0.2728 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.234744930988235, BPP=0.08154666423797607
+Result of sequence Beauty: PSNR=37.5176, BPP=0.2856
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.17435314457689, BPP=0.05081519857048988
+Result of sequence HoneyBee: PSNR=40.2025, BPP=0.1907
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=37.79067583276327, BPP=0.0763067901134491
+Result of sequence ReadySteadyGo: PSNR=39.5309, BPP=0.3319
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=37.50029997849677, BPP=0.09163395315408707
+Result of sequence YachtRide: PSNR=40.3727, BPP=0.2202
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=39.87321573072661, BPP=0.04310785233974457
+Result of sequence Bosphorus: PSNR=41.5223, BPP=0.1788
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=39.627791456303754, BPP=0.07906394451856613
+Result of sequence Jockey: PSNR=40.8036, BPP=0.1792
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=36.366240001122996, BPP=0.13308125734329224
+Result of sequence ShakeNDry: PSNR=38.5846, BPP=0.3390
+Test epoch 2:	Loss: 0.4907 |	PSNR: 39.7906 |	MSE loss: 0.000119 |	Bpp loss: 0.2465 |
+Epoch: 2, loss: (now:0.4907)/(best:0.4907), training time: 6297.39s, testing time: 5.76s
+
+Learning rate: 0.0001
+Train epoch 3: [0/72436 (0%)]		Loss: 1.6360 |	RD loss: 1.6360 |	MSE loss: 0.000677 |	Bpp loss: 0.2489 |
+Train epoch 3: [4000/72436 (6%)]		Loss: 1.1416 |	RD loss: 1.1416 |	MSE loss: 0.000443 |	Bpp loss: 0.2336 |
+Train epoch 3: [8000/72436 (11%)]		Loss: 1.0300 |	RD loss: 1.0300 |	MSE loss: 0.000384 |	Bpp loss: 0.2430 |
+Train epoch 3: [12000/72436 (17%)]		Loss: 1.6648 |	RD loss: 1.6648 |	MSE loss: 0.000707 |	Bpp loss: 0.2164 |
+Train epoch 3: [16000/72436 (22%)]		Loss: 0.7420 |	RD loss: 0.7420 |	MSE loss: 0.000259 |	Bpp loss: 0.2124 |
+Train epoch 3: [20000/72436 (28%)]		Loss: 0.6801 |	RD loss: 0.6801 |	MSE loss: 0.000228 |	Bpp loss: 0.2127 |
+Train epoch 3: [24000/72436 (33%)]		Loss: 1.0501 |	RD loss: 1.0501 |	MSE loss: 0.000405 |	Bpp loss: 0.2217 |
+Train epoch 3: [28000/72436 (39%)]		Loss: 1.1581 |	RD loss: 1.1581 |	MSE loss: 0.000446 |	Bpp loss: 0.2449 |
+Train epoch 3: [32000/72436 (44%)]		Loss: 3.2570 |	RD loss: 3.2570 |	MSE loss: 0.001445 |	Bpp loss: 0.2976 |
+Train epoch 3: [36000/72436 (50%)]		Loss: 2.7362 |	RD loss: 2.7362 |	MSE loss: 0.001220 |	Bpp loss: 0.2374 |
+Train epoch 3: [40000/72436 (55%)]		Loss: 0.4822 |	RD loss: 0.4822 |	MSE loss: 0.000135 |	Bpp loss: 0.2055 |
+Train epoch 3: [44000/72436 (61%)]		Loss: 1.0737 |	RD loss: 1.0737 |	MSE loss: 0.000427 |	Bpp loss: 0.1997 |
+Train epoch 3: [48000/72436 (66%)]		Loss: 1.1609 |	RD loss: 1.1609 |	MSE loss: 0.000449 |	Bpp loss: 0.2407 |
+Train epoch 3: [52000/72436 (72%)]		Loss: 0.7467 |	RD loss: 0.7467 |	MSE loss: 0.000256 |	Bpp loss: 0.2217 |
+Train epoch 3: [56000/72436 (77%)]		Loss: 0.8885 |	RD loss: 0.8885 |	MSE loss: 0.000315 |	Bpp loss: 0.2426 |
+Train epoch 3: [60000/72436 (83%)]		Loss: 0.6037 |	RD loss: 0.6037 |	MSE loss: 0.000184 |	Bpp loss: 0.2266 |
+Train epoch 3: [64000/72436 (88%)]		Loss: 1.2249 |	RD loss: 1.2249 |	MSE loss: 0.000492 |	Bpp loss: 0.2177 |
+Train epoch 3: [68000/72436 (94%)]		Loss: 0.8040 |	RD loss: 0.8040 |	MSE loss: 0.000288 |	Bpp loss: 0.2142 |
+Train epoch 3: [72000/72436 (99%)]		Loss: 1.3940 |	RD loss: 1.3940 |	MSE loss: 0.000574 |	Bpp loss: 0.2182 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.330623125416416, BPP=0.07852401584386826
+Result of sequence Beauty: PSNR=37.5656, BPP=0.2841
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.57011677447963, BPP=0.04499971494078636
+Result of sequence HoneyBee: PSNR=40.4003, BPP=0.1878
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=38.5651202907016, BPP=0.06335221230983734
+Result of sequence ReadySteadyGo: PSNR=39.9181, BPP=0.3254
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=38.405992564383936, BPP=0.08958812057971954
+Result of sequence YachtRide: PSNR=40.8255, BPP=0.2191
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=40.88835090885261, BPP=0.03798879310488701
+Result of sequence Bosphorus: PSNR=42.0299, BPP=0.1762
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=39.987770488352076, BPP=0.0805741548538208
+Result of sequence Jockey: PSNR=40.9836, BPP=0.1800
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=36.79439211986474, BPP=0.13802196085453033
+Result of sequence ShakeNDry: PSNR=38.7986, BPP=0.3415
+Test epoch 3:	Loss: 0.4704 |	PSNR: 40.0745 |	MSE loss: 0.000110 |	Bpp loss: 0.2449 |
+Epoch: 3, loss: (now:0.4704)/(best:0.4704), training time: 6258.58s, testing time: 5.75s
+
+Learning rate: 0.0001
+Train epoch 4: [0/72436 (0%)]		Loss: 0.5090 |	RD loss: 0.5090 |	MSE loss: 0.000161 |	Bpp loss: 0.1790 |
+Train epoch 4: [4000/72436 (6%)]		Loss: 0.4509 |	RD loss: 0.4509 |	MSE loss: 0.000140 |	Bpp loss: 0.1635 |
+Train epoch 4: [8000/72436 (11%)]		Loss: 1.6676 |	RD loss: 1.6676 |	MSE loss: 0.000687 |	Bpp loss: 0.2602 |
+Train epoch 4: [12000/72436 (17%)]		Loss: 0.7683 |	RD loss: 0.7683 |	MSE loss: 0.000259 |	Bpp loss: 0.2381 |
+Train epoch 4: [16000/72436 (22%)]		Loss: 1.4886 |	RD loss: 1.4886 |	MSE loss: 0.000615 |	Bpp loss: 0.2285 |
+Train epoch 4: [20000/72436 (28%)]		Loss: 3.8600 |	RD loss: 3.8600 |	MSE loss: 0.001735 |	Bpp loss: 0.3070 |
+Train epoch 4: [24000/72436 (33%)]		Loss: 1.0245 |	RD loss: 1.0245 |	MSE loss: 0.000393 |	Bpp loss: 0.2197 |
+Train epoch 4: [28000/72436 (39%)]		Loss: 1.0182 |	RD loss: 1.0182 |	MSE loss: 0.000366 |	Bpp loss: 0.2695 |
+Train epoch 4: [32000/72436 (44%)]		Loss: 1.5148 |	RD loss: 1.5148 |	MSE loss: 0.000619 |	Bpp loss: 0.2465 |
+Train epoch 4: [36000/72436 (50%)]		Loss: 1.4225 |	RD loss: 1.4225 |	MSE loss: 0.000588 |	Bpp loss: 0.2188 |
+Train epoch 4: [40000/72436 (55%)]		Loss: 0.6175 |	RD loss: 0.6175 |	MSE loss: 0.000204 |	Bpp loss: 0.1989 |
+Train epoch 4: [44000/72436 (61%)]		Loss: 1.8440 |	RD loss: 1.8440 |	MSE loss: 0.000772 |	Bpp loss: 0.2639 |
+Train epoch 4: [48000/72436 (66%)]		Loss: 0.4970 |	RD loss: 0.4970 |	MSE loss: 0.000155 |	Bpp loss: 0.1789 |
+Train epoch 4: [52000/72436 (72%)]		Loss: 1.0495 |	RD loss: 1.0495 |	MSE loss: 0.000403 |	Bpp loss: 0.2242 |
+Train epoch 4: [56000/72436 (77%)]		Loss: 0.6737 |	RD loss: 0.6737 |	MSE loss: 0.000239 |	Bpp loss: 0.1840 |
+Train epoch 4: [60000/72436 (83%)]		Loss: 0.4487 |	RD loss: 0.4487 |	MSE loss: 0.000132 |	Bpp loss: 0.1793 |
+Train epoch 4: [64000/72436 (88%)]		Loss: 1.0021 |	RD loss: 1.0021 |	MSE loss: 0.000374 |	Bpp loss: 0.2358 |
+Train epoch 4: [68000/72436 (94%)]		Loss: 1.4938 |	RD loss: 1.4938 |	MSE loss: 0.000618 |	Bpp loss: 0.2273 |
+Train epoch 4: [72000/72436 (99%)]		Loss: 0.4823 |	RD loss: 0.4823 |	MSE loss: 0.000157 |	Bpp loss: 0.1599 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.28333808860718, BPP=0.07824032008647919
+Result of sequence Beauty: PSNR=37.5419, BPP=0.2839
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.49812370239449, BPP=0.03843410313129425
+Result of sequence HoneyBee: PSNR=40.3643, BPP=0.1845
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=38.62685514036294, BPP=0.0647968128323555
+Result of sequence ReadySteadyGo: PSNR=39.9490, BPP=0.3261
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=38.36138315919175, BPP=0.09615472704172134
+Result of sequence YachtRide: PSNR=40.8032, BPP=0.2224
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=40.803039244682566, BPP=0.038783151656389236
+Result of sequence Bosphorus: PSNR=41.9872, BPP=0.1766
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=39.70356184256676, BPP=0.08338979631662369
+Result of sequence Jockey: PSNR=40.8415, BPP=0.1814
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=37.06824931142818, BPP=0.1444959193468094
+Result of sequence ShakeNDry: PSNR=38.9356, BPP=0.3447
+Test epoch 4:	Loss: 0.4711 |	PSNR: 40.0604 |	MSE loss: 0.000110 |	Bpp loss: 0.2457 |
+Epoch: 4, loss: (now:0.4711)/(best:0.4704), training time: 6196.48s, testing time: 5.78s
+
+Learning rate: 0.0001
+Train epoch 5: [0/72436 (0%)]		Loss: 0.6682 |	RD loss: 0.6682 |	MSE loss: 0.000223 |	Bpp loss: 0.2117 |
+Train epoch 5: [4000/72436 (6%)]		Loss: 0.7011 |	RD loss: 0.7011 |	MSE loss: 0.000252 |	Bpp loss: 0.1855 |
+Train epoch 5: [8000/72436 (11%)]		Loss: 0.6898 |	RD loss: 0.6898 |	MSE loss: 0.000243 |	Bpp loss: 0.1916 |
+Train epoch 5: [12000/72436 (17%)]		Loss: 0.5738 |	RD loss: 0.5738 |	MSE loss: 0.000196 |	Bpp loss: 0.1721 |
+Train epoch 5: [16000/72436 (22%)]		Loss: 0.4804 |	RD loss: 0.4804 |	MSE loss: 0.000144 |	Bpp loss: 0.1847 |
+Train epoch 5: [20000/72436 (28%)]		Loss: 0.6590 |	RD loss: 0.6590 |	MSE loss: 0.000220 |	Bpp loss: 0.2076 |
+Train epoch 5: [24000/72436 (33%)]		Loss: 0.7147 |	RD loss: 0.7147 |	MSE loss: 0.000239 |	Bpp loss: 0.2250 |
+Train epoch 5: [28000/72436 (39%)]		Loss: 0.4578 |	RD loss: 0.4578 |	MSE loss: 0.000150 |	Bpp loss: 0.1509 |
+Train epoch 5: [32000/72436 (44%)]		Loss: 0.5334 |	RD loss: 0.5334 |	MSE loss: 0.000183 |	Bpp loss: 0.1578 |
+Train epoch 5: [36000/72436 (50%)]		Loss: 2.0588 |	RD loss: 2.0588 |	MSE loss: 0.000846 |	Bpp loss: 0.3268 |
+Train epoch 5: [40000/72436 (55%)]		Loss: 0.4149 |	RD loss: 0.4149 |	MSE loss: 0.000137 |	Bpp loss: 0.1345 |
+Train epoch 5: [44000/72436 (61%)]		Loss: 0.5989 |	RD loss: 0.5989 |	MSE loss: 0.000202 |	Bpp loss: 0.1850 |
+Train epoch 5: [48000/72436 (66%)]		Loss: 0.4889 |	RD loss: 0.4889 |	MSE loss: 0.000141 |	Bpp loss: 0.1994 |
+Train epoch 5: [52000/72436 (72%)]		Loss: 0.8210 |	RD loss: 0.8210 |	MSE loss: 0.000288 |	Bpp loss: 0.2314 |
+Train epoch 5: [56000/72436 (77%)]		Loss: 0.3019 |	RD loss: 0.3019 |	MSE loss: 0.000088 |	Bpp loss: 0.1210 |
+Train epoch 5: [60000/72436 (83%)]		Loss: 1.1942 |	RD loss: 1.1942 |	MSE loss: 0.000469 |	Bpp loss: 0.2340 |
+Train epoch 5: [64000/72436 (88%)]		Loss: 0.9911 |	RD loss: 0.9911 |	MSE loss: 0.000370 |	Bpp loss: 0.2336 |
+Train epoch 5: [68000/72436 (94%)]		Loss: 0.5332 |	RD loss: 0.5332 |	MSE loss: 0.000174 |	Bpp loss: 0.1776 |
+Train epoch 5: [72000/72436 (99%)]		Loss: 1.8352 |	RD loss: 1.8352 |	MSE loss: 0.000750 |	Bpp loss: 0.2996 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.284721920451915, BPP=0.0808853954076767
+Result of sequence Beauty: PSNR=37.5426, BPP=0.2852
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.62844002777997, BPP=0.03107387199997902
+Result of sequence HoneyBee: PSNR=40.4295, BPP=0.1808
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=38.14380257412265, BPP=0.07315723598003387
+Result of sequence ReadySteadyGo: PSNR=39.7074, BPP=0.3303
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.14634925923886, BPP=0.08892478048801422
+Result of sequence YachtRide: PSNR=41.1957, BPP=0.2188
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.17504997627279, BPP=0.03446000814437866
+Result of sequence Bosphorus: PSNR=42.1732, BPP=0.1744
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.267552665804416, BPP=0.06542324274778366
+Result of sequence Jockey: PSNR=41.1235, BPP=0.1724
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=37.38654323684318, BPP=0.14830420911312103
+Result of sequence ShakeNDry: PSNR=39.0947, BPP=0.3466
+Test epoch 5:	Loss: 0.4629 |	PSNR: 40.1810 |	MSE loss: 0.000107 |	Bpp loss: 0.2441 |
+Epoch: 5, loss: (now:0.4629)/(best:0.4629), training time: 6211.77s, testing time: 5.78s
+
+Learning rate: 0.0001
+Train epoch 6: [0/72436 (0%)]		Loss: 0.9073 |	RD loss: 0.9073 |	MSE loss: 0.000329 |	Bpp loss: 0.2344 |
+Train epoch 6: [4000/72436 (6%)]		Loss: 0.9652 |	RD loss: 0.9652 |	MSE loss: 0.000352 |	Bpp loss: 0.2435 |
+Train epoch 6: [8000/72436 (11%)]		Loss: 1.3270 |	RD loss: 1.3270 |	MSE loss: 0.000548 |	Bpp loss: 0.2055 |
+Train epoch 6: [12000/72436 (17%)]		Loss: 0.9507 |	RD loss: 0.9507 |	MSE loss: 0.000362 |	Bpp loss: 0.2095 |
+Train epoch 6: [16000/72436 (22%)]		Loss: 0.5994 |	RD loss: 0.5994 |	MSE loss: 0.000206 |	Bpp loss: 0.1769 |
+Train epoch 6: [20000/72436 (28%)]		Loss: 0.9265 |	RD loss: 0.9265 |	MSE loss: 0.000344 |	Bpp loss: 0.2220 |
+Train epoch 6: [24000/72436 (33%)]		Loss: 0.9494 |	RD loss: 0.9494 |	MSE loss: 0.000364 |	Bpp loss: 0.2038 |
+Train epoch 6: [28000/72436 (39%)]		Loss: 0.7420 |	RD loss: 0.7420 |	MSE loss: 0.000256 |	Bpp loss: 0.2178 |
+Train epoch 6: [32000/72436 (44%)]		Loss: 0.4415 |	RD loss: 0.4415 |	MSE loss: 0.000137 |	Bpp loss: 0.1613 |
+Train epoch 6: [36000/72436 (50%)]		Loss: 0.6697 |	RD loss: 0.6697 |	MSE loss: 0.000223 |	Bpp loss: 0.2127 |
+Train epoch 6: [40000/72436 (55%)]		Loss: 0.8161 |	RD loss: 0.8161 |	MSE loss: 0.000289 |	Bpp loss: 0.2249 |
+Train epoch 6: [44000/72436 (61%)]		Loss: 1.4800 |	RD loss: 1.4800 |	MSE loss: 0.000604 |	Bpp loss: 0.2422 |
+Train epoch 6: [48000/72436 (66%)]		Loss: 0.7087 |	RD loss: 0.7087 |	MSE loss: 0.000239 |	Bpp loss: 0.2202 |
+Train epoch 6: [52000/72436 (72%)]		Loss: 0.7042 |	RD loss: 0.7042 |	MSE loss: 0.000248 |	Bpp loss: 0.1955 |
+Train epoch 6: [56000/72436 (77%)]		Loss: 0.6445 |	RD loss: 0.6445 |	MSE loss: 0.000220 |	Bpp loss: 0.1937 |
+Train epoch 6: [60000/72436 (83%)]		Loss: 0.9537 |	RD loss: 0.9537 |	MSE loss: 0.000362 |	Bpp loss: 0.2131 |
+Train epoch 6: [64000/72436 (88%)]		Loss: 0.7546 |	RD loss: 0.7546 |	MSE loss: 0.000262 |	Bpp loss: 0.2183 |
+Train epoch 6: [68000/72436 (94%)]		Loss: 0.8852 |	RD loss: 0.8852 |	MSE loss: 0.000297 |	Bpp loss: 0.2778 |
+Train epoch 6: [72000/72436 (99%)]		Loss: 0.4294 |	RD loss: 0.4294 |	MSE loss: 0.000107 |	Bpp loss: 0.2107 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.48988400990734, BPP=0.0792854055762291
+Result of sequence Beauty: PSNR=37.6452, BPP=0.2844
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.821559643691344, BPP=0.0270895604044199
+Result of sequence HoneyBee: PSNR=40.5261, BPP=0.1788
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=38.96762622329105, BPP=0.055747345089912415
+Result of sequence ReadySteadyGo: PSNR=40.1193, BPP=0.3216
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.498832027923335, BPP=0.0884438157081604
+Result of sequence YachtRide: PSNR=41.3719, BPP=0.2186
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.449183820324684, BPP=0.033655229955911636
+Result of sequence Bosphorus: PSNR=42.3103, BPP=0.1740
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.23118064007427, BPP=0.08122839778661728
+Result of sequence Jockey: PSNR=41.1053, BPP=0.1803
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=37.68796369667265, BPP=0.14945022761821747
+Result of sequence ShakeNDry: PSNR=39.2454, BPP=0.3472
+Test epoch 6:	Loss: 0.4525 |	PSNR: 40.3319 |	MSE loss: 0.000102 |	Bpp loss: 0.2436 |
+Epoch: 6, loss: (now:0.4525)/(best:0.4525), training time: 6322.52s, testing time: 5.77s
+
+Learning rate: 0.0001
+Train epoch 7: [0/72436 (0%)]		Loss: 0.6667 |	RD loss: 0.6667 |	MSE loss: 0.000216 |	Bpp loss: 0.2241 |
+Train epoch 7: [4000/72436 (6%)]		Loss: 0.4177 |	RD loss: 0.4177 |	MSE loss: 0.000122 |	Bpp loss: 0.1686 |
+Train epoch 7: [8000/72436 (11%)]		Loss: 0.3922 |	RD loss: 0.3922 |	MSE loss: 0.000107 |	Bpp loss: 0.1726 |
+Train epoch 7: [12000/72436 (17%)]		Loss: 0.6836 |	RD loss: 0.6836 |	MSE loss: 0.000222 |	Bpp loss: 0.2290 |
+Train epoch 7: [16000/72436 (22%)]		Loss: 0.5960 |	RD loss: 0.5960 |	MSE loss: 0.000193 |	Bpp loss: 0.2005 |
+Train epoch 7: [20000/72436 (28%)]		Loss: 0.6131 |	RD loss: 0.6131 |	MSE loss: 0.000183 |	Bpp loss: 0.2381 |
+Train epoch 7: [24000/72436 (33%)]		Loss: 0.9022 |	RD loss: 0.9022 |	MSE loss: 0.000322 |	Bpp loss: 0.2435 |
+Train epoch 7: [28000/72436 (39%)]		Loss: 1.4463 |	RD loss: 1.4463 |	MSE loss: 0.000585 |	Bpp loss: 0.2492 |
+Train epoch 7: [32000/72436 (44%)]		Loss: 0.6290 |	RD loss: 0.6290 |	MSE loss: 0.000210 |	Bpp loss: 0.1993 |
+Train epoch 7: [36000/72436 (50%)]		Loss: 0.5351 |	RD loss: 0.5351 |	MSE loss: 0.000165 |	Bpp loss: 0.1977 |
+Train epoch 7: [40000/72436 (55%)]		Loss: 0.6823 |	RD loss: 0.6823 |	MSE loss: 0.000231 |	Bpp loss: 0.2085 |
+Train epoch 7: [44000/72436 (61%)]		Loss: 0.6182 |	RD loss: 0.6182 |	MSE loss: 0.000207 |	Bpp loss: 0.1939 |
+Train epoch 7: [48000/72436 (66%)]		Loss: 1.1282 |	RD loss: 1.1282 |	MSE loss: 0.000426 |	Bpp loss: 0.2548 |
+Train epoch 7: [52000/72436 (72%)]		Loss: 1.2167 |	RD loss: 1.2167 |	MSE loss: 0.000479 |	Bpp loss: 0.2348 |
+Train epoch 7: [56000/72436 (77%)]		Loss: 1.0336 |	RD loss: 1.0336 |	MSE loss: 0.000374 |	Bpp loss: 0.2679 |
+Train epoch 7: [60000/72436 (83%)]		Loss: 0.4859 |	RD loss: 0.4859 |	MSE loss: 0.000160 |	Bpp loss: 0.1588 |
+Train epoch 7: [64000/72436 (88%)]		Loss: 0.7626 |	RD loss: 0.7626 |	MSE loss: 0.000254 |	Bpp loss: 0.2432 |
+Train epoch 7: [68000/72436 (94%)]		Loss: 0.8083 |	RD loss: 0.8083 |	MSE loss: 0.000263 |	Bpp loss: 0.2692 |
+Train epoch 7: [72000/72436 (99%)]		Loss: 0.6680 |	RD loss: 0.6680 |	MSE loss: 0.000237 |	Bpp loss: 0.1834 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.50901784513517, BPP=0.08302175253629684
+Result of sequence Beauty: PSNR=37.6548, BPP=0.2863
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.53119728230678, BPP=0.030183512717485428
+Result of sequence HoneyBee: PSNR=40.3809, BPP=0.1804
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.16049049669548, BPP=0.05328650027513504
+Result of sequence ReadySteadyGo: PSNR=40.2158, BPP=0.3203
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.530472314368104, BPP=0.0914277657866478
+Result of sequence YachtRide: PSNR=41.3878, BPP=0.2201
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.22348673089189, BPP=0.03390433266758919
+Result of sequence Bosphorus: PSNR=42.1974, BPP=0.1742
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.268956993265654, BPP=0.06585776805877686
+Result of sequence Jockey: PSNR=41.1242, BPP=0.1726
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=37.77594128879335, BPP=0.15154629945755005
+Result of sequence ShakeNDry: PSNR=39.2894, BPP=0.3483
+Test epoch 7:	Loss: 0.4520 |	PSNR: 40.3215 |	MSE loss: 0.000102 |	Bpp loss: 0.2432 |
+Epoch: 7, loss: (now:0.4520)/(best:0.4520), training time: 6318.55s, testing time: 5.79s
+
+Learning rate: 0.0001
+Train epoch 8: [0/72436 (0%)]		Loss: 1.0003 |	RD loss: 1.0003 |	MSE loss: 0.000380 |	Bpp loss: 0.2214 |
+Train epoch 8: [4000/72436 (6%)]		Loss: 0.8692 |	RD loss: 0.8692 |	MSE loss: 0.000304 |	Bpp loss: 0.2457 |
+Train epoch 8: [8000/72436 (11%)]		Loss: 0.6943 |	RD loss: 0.6943 |	MSE loss: 0.000214 |	Bpp loss: 0.2562 |
+Train epoch 8: [12000/72436 (17%)]		Loss: 0.6410 |	RD loss: 0.6410 |	MSE loss: 0.000198 |	Bpp loss: 0.2348 |
+Train epoch 8: [16000/72436 (22%)]		Loss: 0.6928 |	RD loss: 0.6928 |	MSE loss: 0.000227 |	Bpp loss: 0.2271 |
+Train epoch 8: [20000/72436 (28%)]		Loss: 0.6199 |	RD loss: 0.6199 |	MSE loss: 0.000217 |	Bpp loss: 0.1750 |
+Train epoch 8: [24000/72436 (33%)]		Loss: 0.8997 |	RD loss: 0.8997 |	MSE loss: 0.000340 |	Bpp loss: 0.2029 |
+Train epoch 8: [28000/72436 (39%)]		Loss: 0.6613 |	RD loss: 0.6613 |	MSE loss: 0.000223 |	Bpp loss: 0.2038 |
+Train epoch 8: [32000/72436 (44%)]		Loss: 0.5860 |	RD loss: 0.5860 |	MSE loss: 0.000200 |	Bpp loss: 0.1770 |
+Train epoch 8: [36000/72436 (50%)]		Loss: 0.5860 |	RD loss: 0.5860 |	MSE loss: 0.000175 |	Bpp loss: 0.2274 |
+Train epoch 8: [40000/72436 (55%)]		Loss: 0.6153 |	RD loss: 0.6153 |	MSE loss: 0.000198 |	Bpp loss: 0.2106 |
+Train epoch 8: [44000/72436 (61%)]		Loss: 0.4648 |	RD loss: 0.4648 |	MSE loss: 0.000133 |	Bpp loss: 0.1923 |
+Train epoch 8: [48000/72436 (66%)]		Loss: 1.3582 |	RD loss: 1.3582 |	MSE loss: 0.000536 |	Bpp loss: 0.2608 |
+Train epoch 8: [52000/72436 (72%)]		Loss: 0.5099 |	RD loss: 0.5099 |	MSE loss: 0.000168 |	Bpp loss: 0.1653 |
+Train epoch 8: [56000/72436 (77%)]		Loss: 0.4723 |	RD loss: 0.4723 |	MSE loss: 0.000142 |	Bpp loss: 0.1820 |
+Train epoch 8: [60000/72436 (83%)]		Loss: 0.5932 |	RD loss: 0.5932 |	MSE loss: 0.000186 |	Bpp loss: 0.2115 |
+Train epoch 8: [64000/72436 (88%)]		Loss: 1.1032 |	RD loss: 1.1032 |	MSE loss: 0.000431 |	Bpp loss: 0.2207 |
+Train epoch 8: [68000/72436 (94%)]		Loss: 0.5087 |	RD loss: 0.5087 |	MSE loss: 0.000149 |	Bpp loss: 0.2033 |
+Train epoch 8: [72000/72436 (99%)]		Loss: 0.6756 |	RD loss: 0.6756 |	MSE loss: 0.000226 |	Bpp loss: 0.2120 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.554010619799556, BPP=0.08300063014030457
+Result of sequence Beauty: PSNR=37.6773, BPP=0.2863
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=38.89214688842244, BPP=0.025936249643564224
+Result of sequence HoneyBee: PSNR=40.0614, BPP=0.1782
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.0267709948868, BPP=0.04955795407295227
+Result of sequence ReadySteadyGo: PSNR=40.1489, BPP=0.3185
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=38.931186380738446, BPP=0.08903317898511887
+Result of sequence YachtRide: PSNR=41.0881, BPP=0.2189
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=40.011163232838655, BPP=0.03219043090939522
+Result of sequence Bosphorus: PSNR=41.5913, BPP=0.1733
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.05899219116931, BPP=0.06566794216632843
+Result of sequence Jockey: PSNR=41.0192, BPP=0.1725
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=37.882208053745686, BPP=0.15058210492134094
+Result of sequence ShakeNDry: PSNR=39.3425, BPP=0.3478
+Test epoch 8:	Loss: 0.4599 |	PSNR: 40.1327 |	MSE loss: 0.000106 |	Bpp loss: 0.2422 |
+Epoch: 8, loss: (now:0.4599)/(best:0.4520), training time: 6295.59s, testing time: 5.78s
+
+Learning rate: 0.0001
+Train epoch 9: [0/72436 (0%)]		Loss: 0.5536 |	RD loss: 0.5536 |	MSE loss: 0.000177 |	Bpp loss: 0.1908 |
+Train epoch 9: [4000/72436 (6%)]		Loss: 0.6180 |	RD loss: 0.6180 |	MSE loss: 0.000218 |	Bpp loss: 0.1710 |
+Train epoch 9: [8000/72436 (11%)]		Loss: 0.7185 |	RD loss: 0.7185 |	MSE loss: 0.000258 |	Bpp loss: 0.1902 |
+Train epoch 9: [12000/72436 (17%)]		Loss: 1.5603 |	RD loss: 1.5603 |	MSE loss: 0.000625 |	Bpp loss: 0.2801 |
+Train epoch 9: [16000/72436 (22%)]		Loss: 0.7139 |	RD loss: 0.7139 |	MSE loss: 0.000241 |	Bpp loss: 0.2212 |
+Train epoch 9: [20000/72436 (28%)]		Loss: 0.4077 |	RD loss: 0.4077 |	MSE loss: 0.000124 |	Bpp loss: 0.1532 |
+Train epoch 9: [24000/72436 (33%)]		Loss: 1.0743 |	RD loss: 1.0743 |	MSE loss: 0.000419 |	Bpp loss: 0.2159 |
+Train epoch 9: [28000/72436 (39%)]		Loss: 0.6290 |	RD loss: 0.6290 |	MSE loss: 0.000201 |	Bpp loss: 0.2175 |
+Train epoch 9: [32000/72436 (44%)]		Loss: 0.6031 |	RD loss: 0.6031 |	MSE loss: 0.000202 |	Bpp loss: 0.1892 |
+Train epoch 9: [36000/72436 (50%)]		Loss: 0.8190 |	RD loss: 0.8190 |	MSE loss: 0.000278 |	Bpp loss: 0.2496 |
+Train epoch 9: [40000/72436 (55%)]		Loss: 0.6288 |	RD loss: 0.6288 |	MSE loss: 0.000209 |	Bpp loss: 0.2011 |
+Train epoch 9: [44000/72436 (61%)]		Loss: 0.8826 |	RD loss: 0.8826 |	MSE loss: 0.000320 |	Bpp loss: 0.2273 |
+Train epoch 9: [48000/72436 (66%)]		Loss: 0.5223 |	RD loss: 0.5223 |	MSE loss: 0.000173 |	Bpp loss: 0.1689 |
+Train epoch 9: [52000/72436 (72%)]		Loss: 0.6112 |	RD loss: 0.6112 |	MSE loss: 0.000198 |	Bpp loss: 0.2054 |
+Train epoch 9: [56000/72436 (77%)]		Loss: 0.7238 |	RD loss: 0.7238 |	MSE loss: 0.000275 |	Bpp loss: 0.1599 |
+Train epoch 9: [60000/72436 (83%)]		Loss: 0.3936 |	RD loss: 0.3936 |	MSE loss: 0.000115 |	Bpp loss: 0.1586 |
+Train epoch 9: [64000/72436 (88%)]		Loss: 0.3103 |	RD loss: 0.3103 |	MSE loss: 0.000084 |	Bpp loss: 0.1376 |
+Train epoch 9: [68000/72436 (94%)]		Loss: 0.3115 |	RD loss: 0.3115 |	MSE loss: 0.000074 |	Bpp loss: 0.1607 |
+Train epoch 9: [72000/72436 (99%)]		Loss: 0.6610 |	RD loss: 0.6610 |	MSE loss: 0.000226 |	Bpp loss: 0.1982 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.56603490549511, BPP=0.08112507313489914
+Result of sequence Beauty: PSNR=37.6833, BPP=0.2854
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.790343630870254, BPP=0.02710752561688423
+Result of sequence HoneyBee: PSNR=40.5105, BPP=0.1788
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.3422014832061, BPP=0.04941053315997124
+Result of sequence ReadySteadyGo: PSNR=40.3066, BPP=0.3184
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.85882270079798, BPP=0.09031848609447479
+Result of sequence YachtRide: PSNR=41.5519, BPP=0.2195
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.50316432544207, BPP=0.033336248248815536
+Result of sequence Bosphorus: PSNR=42.3373, BPP=0.1739
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.467758866581214, BPP=0.054980456829071045
+Result of sequence Jockey: PSNR=41.2236, BPP=0.1672
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=37.92311786157154, BPP=0.15094126760959625
+Result of sequence ShakeNDry: PSNR=39.3630, BPP=0.3480
+Test epoch 9:	Loss: 0.4450 |	PSNR: 40.4252 |	MSE loss: 0.000099 |	Bpp loss: 0.2416 |
+Epoch: 9, loss: (now:0.4450)/(best:0.4450), training time: 6285.05s, testing time: 5.77s
+
+Learning rate: 0.0001
+Train epoch 10: [0/72436 (0%)]		Loss: 0.3785 |	RD loss: 0.3785 |	MSE loss: 0.000105 |	Bpp loss: 0.1639 |
+Train epoch 10: [4000/72436 (6%)]		Loss: 0.7125 |	RD loss: 0.7125 |	MSE loss: 0.000247 |	Bpp loss: 0.2057 |
+Train epoch 10: [8000/72436 (11%)]		Loss: 1.4885 |	RD loss: 1.4885 |	MSE loss: 0.000567 |	Bpp loss: 0.3263 |
+Train epoch 10: [12000/72436 (17%)]		Loss: 0.5346 |	RD loss: 0.5346 |	MSE loss: 0.000165 |	Bpp loss: 0.1966 |
+Train epoch 10: [16000/72436 (22%)]		Loss: 0.4041 |	RD loss: 0.4041 |	MSE loss: 0.000111 |	Bpp loss: 0.1764 |
+Train epoch 10: [20000/72436 (28%)]		Loss: 0.5684 |	RD loss: 0.5684 |	MSE loss: 0.000195 |	Bpp loss: 0.1696 |
+Train epoch 10: [24000/72436 (33%)]		Loss: 0.5310 |	RD loss: 0.5310 |	MSE loss: 0.000152 |	Bpp loss: 0.2202 |
+Train epoch 10: [28000/72436 (39%)]		Loss: 0.6855 |	RD loss: 0.6855 |	MSE loss: 0.000216 |	Bpp loss: 0.2427 |
+Train epoch 10: [32000/72436 (44%)]		Loss: 0.3042 |	RD loss: 0.3042 |	MSE loss: 0.000081 |	Bpp loss: 0.1379 |
+Train epoch 10: [36000/72436 (50%)]		Loss: 1.2647 |	RD loss: 1.2647 |	MSE loss: 0.000503 |	Bpp loss: 0.2351 |
+Train epoch 10: [40000/72436 (55%)]		Loss: 0.3796 |	RD loss: 0.3796 |	MSE loss: 0.000094 |	Bpp loss: 0.1864 |
+Train epoch 10: [44000/72436 (61%)]		Loss: 0.6713 |	RD loss: 0.6713 |	MSE loss: 0.000255 |	Bpp loss: 0.1482 |
+Train epoch 10: [48000/72436 (66%)]		Loss: 1.0433 |	RD loss: 1.0433 |	MSE loss: 0.000380 |	Bpp loss: 0.2645 |
+Train epoch 10: [52000/72436 (72%)]		Loss: 0.7012 |	RD loss: 0.7012 |	MSE loss: 0.000239 |	Bpp loss: 0.2121 |
+Train epoch 10: [56000/72436 (77%)]		Loss: 1.1557 |	RD loss: 1.1557 |	MSE loss: 0.000425 |	Bpp loss: 0.2855 |
+Train epoch 10: [60000/72436 (83%)]		Loss: 0.7783 |	RD loss: 0.7783 |	MSE loss: 0.000244 |	Bpp loss: 0.2791 |
+Train epoch 10: [64000/72436 (88%)]		Loss: 0.5431 |	RD loss: 0.5431 |	MSE loss: 0.000165 |	Bpp loss: 0.2049 |
+Train epoch 10: [68000/72436 (94%)]		Loss: 0.5460 |	RD loss: 0.5460 |	MSE loss: 0.000180 |	Bpp loss: 0.1767 |
+Train epoch 10: [72000/72436 (99%)]		Loss: 0.6034 |	RD loss: 0.6034 |	MSE loss: 0.000193 |	Bpp loss: 0.2073 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.628332395538564, BPP=0.08748400956392288
+Result of sequence Beauty: PSNR=37.7144, BPP=0.2885
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.829047479609464, BPP=0.025639262050390244
+Result of sequence HoneyBee: PSNR=40.5298, BPP=0.1781
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.217982024754654, BPP=0.04752872511744499
+Result of sequence ReadySteadyGo: PSNR=40.2445, BPP=0.3175
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.92346981888667, BPP=0.0870213732123375
+Result of sequence YachtRide: PSNR=41.5843, BPP=0.2179
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.293671404183655, BPP=0.029438301920890808
+Result of sequence Bosphorus: PSNR=42.2325, BPP=0.1719
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.35625229048647, BPP=0.058405593037605286
+Result of sequence Jockey: PSNR=41.1678, BPP=0.1689
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.00503522112215, BPP=0.15331870317459106
+Result of sequence ShakeNDry: PSNR=39.4040, BPP=0.3492
+Test epoch 10:	Loss: 0.4452 |	PSNR: 40.4111 |	MSE loss: 0.000099 |	Bpp loss: 0.2417 |
+Epoch: 10, loss: (now:0.4452)/(best:0.4450), training time: 6316.71s, testing time: 5.77s
+
+Learning rate: 0.0001
+Train epoch 11: [0/72436 (0%)]		Loss: 1.1310 |	RD loss: 1.1310 |	MSE loss: 0.000428 |	Bpp loss: 0.2540 |
+Train epoch 11: [4000/72436 (6%)]		Loss: 0.6885 |	RD loss: 0.6885 |	MSE loss: 0.000233 |	Bpp loss: 0.2109 |
+Train epoch 11: [8000/72436 (11%)]		Loss: 0.4693 |	RD loss: 0.4693 |	MSE loss: 0.000154 |	Bpp loss: 0.1542 |
+Train epoch 11: [12000/72436 (17%)]		Loss: 0.3480 |	RD loss: 0.3480 |	MSE loss: 0.000100 |	Bpp loss: 0.1437 |
+Train epoch 11: [16000/72436 (22%)]		Loss: 0.6699 |	RD loss: 0.6699 |	MSE loss: 0.000222 |	Bpp loss: 0.2143 |
+Train epoch 11: [20000/72436 (28%)]		Loss: 0.5056 |	RD loss: 0.5056 |	MSE loss: 0.000145 |	Bpp loss: 0.2096 |
+Train epoch 11: [24000/72436 (33%)]		Loss: 0.6591 |	RD loss: 0.6591 |	MSE loss: 0.000228 |	Bpp loss: 0.1928 |
+Train epoch 11: [28000/72436 (39%)]		Loss: 0.6788 |	RD loss: 0.6788 |	MSE loss: 0.000219 |	Bpp loss: 0.2295 |
+Train epoch 11: [32000/72436 (44%)]		Loss: 0.3308 |	RD loss: 0.3308 |	MSE loss: 0.000087 |	Bpp loss: 0.1521 |
+Train epoch 11: [36000/72436 (50%)]		Loss: 1.2857 |	RD loss: 1.2857 |	MSE loss: 0.000500 |	Bpp loss: 0.2621 |
+Train epoch 11: [40000/72436 (55%)]		Loss: 0.7144 |	RD loss: 0.7144 |	MSE loss: 0.000212 |	Bpp loss: 0.2797 |
+Train epoch 11: [44000/72436 (61%)]		Loss: 1.1383 |	RD loss: 1.1383 |	MSE loss: 0.000451 |	Bpp loss: 0.2157 |
+Train epoch 11: [48000/72436 (66%)]		Loss: 0.3185 |	RD loss: 0.3185 |	MSE loss: 0.000088 |	Bpp loss: 0.1387 |
+Train epoch 11: [52000/72436 (72%)]		Loss: 0.4642 |	RD loss: 0.4642 |	MSE loss: 0.000146 |	Bpp loss: 0.1646 |
+Train epoch 11: [56000/72436 (77%)]		Loss: 0.6838 |	RD loss: 0.6838 |	MSE loss: 0.000242 |	Bpp loss: 0.1879 |
+Train epoch 11: [60000/72436 (83%)]		Loss: 0.8860 |	RD loss: 0.8860 |	MSE loss: 0.000294 |	Bpp loss: 0.2833 |
+Train epoch 11: [64000/72436 (88%)]		Loss: 0.4968 |	RD loss: 0.4968 |	MSE loss: 0.000176 |	Bpp loss: 0.1362 |
+Train epoch 11: [68000/72436 (94%)]		Loss: 1.0261 |	RD loss: 1.0261 |	MSE loss: 0.000394 |	Bpp loss: 0.2193 |
+Train epoch 11: [72000/72436 (99%)]		Loss: 0.3724 |	RD loss: 0.3724 |	MSE loss: 0.000103 |	Bpp loss: 0.1616 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.66447463801878, BPP=0.08501995354890823
+Result of sequence Beauty: PSNR=37.7325, BPP=0.2873
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.86666407617747, BPP=0.02408650331199169
+Result of sequence HoneyBee: PSNR=40.5486, BPP=0.1773
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.2091004320053, BPP=0.046737246215343475
+Result of sequence ReadySteadyGo: PSNR=40.2401, BPP=0.3171
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.88978857591919, BPP=0.08851630240678787
+Result of sequence YachtRide: PSNR=41.5674, BPP=0.2186
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.41486105876727, BPP=0.029034284874796867
+Result of sequence Bosphorus: PSNR=42.2931, BPP=0.1717
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.45644970710757, BPP=0.07001890242099762
+Result of sequence Jockey: PSNR=41.2179, BPP=0.1747
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.04055581749132, BPP=0.15121465921401978
+Result of sequence ShakeNDry: PSNR=39.4217, BPP=0.3481
+Test epoch 11:	Loss: 0.4446 |	PSNR: 40.4316 |	MSE loss: 0.000099 |	Bpp loss: 0.2421 |
+Epoch: 11, loss: (now:0.4446)/(best:0.4446), training time: 6232.59s, testing time: 5.79s
+
+Learning rate: 0.0001
+Train epoch 12: [0/72436 (0%)]		Loss: 0.3735 |	RD loss: 0.3735 |	MSE loss: 0.000102 |	Bpp loss: 0.1649 |
+Train epoch 12: [4000/72436 (6%)]		Loss: 0.5441 |	RD loss: 0.5441 |	MSE loss: 0.000181 |	Bpp loss: 0.1739 |
+Train epoch 12: [8000/72436 (11%)]		Loss: 0.8139 |	RD loss: 0.8139 |	MSE loss: 0.000293 |	Bpp loss: 0.2142 |
+Train epoch 12: [12000/72436 (17%)]		Loss: 0.8670 |	RD loss: 0.8670 |	MSE loss: 0.000323 |	Bpp loss: 0.2054 |
+Train epoch 12: [16000/72436 (22%)]		Loss: 0.4809 |	RD loss: 0.4809 |	MSE loss: 0.000154 |	Bpp loss: 0.1653 |
+Train epoch 12: [20000/72436 (28%)]		Loss: 0.5417 |	RD loss: 0.5417 |	MSE loss: 0.000165 |	Bpp loss: 0.2032 |
+Train epoch 12: [24000/72436 (33%)]		Loss: 0.9707 |	RD loss: 0.9707 |	MSE loss: 0.000350 |	Bpp loss: 0.2544 |
+Train epoch 12: [28000/72436 (39%)]		Loss: 0.9990 |	RD loss: 0.9990 |	MSE loss: 0.000377 |	Bpp loss: 0.2275 |
+Train epoch 12: [32000/72436 (44%)]		Loss: 0.9219 |	RD loss: 0.9219 |	MSE loss: 0.000346 |	Bpp loss: 0.2129 |
+Train epoch 12: [36000/72436 (50%)]		Loss: 1.4153 |	RD loss: 1.4153 |	MSE loss: 0.000590 |	Bpp loss: 0.2064 |
+Train epoch 12: [40000/72436 (55%)]		Loss: 0.4019 |	RD loss: 0.4019 |	MSE loss: 0.000124 |	Bpp loss: 0.1481 |
+Train epoch 12: [44000/72436 (61%)]		Loss: 0.5100 |	RD loss: 0.5100 |	MSE loss: 0.000177 |	Bpp loss: 0.1473 |
+Train epoch 12: [48000/72436 (66%)]		Loss: 0.8719 |	RD loss: 0.8719 |	MSE loss: 0.000330 |	Bpp loss: 0.1966 |
+Train epoch 12: [52000/72436 (72%)]		Loss: 0.5414 |	RD loss: 0.5414 |	MSE loss: 0.000164 |	Bpp loss: 0.2049 |
+Train epoch 12: [56000/72436 (77%)]		Loss: 0.6553 |	RD loss: 0.6553 |	MSE loss: 0.000217 |	Bpp loss: 0.2103 |
+Train epoch 12: [60000/72436 (83%)]		Loss: 0.9003 |	RD loss: 0.9003 |	MSE loss: 0.000333 |	Bpp loss: 0.2189 |
+Train epoch 12: [64000/72436 (88%)]		Loss: 0.4878 |	RD loss: 0.4878 |	MSE loss: 0.000133 |	Bpp loss: 0.2152 |
+Train epoch 12: [68000/72436 (94%)]		Loss: 0.4651 |	RD loss: 0.4651 |	MSE loss: 0.000134 |	Bpp loss: 0.1909 |
+Train epoch 12: [72000/72436 (99%)]		Loss: 0.4908 |	RD loss: 0.4908 |	MSE loss: 0.000147 |	Bpp loss: 0.1906 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.6375916903298, BPP=0.08166933804750443
+Result of sequence Beauty: PSNR=37.7191, BPP=0.2856
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.89968126899458, BPP=0.021837381646037102
+Result of sequence HoneyBee: PSNR=40.5651, BPP=0.1762
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.37794416554333, BPP=0.045142192393541336
+Result of sequence ReadySteadyGo: PSNR=40.3245, BPP=0.3163
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=39.9834063098028, BPP=0.0846102237701416
+Result of sequence YachtRide: PSNR=41.6142, BPP=0.2166
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.41944077090214, BPP=0.026834597811102867
+Result of sequence Bosphorus: PSNR=42.2954, BPP=0.1706
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.22812232452925, BPP=0.05925992876291275
+Result of sequence Jockey: PSNR=41.1038, BPP=0.1693
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.02756382709374, BPP=0.14896199107170105
+Result of sequence ShakeNDry: PSNR=39.4152, BPP=0.3470
+Test epoch 12:	Loss: 0.4426 |	PSNR: 40.4339 |	MSE loss: 0.000099 |	Bpp loss: 0.2402 |
+Epoch: 12, loss: (now:0.4426)/(best:0.4426), training time: 6223.60s, testing time: 5.81s
+
+Learning rate: 0.0001
+Train epoch 13: [0/72436 (0%)]		Loss: 0.3728 |	RD loss: 0.3728 |	MSE loss: 0.000120 |	Bpp loss: 0.1264 |
+Train epoch 13: [4000/72436 (6%)]		Loss: 0.8639 |	RD loss: 0.8639 |	MSE loss: 0.000327 |	Bpp loss: 0.1945 |
+Train epoch 13: [8000/72436 (11%)]		Loss: 0.7392 |	RD loss: 0.7392 |	MSE loss: 0.000257 |	Bpp loss: 0.2120 |
+Train epoch 13: [12000/72436 (17%)]		Loss: 0.5676 |	RD loss: 0.5676 |	MSE loss: 0.000177 |	Bpp loss: 0.2055 |
+Train epoch 13: [16000/72436 (22%)]		Loss: 0.6841 |	RD loss: 0.6841 |	MSE loss: 0.000211 |	Bpp loss: 0.2527 |
+Train epoch 13: [20000/72436 (28%)]		Loss: 0.5485 |	RD loss: 0.5485 |	MSE loss: 0.000171 |	Bpp loss: 0.1992 |
+Train epoch 13: [24000/72436 (33%)]		Loss: 0.5208 |	RD loss: 0.5208 |	MSE loss: 0.000172 |	Bpp loss: 0.1678 |
+Train epoch 13: [28000/72436 (39%)]		Loss: 0.3945 |	RD loss: 0.3945 |	MSE loss: 0.000107 |	Bpp loss: 0.1755 |
+Train epoch 13: [32000/72436 (44%)]		Loss: 0.5292 |	RD loss: 0.5292 |	MSE loss: 0.000156 |	Bpp loss: 0.2092 |
+Train epoch 13: [36000/72436 (50%)]		Loss: 0.7881 |	RD loss: 0.7881 |	MSE loss: 0.000256 |	Bpp loss: 0.2633 |
+Train epoch 13: [40000/72436 (55%)]		Loss: 1.2907 |	RD loss: 1.2907 |	MSE loss: 0.000523 |	Bpp loss: 0.2204 |
+Train epoch 13: [44000/72436 (61%)]		Loss: 0.4150 |	RD loss: 0.4150 |	MSE loss: 0.000123 |	Bpp loss: 0.1628 |
+Train epoch 13: [48000/72436 (66%)]		Loss: 0.4229 |	RD loss: 0.4229 |	MSE loss: 0.000134 |	Bpp loss: 0.1491 |
+Train epoch 13: [52000/72436 (72%)]		Loss: 0.4528 |	RD loss: 0.4528 |	MSE loss: 0.000152 |	Bpp loss: 0.1421 |
+Train epoch 13: [56000/72436 (77%)]		Loss: 0.5126 |	RD loss: 0.5126 |	MSE loss: 0.000165 |	Bpp loss: 0.1745 |
+Train epoch 13: [60000/72436 (83%)]		Loss: 0.5419 |	RD loss: 0.5419 |	MSE loss: 0.000171 |	Bpp loss: 0.1927 |
+Train epoch 13: [64000/72436 (88%)]		Loss: 0.5328 |	RD loss: 0.5328 |	MSE loss: 0.000168 |	Bpp loss: 0.1892 |
+Train epoch 13: [68000/72436 (94%)]		Loss: 0.4964 |	RD loss: 0.4964 |	MSE loss: 0.000155 |	Bpp loss: 0.1781 |
+Train epoch 13: [72000/72436 (99%)]		Loss: 1.1008 |	RD loss: 1.1008 |	MSE loss: 0.000443 |	Bpp loss: 0.1945 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.60379465425592, BPP=0.08237417787313461
+Result of sequence Beauty: PSNR=37.7022, BPP=0.2860
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.87908300536723, BPP=0.024784505367279053
+Result of sequence HoneyBee: PSNR=40.5548, BPP=0.1777
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.323960200463176, BPP=0.047793641686439514
+Result of sequence ReadySteadyGo: PSNR=40.2975, BPP=0.3176
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.04770497036378, BPP=0.08831319212913513
+Result of sequence YachtRide: PSNR=41.6464, BPP=0.2185
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.480151108936035, BPP=0.029223037883639336
+Result of sequence Bosphorus: PSNR=42.3258, BPP=0.1718
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.30824621348138, BPP=0.05004763603210449
+Result of sequence Jockey: PSNR=41.1438, BPP=0.1647
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.052127645160255, BPP=0.15466269850730896
+Result of sequence ShakeNDry: PSNR=39.4275, BPP=0.3498
+Test epoch 13:	Loss: 0.4430 |	PSNR: 40.4426 |	MSE loss: 0.000099 |	Bpp loss: 0.2409 |
+Epoch: 13, loss: (now:0.4430)/(best:0.4426), training time: 6326.71s, testing time: 5.79s
+
+Learning rate: 0.0001
+Train epoch 14: [0/72436 (0%)]		Loss: 0.4173 |	RD loss: 0.4173 |	MSE loss: 0.000124 |	Bpp loss: 0.1627 |
+Train epoch 14: [4000/72436 (6%)]		Loss: 0.4534 |	RD loss: 0.4534 |	MSE loss: 0.000145 |	Bpp loss: 0.1555 |
+Train epoch 14: [8000/72436 (11%)]		Loss: 1.2713 |	RD loss: 1.2713 |	MSE loss: 0.000488 |	Bpp loss: 0.2711 |
+Train epoch 14: [12000/72436 (17%)]		Loss: 1.2467 |	RD loss: 1.2467 |	MSE loss: 0.000495 |	Bpp loss: 0.2339 |
+Train epoch 14: [16000/72436 (22%)]		Loss: 1.0957 |	RD loss: 1.0957 |	MSE loss: 0.000430 |	Bpp loss: 0.2159 |
+Train epoch 14: [20000/72436 (28%)]		Loss: 0.9981 |	RD loss: 0.9981 |	MSE loss: 0.000359 |	Bpp loss: 0.2638 |
+Train epoch 14: [24000/72436 (33%)]		Loss: 0.4985 |	RD loss: 0.4985 |	MSE loss: 0.000157 |	Bpp loss: 0.1774 |
+Train epoch 14: [28000/72436 (39%)]		Loss: 0.3773 |	RD loss: 0.3773 |	MSE loss: 0.000095 |	Bpp loss: 0.1827 |
+Train epoch 14: [32000/72436 (44%)]		Loss: 0.9558 |	RD loss: 0.9558 |	MSE loss: 0.000361 |	Bpp loss: 0.2165 |
+Train epoch 14: [36000/72436 (50%)]		Loss: 1.3514 |	RD loss: 1.3514 |	MSE loss: 0.000517 |	Bpp loss: 0.2921 |
+Train epoch 14: [40000/72436 (55%)]		Loss: 1.1088 |	RD loss: 1.1088 |	MSE loss: 0.000417 |	Bpp loss: 0.2539 |
+Train epoch 14: [44000/72436 (61%)]		Loss: 0.5203 |	RD loss: 0.5203 |	MSE loss: 0.000172 |	Bpp loss: 0.1689 |
+Train epoch 14: [48000/72436 (66%)]		Loss: 1.1008 |	RD loss: 1.1008 |	MSE loss: 0.000407 |	Bpp loss: 0.2674 |
+Train epoch 14: [52000/72436 (72%)]		Loss: 0.3574 |	RD loss: 0.3574 |	MSE loss: 0.000089 |	Bpp loss: 0.1761 |
+Train epoch 14: [56000/72436 (77%)]		Loss: 0.3512 |	RD loss: 0.3512 |	MSE loss: 0.000088 |	Bpp loss: 0.1703 |
+Train epoch 14: [60000/72436 (83%)]		Loss: 0.5987 |	RD loss: 0.5987 |	MSE loss: 0.000203 |	Bpp loss: 0.1826 |
+Train epoch 14: [64000/72436 (88%)]		Loss: 0.3935 |	RD loss: 0.3935 |	MSE loss: 0.000117 |	Bpp loss: 0.1547 |
+Train epoch 14: [68000/72436 (94%)]		Loss: 0.7136 |	RD loss: 0.7136 |	MSE loss: 0.000241 |	Bpp loss: 0.2193 |
+Train epoch 14: [72000/72436 (99%)]		Loss: 0.9058 |	RD loss: 0.9058 |	MSE loss: 0.000344 |	Bpp loss: 0.2009 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.64043243416534, BPP=0.07754706591367722
+Result of sequence Beauty: PSNR=37.7205, BPP=0.2836
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.92855116935701, BPP=0.022974558174610138
+Result of sequence HoneyBee: PSNR=40.5796, BPP=0.1768
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.38703965641742, BPP=0.04614163190126419
+Result of sequence ReadySteadyGo: PSNR=40.3291, BPP=0.3168
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.162575113731116, BPP=0.08277198672294617
+Result of sequence YachtRide: PSNR=41.7038, BPP=0.2157
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.53555389291814, BPP=0.027919813990592957
+Result of sequence Bosphorus: PSNR=42.3535, BPP=0.1712
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.33436451779381, BPP=0.05032755061984062
+Result of sequence Jockey: PSNR=41.1569, BPP=0.1649
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.19542139049271, BPP=0.15137778222560883
+Result of sequence ShakeNDry: PSNR=39.4991, BPP=0.3482
+Test epoch 14:	Loss: 0.4397 |	PSNR: 40.4775 |	MSE loss: 0.000098 |	Bpp loss: 0.2396 |
+Epoch: 14, loss: (now:0.4397)/(best:0.4397), training time: 6313.82s, testing time: 5.76s
+
+Learning rate: 5e-05
+Train epoch 15: [0/72436 (0%)]		Loss: 0.6088 |	RD loss: 0.6088 |	MSE loss: 0.000205 |	Bpp loss: 0.1884 |
+Train epoch 15: [4000/72436 (6%)]		Loss: 0.3008 |	RD loss: 0.3008 |	MSE loss: 0.000073 |	Bpp loss: 0.1509 |
+Train epoch 15: [8000/72436 (11%)]		Loss: 0.6037 |	RD loss: 0.6037 |	MSE loss: 0.000193 |	Bpp loss: 0.2094 |
+Train epoch 15: [12000/72436 (17%)]		Loss: 1.1803 |	RD loss: 1.1803 |	MSE loss: 0.000423 |	Bpp loss: 0.3131 |
+Train epoch 15: [16000/72436 (22%)]		Loss: 0.7939 |	RD loss: 0.7939 |	MSE loss: 0.000281 |	Bpp loss: 0.2191 |
+Train epoch 15: [20000/72436 (28%)]		Loss: 0.8772 |	RD loss: 0.8772 |	MSE loss: 0.000299 |	Bpp loss: 0.2646 |
+Train epoch 15: [24000/72436 (33%)]		Loss: 0.5219 |	RD loss: 0.5219 |	MSE loss: 0.000167 |	Bpp loss: 0.1808 |
+Train epoch 15: [28000/72436 (39%)]		Loss: 0.5996 |	RD loss: 0.5996 |	MSE loss: 0.000212 |	Bpp loss: 0.1660 |
+Train epoch 15: [32000/72436 (44%)]		Loss: 0.7311 |	RD loss: 0.7311 |	MSE loss: 0.000283 |	Bpp loss: 0.1507 |
+Train epoch 15: [36000/72436 (50%)]		Loss: 0.4532 |	RD loss: 0.4532 |	MSE loss: 0.000130 |	Bpp loss: 0.1863 |
+Train epoch 15: [40000/72436 (55%)]		Loss: 0.5355 |	RD loss: 0.5355 |	MSE loss: 0.000194 |	Bpp loss: 0.1385 |
+Train epoch 15: [44000/72436 (61%)]		Loss: 0.6149 |	RD loss: 0.6149 |	MSE loss: 0.000205 |	Bpp loss: 0.1954 |
+Train epoch 15: [48000/72436 (66%)]		Loss: 0.6021 |	RD loss: 0.6021 |	MSE loss: 0.000187 |	Bpp loss: 0.2187 |
+Train epoch 15: [52000/72436 (72%)]		Loss: 1.0270 |	RD loss: 1.0270 |	MSE loss: 0.000409 |	Bpp loss: 0.1902 |
+Train epoch 15: [56000/72436 (77%)]		Loss: 0.5104 |	RD loss: 0.5104 |	MSE loss: 0.000146 |	Bpp loss: 0.2108 |
+Train epoch 15: [60000/72436 (83%)]		Loss: 0.6337 |	RD loss: 0.6337 |	MSE loss: 0.000220 |	Bpp loss: 0.1840 |
+Train epoch 15: [64000/72436 (88%)]		Loss: 0.8328 |	RD loss: 0.8328 |	MSE loss: 0.000299 |	Bpp loss: 0.2211 |
+Train epoch 15: [68000/72436 (94%)]		Loss: 0.5077 |	RD loss: 0.5077 |	MSE loss: 0.000157 |	Bpp loss: 0.1858 |
+Train epoch 15: [72000/72436 (99%)]		Loss: 0.7423 |	RD loss: 0.7423 |	MSE loss: 0.000263 |	Bpp loss: 0.2037 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.77939033926507, BPP=0.08873569220304489
+Result of sequence Beauty: PSNR=37.7900, BPP=0.2892
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=40.00922387440589, BPP=0.02571392059326172
+Result of sequence HoneyBee: PSNR=40.6199, BPP=0.1781
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.579364642491804, BPP=0.042020317167043686
+Result of sequence ReadySteadyGo: PSNR=40.4252, BPP=0.3147
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.42633485938423, BPP=0.08371176570653915
+Result of sequence YachtRide: PSNR=41.8357, BPP=0.2162
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.63684047075296, BPP=0.02744986303150654
+Result of sequence Bosphorus: PSNR=42.4041, BPP=0.1709
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.6082142289866, BPP=0.04196207970380783
+Result of sequence Jockey: PSNR=41.2938, BPP=0.1607
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.348759288745114, BPP=0.15619242191314697
+Result of sequence ShakeNDry: PSNR=39.5758, BPP=0.3506
+Test epoch 15:	Loss: 0.4355 |	PSNR: 40.5635 |	MSE loss: 0.000095 |	Bpp loss: 0.2401 |
+Epoch: 15, loss: (now:0.4355)/(best:0.4355), training time: 6283.26s, testing time: 5.79s
+
+Learning rate: 5e-05
+Train epoch 16: [0/72436 (0%)]		Loss: 0.5570 |	RD loss: 0.5570 |	MSE loss: 0.000181 |	Bpp loss: 0.1855 |
+Train epoch 16: [4000/72436 (6%)]		Loss: 0.4609 |	RD loss: 0.4609 |	MSE loss: 0.000143 |	Bpp loss: 0.1689 |
+Train epoch 16: [8000/72436 (11%)]		Loss: 0.5012 |	RD loss: 0.5012 |	MSE loss: 0.000145 |	Bpp loss: 0.2049 |
+Train epoch 16: [12000/72436 (17%)]		Loss: 0.6390 |	RD loss: 0.6390 |	MSE loss: 0.000194 |	Bpp loss: 0.2409 |
+Train epoch 16: [16000/72436 (22%)]		Loss: 0.4331 |	RD loss: 0.4331 |	MSE loss: 0.000117 |	Bpp loss: 0.1940 |
+Train epoch 16: [20000/72436 (28%)]		Loss: 0.3578 |	RD loss: 0.3578 |	MSE loss: 0.000106 |	Bpp loss: 0.1403 |
+Train epoch 16: [24000/72436 (33%)]		Loss: 0.3884 |	RD loss: 0.3884 |	MSE loss: 0.000114 |	Bpp loss: 0.1553 |
+Train epoch 16: [28000/72436 (39%)]		Loss: 1.0759 |	RD loss: 1.0759 |	MSE loss: 0.000444 |	Bpp loss: 0.1674 |
+Train epoch 16: [32000/72436 (44%)]		Loss: 0.3871 |	RD loss: 0.3871 |	MSE loss: 0.000100 |	Bpp loss: 0.1827 |
+Train epoch 16: [36000/72436 (50%)]		Loss: 0.6658 |	RD loss: 0.6658 |	MSE loss: 0.000239 |	Bpp loss: 0.1757 |
+Train epoch 16: [40000/72436 (55%)]		Loss: 0.6864 |	RD loss: 0.6864 |	MSE loss: 0.000225 |	Bpp loss: 0.2265 |
+Train epoch 16: [44000/72436 (61%)]		Loss: 0.6635 |	RD loss: 0.6635 |	MSE loss: 0.000227 |	Bpp loss: 0.1976 |
+Train epoch 16: [48000/72436 (66%)]		Loss: 0.2858 |	RD loss: 0.2858 |	MSE loss: 0.000065 |	Bpp loss: 0.1520 |
+Train epoch 16: [52000/72436 (72%)]		Loss: 0.6121 |	RD loss: 0.6121 |	MSE loss: 0.000187 |	Bpp loss: 0.2287 |
+Train epoch 16: [56000/72436 (77%)]		Loss: 0.5546 |	RD loss: 0.5546 |	MSE loss: 0.000161 |	Bpp loss: 0.2254 |
+Train epoch 16: [60000/72436 (83%)]		Loss: 0.6533 |	RD loss: 0.6533 |	MSE loss: 0.000207 |	Bpp loss: 0.2301 |
+Train epoch 16: [64000/72436 (88%)]		Loss: 0.6414 |	RD loss: 0.6414 |	MSE loss: 0.000224 |	Bpp loss: 0.1829 |
+Train epoch 16: [68000/72436 (94%)]		Loss: 0.7573 |	RD loss: 0.7573 |	MSE loss: 0.000255 |	Bpp loss: 0.2353 |
+Train epoch 16: [72000/72436 (99%)]		Loss: 0.4330 |	RD loss: 0.4330 |	MSE loss: 0.000143 |	Bpp loss: 0.1392 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.722580546062524, BPP=0.08305937051773071
+Result of sequence Beauty: PSNR=37.7616, BPP=0.2863
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=39.90233816695228, BPP=0.018370304256677628
+Result of sequence HoneyBee: PSNR=40.5665, BPP=0.1745
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.50022564932636, BPP=0.03842936456203461
+Result of sequence ReadySteadyGo: PSNR=40.3856, BPP=0.3129
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.34827858832131, BPP=0.08052527159452438
+Result of sequence YachtRide: PSNR=41.7967, BPP=0.2146
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.437024052714136, BPP=0.023729652166366577
+Result of sequence Bosphorus: PSNR=42.3042, BPP=0.1691
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.5129331435011, BPP=0.03791992366313934
+Result of sequence Jockey: PSNR=41.2462, BPP=0.1587
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.3189585534102, BPP=0.15220984816551208
+Result of sequence ShakeNDry: PSNR=39.5609, BPP=0.3486
+Test epoch 16:	Loss: 0.4355 |	PSNR: 40.5174 |	MSE loss: 0.000097 |	Bpp loss: 0.2378 |
+Epoch: 16, loss: (now:0.4355)/(best:0.4355), training time: 6407.66s, testing time: 5.78s
+
+Learning rate: 5e-05
+Train epoch 17: [0/72436 (0%)]		Loss: 0.6343 |	RD loss: 0.6343 |	MSE loss: 0.000221 |	Bpp loss: 0.1815 |
+Train epoch 17: [4000/72436 (6%)]		Loss: 0.2457 |	RD loss: 0.2457 |	MSE loss: 0.000066 |	Bpp loss: 0.1098 |
+Train epoch 17: [8000/72436 (11%)]		Loss: 0.3500 |	RD loss: 0.3500 |	MSE loss: 0.000087 |	Bpp loss: 0.1708 |
+Train epoch 17: [12000/72436 (17%)]		Loss: 0.5046 |	RD loss: 0.5046 |	MSE loss: 0.000171 |	Bpp loss: 0.1545 |
+Train epoch 17: [16000/72436 (22%)]		Loss: 0.3511 |	RD loss: 0.3511 |	MSE loss: 0.000097 |	Bpp loss: 0.1528 |
+Train epoch 17: [20000/72436 (28%)]		Loss: 0.5650 |	RD loss: 0.5650 |	MSE loss: 0.000192 |	Bpp loss: 0.1728 |
+Train epoch 17: [24000/72436 (33%)]		Loss: 0.4798 |	RD loss: 0.4798 |	MSE loss: 0.000150 |	Bpp loss: 0.1732 |
+Train epoch 17: [28000/72436 (39%)]		Loss: 0.6343 |	RD loss: 0.6343 |	MSE loss: 0.000222 |	Bpp loss: 0.1802 |
+Train epoch 17: [32000/72436 (44%)]		Loss: 0.6397 |	RD loss: 0.6397 |	MSE loss: 0.000243 |	Bpp loss: 0.1420 |
+Train epoch 17: [36000/72436 (50%)]		Loss: 0.3334 |	RD loss: 0.3334 |	MSE loss: 0.000100 |	Bpp loss: 0.1295 |
+Train epoch 17: [40000/72436 (55%)]		Loss: 0.5654 |	RD loss: 0.5654 |	MSE loss: 0.000181 |	Bpp loss: 0.1943 |
+Train epoch 17: [44000/72436 (61%)]		Loss: 0.9225 |	RD loss: 0.9225 |	MSE loss: 0.000319 |	Bpp loss: 0.2692 |
+Train epoch 17: [48000/72436 (66%)]		Loss: 0.3964 |	RD loss: 0.3964 |	MSE loss: 0.000106 |	Bpp loss: 0.1787 |
+Train epoch 17: [52000/72436 (72%)]		Loss: 0.3145 |	RD loss: 0.3145 |	MSE loss: 0.000098 |	Bpp loss: 0.1141 |
+Train epoch 17: [56000/72436 (77%)]		Loss: 0.3349 |	RD loss: 0.3349 |	MSE loss: 0.000081 |	Bpp loss: 0.1689 |
+Train epoch 17: [60000/72436 (83%)]		Loss: 0.3127 |	RD loss: 0.3127 |	MSE loss: 0.000088 |	Bpp loss: 0.1317 |
+Train epoch 17: [64000/72436 (88%)]		Loss: 0.2721 |	RD loss: 0.2721 |	MSE loss: 0.000060 |	Bpp loss: 0.1498 |
+Train epoch 17: [68000/72436 (94%)]		Loss: 0.2933 |	RD loss: 0.2933 |	MSE loss: 0.000087 |	Bpp loss: 0.1149 |
+Train epoch 17: [72000/72436 (99%)]		Loss: 0.7531 |	RD loss: 0.7531 |	MSE loss: 0.000271 |	Bpp loss: 0.1985 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.762492015638955, BPP=0.08730699867010117
+Result of sequence Beauty: PSNR=37.7815, BPP=0.2885
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=40.00437024900053, BPP=0.021865330636501312
+Result of sequence HoneyBee: PSNR=40.6175, BPP=0.1762
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.56940216469143, BPP=0.03909046947956085
+Result of sequence ReadySteadyGo: PSNR=40.4202, BPP=0.3132
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.46414750446678, BPP=0.08076752722263336
+Result of sequence YachtRide: PSNR=41.8546, BPP=0.2147
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.648009136812185, BPP=0.024988781660795212
+Result of sequence Bosphorus: PSNR=42.4097, BPP=0.1697
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.49999773862692, BPP=0.039987970143556595
+Result of sequence Jockey: PSNR=41.2397, BPP=0.1597
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.35541694148493, BPP=0.15328359603881836
+Result of sequence ShakeNDry: PSNR=39.5791, BPP=0.3491
+Test epoch 17:	Loss: 0.4345 |	PSNR: 40.5575 |	MSE loss: 0.000096 |	Bpp loss: 0.2387 |
+Epoch: 17, loss: (now:0.4345)/(best:0.4345), training time: 6536.72s, testing time: 5.68s
+
+Training dataset find sequences: 72436
+Learning rate: 0.0001
+Train epoch 18: [0/72436 (0%)]		Loss: 7.8018 |	RD loss: 4.8611 |	MSE loss: 0.001976 |	Bpp loss: 0.8153 |
+Train epoch 18: [4000/72436 (6%)]		Loss: 3.7820 |	RD loss: 1.3136 |	MSE loss: 0.000515 |	Bpp loss: 0.2582 |
+Train epoch 18: [8000/72436 (11%)]		Loss: 2.0969 |	RD loss: 0.6700 |	MSE loss: 0.000221 |	Bpp loss: 0.2178 |
+Train epoch 18: [12000/72436 (17%)]		Loss: 3.0232 |	RD loss: 0.9050 |	MSE loss: 0.000327 |	Bpp loss: 0.2359 |
+Train epoch 18: [16000/72436 (22%)]		Loss: 1.5489 |	RD loss: 0.4067 |	MSE loss: 0.000124 |	Bpp loss: 0.1529 |
+Train epoch 18: [20000/72436 (28%)]		Loss: 2.8017 |	RD loss: 0.9323 |	MSE loss: 0.000349 |	Bpp loss: 0.2183 |
+Train epoch 18: [24000/72436 (33%)]		Loss: 2.5609 |	RD loss: 0.8289 |	MSE loss: 0.000285 |	Bpp loss: 0.2453 |
+Train epoch 18: [28000/72436 (39%)]		Loss: 1.6152 |	RD loss: 0.4197 |	MSE loss: 0.000131 |	Bpp loss: 0.1512 |
+Train epoch 18: [32000/72436 (44%)]		Loss: 2.3082 |	RD loss: 0.6396 |	MSE loss: 0.000226 |	Bpp loss: 0.1775 |
+Train epoch 18: [36000/72436 (50%)]		Loss: 1.8789 |	RD loss: 0.5401 |	MSE loss: 0.000167 |	Bpp loss: 0.1982 |
+Train epoch 18: [40000/72436 (55%)]		Loss: 2.6947 |	RD loss: 0.8032 |	MSE loss: 0.000316 |	Bpp loss: 0.1563 |
+Train epoch 18: [44000/72436 (61%)]		Loss: 3.4467 |	RD loss: 0.8729 |	MSE loss: 0.000336 |	Bpp loss: 0.1844 |
+Train epoch 18: [48000/72436 (66%)]		Loss: 2.2549 |	RD loss: 0.5929 |	MSE loss: 0.000214 |	Bpp loss: 0.1540 |
+Train epoch 18: [52000/72436 (72%)]		Loss: 3.5217 |	RD loss: 1.4751 |	MSE loss: 0.000575 |	Bpp loss: 0.2971 |
+Train epoch 18: [56000/72436 (77%)]		Loss: 3.9179 |	RD loss: 1.0772 |	MSE loss: 0.000429 |	Bpp loss: 0.1978 |
+Train epoch 18: [60000/72436 (83%)]		Loss: 2.9766 |	RD loss: 0.8146 |	MSE loss: 0.000314 |	Bpp loss: 0.1715 |
+Train epoch 18: [64000/72436 (88%)]		Loss: 1.9254 |	RD loss: 0.5564 |	MSE loss: 0.000207 |	Bpp loss: 0.1329 |
+Train epoch 18: [68000/72436 (94%)]		Loss: 2.1342 |	RD loss: 0.5401 |	MSE loss: 0.000186 |	Bpp loss: 0.1592 |
+Train epoch 18: [72000/72436 (99%)]		Loss: 2.7253 |	RD loss: 0.7665 |	MSE loss: 0.000274 |	Bpp loss: 0.2055 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.840366975121256, BPP=0.11087916791439056
+Result of sequence Beauty: PSNR=37.8205, BPP=0.3002
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=40.55788946038932, BPP=0.08636395633220673
+Result of sequence HoneyBee: PSNR=40.8942, BPP=0.2085
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.93496344871926, BPP=0.10313202440738678
+Result of sequence ReadySteadyGo: PSNR=40.6030, BPP=0.3453
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.71518125317847, BPP=0.11936570703983307
+Result of sequence YachtRide: PSNR=41.9801, BPP=0.2340
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=42.17268068617333, BPP=0.0744747519493103
+Result of sequence Bosphorus: PSNR=42.6720, BPP=0.1945
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=41.152766043428045, BPP=0.09677759557962418
+Result of sequence Jockey: PSNR=41.5661, BPP=0.1881
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.671054860873674, BPP=0.21061089634895325
+Result of sequence ShakeNDry: PSNR=39.7370, BPP=0.3778
+Test epoch 18:	Loss: 0.4510 |	PSNR: 40.7533 |	MSE loss: 0.000091 |	Bpp loss: 0.2640 |
+Epoch: 18, loss: (now:0.4510)/(best:0.4345), training time: 10602.02s, testing time: 5.86s
+
+Learning rate: 0.0001
+Train epoch 19: [0/72436 (0%)]		Loss: 2.2002 |	RD loss: 0.6168 |	MSE loss: 0.000230 |	Bpp loss: 0.1462 |
+Train epoch 19: [4000/72436 (6%)]		Loss: 2.4494 |	RD loss: 0.7454 |	MSE loss: 0.000283 |	Bpp loss: 0.1665 |
+Train epoch 19: [8000/72436 (11%)]		Loss: 1.6190 |	RD loss: 0.4337 |	MSE loss: 0.000117 |	Bpp loss: 0.1937 |
+Train epoch 19: [12000/72436 (17%)]		Loss: 2.5445 |	RD loss: 0.6646 |	MSE loss: 0.000239 |	Bpp loss: 0.1752 |
+Train epoch 19: [16000/72436 (22%)]		Loss: 1.7030 |	RD loss: 0.4009 |	MSE loss: 0.000141 |	Bpp loss: 0.1114 |
+Train epoch 19: [20000/72436 (28%)]		Loss: 2.8866 |	RD loss: 0.8882 |	MSE loss: 0.000326 |	Bpp loss: 0.2200 |
+Train epoch 19: [24000/72436 (33%)]		Loss: 1.0986 |	RD loss: 0.2731 |	MSE loss: 0.000077 |	Bpp loss: 0.1160 |
+Train epoch 19: [28000/72436 (39%)]		Loss: 1.7546 |	RD loss: 0.5001 |	MSE loss: 0.000170 |	Bpp loss: 0.1530 |
+Train epoch 19: [32000/72436 (44%)]		Loss: 1.9204 |	RD loss: 0.5033 |	MSE loss: 0.000165 |	Bpp loss: 0.1655 |
+Train epoch 19: [36000/72436 (50%)]		Loss: 1.3270 |	RD loss: 0.3905 |	MSE loss: 0.000110 |	Bpp loss: 0.1656 |
+Train epoch 19: [40000/72436 (55%)]		Loss: 3.4800 |	RD loss: 0.9780 |	MSE loss: 0.000347 |	Bpp loss: 0.2671 |
+Train epoch 19: [44000/72436 (61%)]		Loss: 5.4177 |	RD loss: 1.6477 |	MSE loss: 0.000688 |	Bpp loss: 0.2390 |
+Train epoch 19: [48000/72436 (66%)]		Loss: 2.2289 |	RD loss: 0.7305 |	MSE loss: 0.000255 |	Bpp loss: 0.2074 |
+Train epoch 19: [52000/72436 (72%)]		Loss: 1.8018 |	RD loss: 0.5166 |	MSE loss: 0.000170 |	Bpp loss: 0.1690 |
+Train epoch 19: [56000/72436 (77%)]		Loss: 1.7778 |	RD loss: 0.4429 |	MSE loss: 0.000155 |	Bpp loss: 0.1248 |
+Train epoch 19: [60000/72436 (83%)]		Loss: 1.1509 |	RD loss: 0.2825 |	MSE loss: 0.000087 |	Bpp loss: 0.1050 |
+Train epoch 19: [64000/72436 (88%)]		Loss: 1.1766 |	RD loss: 0.3385 |	MSE loss: 0.000088 |	Bpp loss: 0.1591 |
+Train epoch 19: [68000/72436 (94%)]		Loss: 1.3674 |	RD loss: 0.4206 |	MSE loss: 0.000134 |	Bpp loss: 0.1455 |
+Train epoch 19: [72000/72436 (99%)]		Loss: 1.4871 |	RD loss: 0.3688 |	MSE loss: 0.000120 |	Bpp loss: 0.1237 |
+Evaluating sequence 1: Beauty...
+Frame 1: PSNR=38.80054863349818, BPP=0.4895980656147003
+Frame 2: PSNR=36.76129114522692, BPP=0.09960120171308517
+Result of sequence Beauty: PSNR=37.7809, BPP=0.2946
+Evaluating sequence 2: HoneyBee...
+Frame 1: PSNR=41.230573429847645, BPP=0.330546110868454
+Frame 2: PSNR=40.44212197399604, BPP=0.08490559458732605
+Result of sequence HoneyBee: PSNR=40.8363, BPP=0.2077
+Evaluating sequence 3: ReadySteadyGo...
+Frame 1: PSNR=41.271072677516415, BPP=0.5874077677726746
+Frame 2: PSNR=39.93242434297342, BPP=0.10309895128011703
+Result of sequence ReadySteadyGo: PSNR=40.6017, BPP=0.3453
+Evaluating sequence 4: YachtRide...
+Frame 1: PSNR=43.24506369670029, BPP=0.3486829102039337
+Frame 2: PSNR=40.62428450169083, BPP=0.12149262428283691
+Result of sequence YachtRide: PSNR=41.9347, BPP=0.2351
+Evaluating sequence 5: Bosphorus...
+Frame 1: PSNR=43.17137452872859, BPP=0.31442901492118835
+Frame 2: PSNR=41.8849683848794, BPP=0.07308652251958847
+Result of sequence Bosphorus: PSNR=42.5282, BPP=0.1938
+Evaluating sequence 6: Jockey...
+Frame 1: PSNR=41.97941726778006, BPP=0.27939900755882263
+Frame 2: PSNR=40.99600510359858, BPP=0.10322338342666626
+Result of sequence Jockey: PSNR=41.4877, BPP=0.1913
+Evaluating sequence 7: ShakeNDry...
+Frame 1: PSNR=40.802876154607034, BPP=0.5449854731559753
+Frame 2: PSNR=38.70627830590285, BPP=0.2080417424440384
+Result of sequence ShakeNDry: PSNR=39.7546, BPP=0.3765
+Test epoch 19:	Loss: 0.4525 |	PSNR: 40.7035 |	MSE loss: 0.000092 |	Bpp loss: 0.2635 |
+Epoch: 19, loss: (now:0.4525)/(best:0.4345), training time: 10655.97s, testing time: 5.67s
+
+Learning rate: 0.0001
+Train epoch 20: [0/72436 (0%)]		Loss: 1.2036 |	RD loss: 0.2612 |	MSE loss: 0.000082 |	Bpp loss: 0.0938 |
+Train epoch 20: [4000/72436 (6%)]		Loss: 1.5178 |	RD loss: 0.4279 |	MSE loss: 0.000125 |	Bpp loss: 0.1711 |
+Train epoch 20: [8000/72436 (11%)]		Loss: 2.4996 |	RD loss: 0.7596 |	MSE loss: 0.000268 |	Bpp loss: 0.2117 |
+Train epoch 20: [12000/72436 (17%)]		Loss: 2.0124 |	RD loss: 0.6191 |	MSE loss: 0.000205 |	Bpp loss: 0.1996 |
+Train epoch 20: [16000/72436 (22%)]		Loss: 0.9389 |	RD loss: 0.2441 |	MSE loss: 0.000062 |	Bpp loss: 0.1176 |
+Train epoch 20: [20000/72436 (28%)]		Loss: 1.5039 |	RD loss: 0.4547 |	MSE loss: 0.000131 |	Bpp loss: 0.1869 |
+Train epoch 20: [24000/72436 (33%)]		Loss: 2.0682 |	RD loss: 0.5685 |	MSE loss: 0.000194 |	Bpp loss: 0.1717 |
+Train epoch 20: [28000/72436 (39%)]		Loss: 1.4810 |	RD loss: 0.3914 |	MSE loss: 0.000116 |	Bpp loss: 0.1545 |
+Train epoch 20: [32000/72436 (44%)]		Loss: 1.8449 |	RD loss: 0.4886 |	MSE loss: 0.000162 |	Bpp loss: 0.1573 |

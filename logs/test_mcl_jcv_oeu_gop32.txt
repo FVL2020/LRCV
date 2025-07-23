@@ -1,0 +1,2502 @@
+Testing dataset contain 30 folders, 96 frames / folder
+Testing dataset contain 30 folders, 96 frames / folder
+Loading:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+original loss: 1.0000
+Training sequence 1: videoSRC16...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.015805/0.015805, PSNR: 39.7138/39.7138, BPP: 0.0066/0.0066
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.5644
+Test epoch 1/10, Time: 42.5644, Loss: 0.015721/0.015721, PSNR: 39.5716/39.5716, BPP: 0.0062/0.0062
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0130
+Test epoch 2/10, Time: 42.0130, Loss: 0.015593/0.015593, PSNR: 39.5635/39.5635, BPP: 0.0060/0.0060
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9297
+Test epoch 3/10, Time: 41.9297, Loss: 0.015579/0.015579, PSNR: 39.5444/39.5444, BPP: 0.0060/0.0060
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9266
+Test epoch 4/10, Time: 41.9266, Loss: 0.015490/0.015490, PSNR: 39.5406/39.5406, BPP: 0.0059/0.0059
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8736
+Test epoch 5/10, Time: 41.8736, Loss: 0.015443/0.015443, PSNR: 39.5905/39.5905, BPP: 0.0059/0.0059
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0382
+Test epoch 6/10, Time: 42.0382, Loss: 0.015502/0.015443, PSNR: 39.5575/39.5905, BPP: 0.0059/0.0059
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7382
+Test epoch 7/10, Time: 41.7382, Loss: 0.015450/0.015443, PSNR: 39.5623/39.5905, BPP: 0.0059/0.0059
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9199
+Test epoch 8/10, Time: 41.9199, Loss: 0.015457/0.015443, PSNR: 39.5528/39.5905, BPP: 0.0059/0.0059
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0708
+Test epoch 9/10, Time: 42.0708, Loss: 0.015447/0.015443, PSNR: 39.5562/39.5905, BPP: 0.0059/0.0059
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9779
+Test epoch 10/10, Time: 41.9779, Loss: 0.015447/0.015443, PSNR: 39.5529/39.5905, BPP: 0.0059/0.0059
+Training sequence 2: videoSRC23...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.032231/0.032231, PSNR: 37.3858/37.3858, BPP: 0.0164/0.0164
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1374
+Test epoch 1/10, Time: 42.1374, Loss: 0.031815/0.031815, PSNR: 37.2233/37.2233, BPP: 0.0154/0.0154
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0056
+Test epoch 2/10, Time: 42.0056, Loss: 0.031832/0.031815, PSNR: 37.1874/37.2233, BPP: 0.0153/0.0154
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9509
+Test epoch 3/10, Time: 41.9509, Loss: 0.031840/0.031815, PSNR: 37.1729/37.2233, BPP: 0.0152/0.0154
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0262
+Test epoch 4/10, Time: 42.0262, Loss: 0.031788/0.031788, PSNR: 37.1879/37.1879, BPP: 0.0152/0.0152
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0018
+Test epoch 5/10, Time: 42.0018, Loss: 0.031712/0.031712, PSNR: 37.1914/37.1914, BPP: 0.0152/0.0152
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0467
+Test epoch 6/10, Time: 42.0467, Loss: 0.031748/0.031712, PSNR: 37.1853/37.1914, BPP: 0.0152/0.0152
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9542
+Test epoch 7/10, Time: 41.9542, Loss: 0.031787/0.031712, PSNR: 37.1733/37.1914, BPP: 0.0152/0.0152
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8201
+Test epoch 8/10, Time: 41.8201, Loss: 0.031718/0.031712, PSNR: 37.1763/37.1914, BPP: 0.0151/0.0152
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 50.2220
+Test epoch 9/10, Time: 50.2220, Loss: 0.031722/0.031712, PSNR: 37.1778/37.1914, BPP: 0.0151/0.0152
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 53.5797
+Test epoch 10/10, Time: 53.5797, Loss: 0.031692/0.031692, PSNR: 37.1812/37.1812, BPP: 0.0151/0.0151
+Training sequence 3: videoSRC10...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.095708/0.095708, PSNR: 33.3928/33.3928, BPP: 0.0559/0.0559
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.5094
+Test epoch 1/10, Time: 42.5094, Loss: 0.091137/0.091137, PSNR: 33.3063/33.3063, BPP: 0.0505/0.0505
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7712
+Test epoch 2/10, Time: 41.7712, Loss: 0.089650/0.089650, PSNR: 33.2708/33.2708, BPP: 0.0487/0.0487
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9033
+Test epoch 3/10, Time: 41.9033, Loss: 0.089127/0.089127, PSNR: 33.3003/33.3003, BPP: 0.0484/0.0484
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7963
+Test epoch 4/10, Time: 41.7963, Loss: 0.088983/0.088983, PSNR: 33.3143/33.3143, BPP: 0.0484/0.0484
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8690
+Test epoch 5/10, Time: 41.8690, Loss: 0.088414/0.088414, PSNR: 33.3377/33.3377, BPP: 0.0480/0.0480
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9129
+Test epoch 6/10, Time: 41.9129, Loss: 0.088149/0.088149, PSNR: 33.3414/33.3414, BPP: 0.0478/0.0478
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8455
+Test epoch 7/10, Time: 41.8455, Loss: 0.087762/0.087762, PSNR: 33.3497/33.3497, BPP: 0.0475/0.0475
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8627
+Test epoch 8/10, Time: 41.8627, Loss: 0.087850/0.087762, PSNR: 33.3415/33.3497, BPP: 0.0475/0.0475
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8883
+Test epoch 9/10, Time: 41.8883, Loss: 0.087727/0.087727, PSNR: 33.3459/33.3459, BPP: 0.0474/0.0474
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8106
+Test epoch 10/10, Time: 41.8106, Loss: 0.087733/0.087727, PSNR: 33.3456/33.3459, BPP: 0.0474/0.0474
+Training sequence 4: videoSRC22...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.072922/0.072922, PSNR: 34.8565/34.8565, BPP: 0.0435/0.0435
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9016
+Test epoch 1/10, Time: 41.9016, Loss: 0.070845/0.070845, PSNR: 34.7455/34.7455, BPP: 0.0406/0.0406
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8890
+Test epoch 2/10, Time: 41.8890, Loss: 0.070440/0.070440, PSNR: 34.7723/34.7723, BPP: 0.0404/0.0404
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8243
+Test epoch 3/10, Time: 41.8243, Loss: 0.070375/0.070375, PSNR: 34.7382/34.7382, BPP: 0.0401/0.0401
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8966
+Test epoch 4/10, Time: 41.8966, Loss: 0.070188/0.070188, PSNR: 34.7730/34.7730, BPP: 0.0401/0.0401
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 43.4989
+Test epoch 5/10, Time: 43.4989, Loss: 0.070189/0.070188, PSNR: 34.8013/34.7730, BPP: 0.0403/0.0401
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 56.4150
+Test epoch 6/10, Time: 56.4150, Loss: 0.070142/0.070142, PSNR: 34.7898/34.7898, BPP: 0.0402/0.0402
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9126
+Test epoch 7/10, Time: 41.9126, Loss: 0.070094/0.070094, PSNR: 34.8075/34.8075, BPP: 0.0403/0.0403
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9419
+Test epoch 8/10, Time: 41.9419, Loss: 0.070084/0.070084, PSNR: 34.8074/34.8074, BPP: 0.0403/0.0403
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9363
+Test epoch 9/10, Time: 41.9363, Loss: 0.070111/0.070084, PSNR: 34.8029/34.8074, BPP: 0.0403/0.0403
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8579
+Test epoch 10/10, Time: 41.8579, Loss: 0.070095/0.070084, PSNR: 34.8079/34.8074, BPP: 0.0403/0.0403
+Training sequence 5: videoSRC14...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.049411/0.049411, PSNR: 35.8079/35.8079, BPP: 0.0267/0.0267
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0624
+Test epoch 1/10, Time: 42.0624, Loss: 0.048777/0.048777, PSNR: 35.6287/35.6287, BPP: 0.0251/0.0251
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8505
+Test epoch 2/10, Time: 41.8505, Loss: 0.048650/0.048650, PSNR: 35.6254/35.6254, BPP: 0.0250/0.0250
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9128
+Test epoch 3/10, Time: 41.9128, Loss: 0.048678/0.048650, PSNR: 35.5825/35.6254, BPP: 0.0248/0.0250
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 46.8519
+Test epoch 4/10, Time: 46.8519, Loss: 0.048610/0.048610, PSNR: 35.5799/35.5799, BPP: 0.0247/0.0247
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9659
+Test epoch 5/10, Time: 41.9659, Loss: 0.048593/0.048593, PSNR: 35.5530/35.5530, BPP: 0.0245/0.0245
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9698
+Test epoch 6/10, Time: 41.9698, Loss: 0.048548/0.048548, PSNR: 35.5526/35.5526, BPP: 0.0245/0.0245
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9070
+Test epoch 7/10, Time: 41.9070, Loss: 0.048536/0.048536, PSNR: 35.5604/35.5604, BPP: 0.0245/0.0245
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.3648
+Test epoch 8/10, Time: 42.3648, Loss: 0.048539/0.048536, PSNR: 35.5536/35.5604, BPP: 0.0245/0.0245
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9434
+Test epoch 9/10, Time: 41.9434, Loss: 0.048530/0.048530, PSNR: 35.5535/35.5535, BPP: 0.0244/0.0244
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.1562
+Test epoch 10/10, Time: 42.1562, Loss: 0.048527/0.048527, PSNR: 35.5528/35.5528, BPP: 0.0244/0.0244
+Training sequence 6: videoSRC20...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.061698/0.061698, PSNR: 35.2999/35.2999, BPP: 0.0347/0.0347
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0996
+Test epoch 1/10, Time: 42.0996, Loss: 0.060105/0.060105, PSNR: 35.2854/35.2854, BPP: 0.0330/0.0330
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.1236
+Test epoch 2/10, Time: 42.1236, Loss: 0.059598/0.059598, PSNR: 35.3378/35.3378, BPP: 0.0328/0.0328
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9414
+Test epoch 3/10, Time: 41.9414, Loss: 0.059582/0.059582, PSNR: 35.3224/35.3224, BPP: 0.0327/0.0327
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9848
+Test epoch 4/10, Time: 41.9848, Loss: 0.059497/0.059497, PSNR: 35.3604/35.3604, BPP: 0.0329/0.0329
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0418
+Test epoch 5/10, Time: 42.0418, Loss: 0.059409/0.059409, PSNR: 35.3345/35.3345, BPP: 0.0326/0.0326
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1638
+Test epoch 6/10, Time: 42.1638, Loss: 0.059286/0.059286, PSNR: 35.3540/35.3540, BPP: 0.0326/0.0326
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.1495
+Test epoch 7/10, Time: 42.1495, Loss: 0.059304/0.059286, PSNR: 35.3527/35.3540, BPP: 0.0326/0.0326
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1421
+Test epoch 8/10, Time: 42.1421, Loss: 0.059266/0.059266, PSNR: 35.3514/35.3514, BPP: 0.0326/0.0326
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0522
+Test epoch 9/10, Time: 42.0522, Loss: 0.059258/0.059258, PSNR: 35.3544/35.3544, BPP: 0.0326/0.0326
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9592
+Test epoch 10/10, Time: 41.9592, Loss: 0.059294/0.059258, PSNR: 35.3509/35.3544, BPP: 0.0326/0.0326
+Training sequence 7: videoSRC18...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.063964/0.063964, PSNR: 33.5463/33.5463, BPP: 0.0225/0.0225
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0727
+Test epoch 1/10, Time: 42.0727, Loss: 0.063627/0.063627, PSNR: 33.4950/33.4950, BPP: 0.0216/0.0216
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.1748
+Test epoch 2/10, Time: 42.1748, Loss: 0.063372/0.063372, PSNR: 33.4852/33.4852, BPP: 0.0212/0.0212
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.1557
+Test epoch 3/10, Time: 42.1557, Loss: 0.063198/0.063198, PSNR: 33.5149/33.5149, BPP: 0.0212/0.0212
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.1135
+Test epoch 4/10, Time: 42.1135, Loss: 0.063159/0.063159, PSNR: 33.4976/33.4976, BPP: 0.0209/0.0209
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.1249
+Test epoch 5/10, Time: 42.1249, Loss: 0.063151/0.063151, PSNR: 33.5015/33.5015, BPP: 0.0209/0.0209
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1278
+Test epoch 6/10, Time: 42.1278, Loss: 0.063103/0.063103, PSNR: 33.5037/33.5037, BPP: 0.0209/0.0209
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.1799
+Test epoch 7/10, Time: 42.1799, Loss: 0.063133/0.063103, PSNR: 33.5005/33.5037, BPP: 0.0209/0.0209
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9581
+Test epoch 8/10, Time: 41.9581, Loss: 0.063089/0.063089, PSNR: 33.5038/33.5038, BPP: 0.0208/0.0208
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.1147
+Test epoch 9/10, Time: 42.1147, Loss: 0.063063/0.063063, PSNR: 33.5062/33.5062, BPP: 0.0208/0.0208
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0545
+Test epoch 10/10, Time: 42.0545, Loss: 0.063086/0.063063, PSNR: 33.5030/33.5062, BPP: 0.0208/0.0208
+Training sequence 8: videoSRC25...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.168925/0.168925, PSNR: 30.1442/30.1442, BPP: 0.0830/0.0830
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0403
+Test epoch 1/10, Time: 42.0403, Loss: 0.167098/0.167098, PSNR: 30.0395/30.0395, BPP: 0.0790/0.0790
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0445
+Test epoch 2/10, Time: 42.0445, Loss: 0.166770/0.166770, PSNR: 30.0755/30.0755, BPP: 0.0795/0.0795
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.1247
+Test epoch 3/10, Time: 42.1247, Loss: 0.166557/0.166557, PSNR: 30.0813/30.0813, BPP: 0.0794/0.0794
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0880
+Test epoch 4/10, Time: 42.0880, Loss: 0.166525/0.166525, PSNR: 30.0857/30.0857, BPP: 0.0795/0.0795
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0872
+Test epoch 5/10, Time: 42.0872, Loss: 0.166519/0.166519, PSNR: 30.0924/30.0924, BPP: 0.0796/0.0796
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9657
+Test epoch 6/10, Time: 41.9657, Loss: 0.166466/0.166466, PSNR: 30.0902/30.0902, BPP: 0.0795/0.0795
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.0214
+Test epoch 7/10, Time: 42.0214, Loss: 0.166441/0.166441, PSNR: 30.0922/30.0922, BPP: 0.0795/0.0795
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1424
+Test epoch 8/10, Time: 42.1424, Loss: 0.166452/0.166441, PSNR: 30.0960/30.0922, BPP: 0.0796/0.0795
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 43.0923
+Test epoch 9/10, Time: 43.0923, Loss: 0.166373/0.166373, PSNR: 30.0950/30.0950, BPP: 0.0795/0.0795
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 50.9236
+Test epoch 10/10, Time: 50.9236, Loss: 0.166357/0.166357, PSNR: 30.0960/30.0960, BPP: 0.0795/0.0795
+Training sequence 9: videoSRC02...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.026218/0.026218, PSNR: 39.4611/39.4611, BPP: 0.0160/0.0160
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0934
+Test epoch 1/10, Time: 42.0934, Loss: 0.025836/0.025836, PSNR: 39.3932/39.3932, BPP: 0.0155/0.0155
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0621
+Test epoch 2/10, Time: 42.0621, Loss: 0.025375/0.025375, PSNR: 39.3582/39.3582, BPP: 0.0149/0.0149
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0505
+Test epoch 3/10, Time: 42.0505, Loss: 0.025245/0.025245, PSNR: 39.3421/39.3421, BPP: 0.0147/0.0147
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.1029
+Test epoch 4/10, Time: 42.1029, Loss: 0.025133/0.025133, PSNR: 39.3453/39.3453, BPP: 0.0146/0.0146
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0622
+Test epoch 5/10, Time: 42.0622, Loss: 0.025138/0.025133, PSNR: 39.3802/39.3453, BPP: 0.0147/0.0146
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0010
+Test epoch 6/10, Time: 42.0010, Loss: 0.025066/0.025066, PSNR: 39.3836/39.3836, BPP: 0.0147/0.0147
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9462
+Test epoch 7/10, Time: 41.9462, Loss: 0.025051/0.025051, PSNR: 39.3882/39.3882, BPP: 0.0146/0.0146
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9382
+Test epoch 8/10, Time: 41.9382, Loss: 0.025077/0.025051, PSNR: 39.3821/39.3882, BPP: 0.0147/0.0146
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0257
+Test epoch 9/10, Time: 42.0257, Loss: 0.025029/0.025029, PSNR: 39.3917/39.3917, BPP: 0.0146/0.0146
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9220
+Test epoch 10/10, Time: 41.9220, Loss: 0.025041/0.025029, PSNR: 39.3867/39.3917, BPP: 0.0146/0.0146
+Training sequence 10: videoSRC09...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.115250/0.115250, PSNR: 31.6133/31.6133, BPP: 0.0555/0.0555
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0304
+Test epoch 1/10, Time: 42.0304, Loss: 0.113943/0.113943, PSNR: 31.5039/31.5039, BPP: 0.0526/0.0526
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9161
+Test epoch 2/10, Time: 41.9161, Loss: 0.113737/0.113737, PSNR: 31.4993/31.4993, BPP: 0.0523/0.0523
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9281
+Test epoch 3/10, Time: 41.9281, Loss: 0.113427/0.113427, PSNR: 31.4861/31.4861, BPP: 0.0518/0.0518
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8686
+Test epoch 4/10, Time: 41.8686, Loss: 0.113371/0.113371, PSNR: 31.4547/31.4547, BPP: 0.0513/0.0513
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7906
+Test epoch 5/10, Time: 41.7906, Loss: 0.113510/0.113371, PSNR: 31.4413/31.4547, BPP: 0.0512/0.0513
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1666
+Test epoch 6/10, Time: 42.1666, Loss: 0.113410/0.113371, PSNR: 31.4518/31.4547, BPP: 0.0513/0.0513
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.0427
+Test epoch 7/10, Time: 42.0427, Loss: 0.113402/0.113371, PSNR: 31.4342/31.4547, BPP: 0.0510/0.0513
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0072
+Test epoch 8/10, Time: 42.0072, Loss: 0.113418/0.113371, PSNR: 31.4337/31.4547, BPP: 0.0510/0.0513
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0404
+Test epoch 9/10, Time: 42.0404, Loss: 0.113404/0.113371, PSNR: 31.4324/31.4547, BPP: 0.0510/0.0513
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8899
+Test epoch 10/10, Time: 41.8899, Loss: 0.113381/0.113371, PSNR: 31.4305/31.4547, BPP: 0.0509/0.0513
+Training sequence 11: videoSRC27...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.055121/0.055121, PSNR: 34.9778/34.9778, BPP: 0.0265/0.0265
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9156
+Test epoch 1/10, Time: 41.9156, Loss: 0.054299/0.054299, PSNR: 34.9030/34.9030, BPP: 0.0251/0.0251
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7496
+Test epoch 2/10, Time: 41.7496, Loss: 0.054030/0.054030, PSNR: 34.9433/34.9433, BPP: 0.0252/0.0252
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9733
+Test epoch 3/10, Time: 41.9733, Loss: 0.053868/0.053868, PSNR: 34.8878/34.8878, BPP: 0.0246/0.0246
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0360
+Test epoch 4/10, Time: 42.0360, Loss: 0.053767/0.053767, PSNR: 34.8838/34.8838, BPP: 0.0245/0.0245
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0109
+Test epoch 5/10, Time: 42.0109, Loss: 0.053766/0.053766, PSNR: 34.9067/34.9067, BPP: 0.0246/0.0246
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9354
+Test epoch 6/10, Time: 41.9354, Loss: 0.053749/0.053749, PSNR: 34.8953/34.8953, BPP: 0.0245/0.0245
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9468
+Test epoch 7/10, Time: 41.9468, Loss: 0.053787/0.053749, PSNR: 34.8941/34.8953, BPP: 0.0246/0.0245
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1014
+Test epoch 8/10, Time: 42.1014, Loss: 0.053748/0.053748, PSNR: 34.8933/34.8933, BPP: 0.0245/0.0245
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9520
+Test epoch 9/10, Time: 41.9520, Loss: 0.053765/0.053748, PSNR: 34.8901/34.8933, BPP: 0.0245/0.0245
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0974
+Test epoch 10/10, Time: 42.0974, Loss: 0.053726/0.053726, PSNR: 34.8920/34.8920, BPP: 0.0245/0.0245
+Training sequence 12: videoSRC05...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.067194/0.067194, PSNR: 33.9541/33.9541, BPP: 0.0322/0.0322
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9627
+Test epoch 1/10, Time: 41.9627, Loss: 0.066272/0.066272, PSNR: 33.8849/33.8849, BPP: 0.0307/0.0307
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8119
+Test epoch 2/10, Time: 41.8119, Loss: 0.066182/0.066182, PSNR: 33.8694/33.8694, BPP: 0.0305/0.0305
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9338
+Test epoch 3/10, Time: 41.9338, Loss: 0.065584/0.065584, PSNR: 33.9019/33.9019, BPP: 0.0302/0.0302
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9249
+Test epoch 4/10, Time: 41.9249, Loss: 0.065579/0.065579, PSNR: 33.9043/33.9043, BPP: 0.0302/0.0302
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0629
+Test epoch 5/10, Time: 42.0629, Loss: 0.065363/0.065363, PSNR: 33.9096/33.9096, BPP: 0.0300/0.0300
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8893
+Test epoch 6/10, Time: 41.8893, Loss: 0.065329/0.065329, PSNR: 33.9157/33.9157, BPP: 0.0300/0.0300
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.0181
+Test epoch 7/10, Time: 42.0181, Loss: 0.065326/0.065326, PSNR: 33.9206/33.9206, BPP: 0.0301/0.0301
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9352
+Test epoch 8/10, Time: 41.9352, Loss: 0.065271/0.065271, PSNR: 33.9249/33.9249, BPP: 0.0300/0.0300
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0766
+Test epoch 9/10, Time: 42.0766, Loss: 0.065253/0.065253, PSNR: 33.9246/33.9246, BPP: 0.0300/0.0300
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8990
+Test epoch 10/10, Time: 41.8990, Loss: 0.065256/0.065253, PSNR: 33.9245/33.9246, BPP: 0.0300/0.0300
+Training sequence 13: videoSRC07...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.048652/0.048652, PSNR: 34.2337/34.2337, BPP: 0.0164/0.0164
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9699
+Test epoch 1/10, Time: 41.9699, Loss: 0.048162/0.048162, PSNR: 34.2127/34.2127, BPP: 0.0158/0.0158
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9275
+Test epoch 2/10, Time: 41.9275, Loss: 0.048041/0.048041, PSNR: 34.1786/34.1786, BPP: 0.0154/0.0154
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0174
+Test epoch 3/10, Time: 42.0174, Loss: 0.047831/0.047831, PSNR: 34.1413/34.1413, BPP: 0.0149/0.0149
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8705
+Test epoch 4/10, Time: 41.8705, Loss: 0.047737/0.047737, PSNR: 34.1689/34.1689, BPP: 0.0150/0.0150
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0506
+Test epoch 5/10, Time: 42.0506, Loss: 0.047724/0.047724, PSNR: 34.1728/34.1728, BPP: 0.0151/0.0151
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8117
+Test epoch 6/10, Time: 41.8117, Loss: 0.047778/0.047724, PSNR: 34.1788/34.1728, BPP: 0.0152/0.0151
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8721
+Test epoch 7/10, Time: 41.8721, Loss: 0.047724/0.047724, PSNR: 34.1832/34.1832, BPP: 0.0151/0.0151
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8841
+Test epoch 8/10, Time: 41.8841, Loss: 0.047722/0.047722, PSNR: 34.1801/34.1801, BPP: 0.0151/0.0151
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0240
+Test epoch 9/10, Time: 42.0240, Loss: 0.047739/0.047722, PSNR: 34.1799/34.1801, BPP: 0.0151/0.0151
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7989
+Test epoch 10/10, Time: 41.7989, Loss: 0.047717/0.047717, PSNR: 34.1791/34.1791, BPP: 0.0151/0.0151
+Training sequence 14: videoSRC15...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.050335/0.050335, PSNR: 33.7358/33.7358, BPP: 0.0139/0.0139
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9744
+Test epoch 1/10, Time: 41.9744, Loss: 0.050334/0.050334, PSNR: 33.6133/33.6133, BPP: 0.0127/0.0127
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 44.8906
+Test epoch 2/10, Time: 44.8906, Loss: 0.051604/0.050334, PSNR: 33.4623/33.6133, BPP: 0.0125/0.0127
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7884
+Test epoch 3/10, Time: 41.7884, Loss: 0.049989/0.049989, PSNR: 33.6047/33.6047, BPP: 0.0123/0.0123
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8720
+Test epoch 4/10, Time: 41.8720, Loss: 0.049787/0.049787, PSNR: 33.6323/33.6323, BPP: 0.0123/0.0123
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8559
+Test epoch 5/10, Time: 41.8559, Loss: 0.049543/0.049543, PSNR: 33.6576/33.6576, BPP: 0.0123/0.0123
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7415
+Test epoch 6/10, Time: 41.7415, Loss: 0.049235/0.049235, PSNR: 33.6803/33.6803, BPP: 0.0122/0.0122
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7492
+Test epoch 7/10, Time: 41.7492, Loss: 0.049432/0.049235, PSNR: 33.6597/33.6803, BPP: 0.0122/0.0122
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1257
+Test epoch 8/10, Time: 42.1257, Loss: 0.049454/0.049235, PSNR: 33.6588/33.6803, BPP: 0.0122/0.0122
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.1335
+Test epoch 9/10, Time: 42.1335, Loss: 0.049405/0.049235, PSNR: 33.6630/33.6803, BPP: 0.0122/0.0122
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.1464
+Test epoch 10/10, Time: 42.1464, Loss: 0.049425/0.049235, PSNR: 33.6605/33.6803, BPP: 0.0122/0.0122
+Training sequence 15: videoSRC08...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.025091/0.025091, PSNR: 37.0260/37.0260, BPP: 0.0081/0.0081
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1248
+Test epoch 1/10, Time: 42.1248, Loss: 0.024877/0.024877, PSNR: 36.9353/36.9353, BPP: 0.0075/0.0075
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.1858
+Test epoch 2/10, Time: 42.1858, Loss: 0.024706/0.024706, PSNR: 36.9160/36.9160, BPP: 0.0072/0.0072
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0418
+Test epoch 3/10, Time: 42.0418, Loss: 0.024710/0.024706, PSNR: 36.9385/36.9160, BPP: 0.0073/0.0072
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.1336
+Test epoch 4/10, Time: 42.1336, Loss: 0.024677/0.024677, PSNR: 36.9520/36.9520, BPP: 0.0073/0.0073
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0951
+Test epoch 5/10, Time: 42.0951, Loss: 0.024578/0.024578, PSNR: 36.9460/36.9460, BPP: 0.0072/0.0072
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.2045
+Test epoch 6/10, Time: 42.2045, Loss: 0.024564/0.024564, PSNR: 36.9463/36.9463, BPP: 0.0072/0.0072
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9271
+Test epoch 7/10, Time: 41.9271, Loss: 0.024552/0.024552, PSNR: 36.9482/36.9482, BPP: 0.0072/0.0072
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8660
+Test epoch 8/10, Time: 41.8660, Loss: 0.024537/0.024537, PSNR: 36.9517/36.9517, BPP: 0.0072/0.0072
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0665
+Test epoch 9/10, Time: 42.0665, Loss: 0.024535/0.024535, PSNR: 36.9532/36.9532, BPP: 0.0072/0.0072
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0306
+Test epoch 10/10, Time: 42.0306, Loss: 0.024547/0.024535, PSNR: 36.9495/36.9532, BPP: 0.0072/0.0072
+Training sequence 16: videoSRC01...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.014747/0.014747, PSNR: 39.2292/39.2292, BPP: 0.0045/0.0045
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.2050
+Test epoch 1/10, Time: 42.2050, Loss: 0.014308/0.014308, PSNR: 39.0884/39.0884, BPP: 0.0037/0.0037
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9955
+Test epoch 2/10, Time: 41.9955, Loss: 0.014337/0.014308, PSNR: 39.0313/39.0884, BPP: 0.0036/0.0037
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.1450
+Test epoch 3/10, Time: 42.1450, Loss: 0.014444/0.014308, PSNR: 39.0424/39.0884, BPP: 0.0038/0.0037
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0486
+Test epoch 4/10, Time: 42.0486, Loss: 0.014251/0.014251, PSNR: 39.0523/39.0523, BPP: 0.0036/0.0036
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.2182
+Test epoch 5/10, Time: 42.2182, Loss: 0.014211/0.014211, PSNR: 39.0601/39.0601, BPP: 0.0036/0.0036
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0867
+Test epoch 6/10, Time: 42.0867, Loss: 0.014245/0.014211, PSNR: 39.0505/39.0601, BPP: 0.0036/0.0036
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9804
+Test epoch 7/10, Time: 41.9804, Loss: 0.014205/0.014205, PSNR: 39.0551/39.0551, BPP: 0.0035/0.0035
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9250
+Test epoch 8/10, Time: 41.9250, Loss: 0.014224/0.014205, PSNR: 39.0539/39.0551, BPP: 0.0035/0.0035
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.4657
+Test epoch 9/10, Time: 42.4657, Loss: 0.014206/0.014205, PSNR: 39.0579/39.0551, BPP: 0.0035/0.0035
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0541
+Test epoch 10/10, Time: 42.0541, Loss: 0.014204/0.014204, PSNR: 39.0606/39.0606, BPP: 0.0035/0.0035
+Training sequence 17: videoSRC03...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.024186/0.024186, PSNR: 37.6460/37.6460, BPP: 0.0093/0.0093
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.3439
+Test epoch 1/10, Time: 42.3439, Loss: 0.023798/0.023798, PSNR: 37.6303/37.6303, BPP: 0.0088/0.0088
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0500
+Test epoch 2/10, Time: 42.0500, Loss: 0.023774/0.023774, PSNR: 37.5584/37.5584, BPP: 0.0085/0.0085
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.1938
+Test epoch 3/10, Time: 42.1938, Loss: 0.023534/0.023534, PSNR: 37.6382/37.6382, BPP: 0.0086/0.0086
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.1215
+Test epoch 4/10, Time: 42.1215, Loss: 0.023483/0.023483, PSNR: 37.6468/37.6468, BPP: 0.0085/0.0085
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.1117
+Test epoch 5/10, Time: 42.1117, Loss: 0.023421/0.023421, PSNR: 37.6545/37.6545, BPP: 0.0085/0.0085
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0614
+Test epoch 6/10, Time: 42.0614, Loss: 0.023413/0.023413, PSNR: 37.6419/37.6419, BPP: 0.0084/0.0084
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9924
+Test epoch 7/10, Time: 41.9924, Loss: 0.023399/0.023399, PSNR: 37.6514/37.6514, BPP: 0.0085/0.0085
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0627
+Test epoch 8/10, Time: 42.0627, Loss: 0.023343/0.023343, PSNR: 37.6578/37.6578, BPP: 0.0084/0.0084
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.1112
+Test epoch 9/10, Time: 42.1112, Loss: 0.023362/0.023343, PSNR: 37.6548/37.6578, BPP: 0.0084/0.0084
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0912
+Test epoch 10/10, Time: 42.0912, Loss: 0.023402/0.023343, PSNR: 37.6488/37.6578, BPP: 0.0085/0.0084
+Training sequence 18: videoSRC06...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.049789/0.049789, PSNR: 32.6976/32.6976, BPP: 0.0041/0.0041
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1208
+Test epoch 1/10, Time: 42.1208, Loss: 0.049775/0.049775, PSNR: 32.6650/32.6650, BPP: 0.0037/0.0037
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0038
+Test epoch 2/10, Time: 42.0038, Loss: 0.049504/0.049504, PSNR: 32.6849/32.6849, BPP: 0.0036/0.0036
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.1576
+Test epoch 3/10, Time: 42.1576, Loss: 0.049969/0.049504, PSNR: 32.6859/32.6849, BPP: 0.0041/0.0036
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0673
+Test epoch 4/10, Time: 42.0673, Loss: 0.049787/0.049504, PSNR: 32.6877/32.6849, BPP: 0.0039/0.0036
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.1520
+Test epoch 5/10, Time: 42.1520, Loss: 0.049667/0.049504, PSNR: 32.6868/32.6849, BPP: 0.0038/0.0036
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0030
+Test epoch 6/10, Time: 42.0030, Loss: 0.049402/0.049402, PSNR: 32.6887/32.6887, BPP: 0.0036/0.0036
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.2609
+Test epoch 7/10, Time: 42.2609, Loss: 0.049453/0.049402, PSNR: 32.6892/32.6887, BPP: 0.0036/0.0036
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8939
+Test epoch 8/10, Time: 41.8939, Loss: 0.049435/0.049402, PSNR: 32.6892/32.6887, BPP: 0.0036/0.0036
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0057
+Test epoch 9/10, Time: 42.0057, Loss: 0.049384/0.049384, PSNR: 32.6904/32.6904, BPP: 0.0036/0.0036
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.1147
+Test epoch 10/10, Time: 42.1147, Loss: 0.049396/0.049384, PSNR: 32.6893/32.6904, BPP: 0.0036/0.0036
+Training sequence 19: videoSRC26...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.032246/0.032246, PSNR: 37.8335/37.8335, BPP: 0.0179/0.0179
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.3394
+Test epoch 1/10, Time: 42.3394, Loss: 0.031449/0.031449, PSNR: 37.8084/37.8084, BPP: 0.0169/0.0169
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.1295
+Test epoch 2/10, Time: 42.1295, Loss: 0.031550/0.031449, PSNR: 37.7964/37.8084, BPP: 0.0170/0.0169
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0529
+Test epoch 3/10, Time: 42.0529, Loss: 0.031166/0.031166, PSNR: 37.8805/37.8805, BPP: 0.0169/0.0169
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9930
+Test epoch 4/10, Time: 41.9930, Loss: 0.031097/0.031097, PSNR: 37.8683/37.8683, BPP: 0.0168/0.0168
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0841
+Test epoch 5/10, Time: 42.0841, Loss: 0.031084/0.031084, PSNR: 37.8940/37.8940, BPP: 0.0168/0.0168
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1966
+Test epoch 6/10, Time: 42.1966, Loss: 0.031060/0.031060, PSNR: 37.8898/37.8898, BPP: 0.0168/0.0168
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.0323
+Test epoch 7/10, Time: 42.0323, Loss: 0.031062/0.031060, PSNR: 37.8748/37.8898, BPP: 0.0168/0.0168
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1021
+Test epoch 8/10, Time: 42.1021, Loss: 0.031034/0.031034, PSNR: 37.8832/37.8832, BPP: 0.0168/0.0168
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.1080
+Test epoch 9/10, Time: 42.1080, Loss: 0.031066/0.031034, PSNR: 37.8750/37.8832, BPP: 0.0168/0.0168
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.1006
+Test epoch 10/10, Time: 42.1006, Loss: 0.031033/0.031033, PSNR: 37.8803/37.8803, BPP: 0.0167/0.0167
+Training sequence 20: videoSRC12...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.046879/0.046879, PSNR: 34.7998/34.7998, BPP: 0.0181/0.0181
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1582
+Test epoch 1/10, Time: 42.1582, Loss: 0.046361/0.046361, PSNR: 34.5758/34.5758, BPP: 0.0160/0.0160
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0779
+Test epoch 2/10, Time: 42.0779, Loss: 0.046467/0.046361, PSNR: 34.5330/34.5758, BPP: 0.0157/0.0160
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0836
+Test epoch 3/10, Time: 42.0836, Loss: 0.046118/0.046118, PSNR: 34.5806/34.5806, BPP: 0.0158/0.0158
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0701
+Test epoch 4/10, Time: 42.0701, Loss: 0.046065/0.046065, PSNR: 34.5775/34.5775, BPP: 0.0157/0.0157
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0909
+Test epoch 5/10, Time: 42.0909, Loss: 0.046025/0.046025, PSNR: 34.5567/34.5567, BPP: 0.0155/0.0155
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1496
+Test epoch 6/10, Time: 42.1496, Loss: 0.046056/0.046025, PSNR: 34.5396/34.5567, BPP: 0.0154/0.0155
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8764
+Test epoch 7/10, Time: 41.8764, Loss: 0.046066/0.046025, PSNR: 34.5392/34.5567, BPP: 0.0154/0.0155
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8331
+Test epoch 8/10, Time: 41.8331, Loss: 0.046088/0.046025, PSNR: 34.5362/34.5567, BPP: 0.0154/0.0155
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9771
+Test epoch 9/10, Time: 41.9771, Loss: 0.046092/0.046025, PSNR: 34.5360/34.5567, BPP: 0.0154/0.0155
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0584
+Test epoch 10/10, Time: 42.0584, Loss: 0.046127/0.046025, PSNR: 34.5305/34.5567, BPP: 0.0154/0.0155
+Training sequence 21: videoSRC13...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.085082/0.085082, PSNR: 31.9745/31.9745, BPP: 0.0301/0.0301
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0990
+Test epoch 1/10, Time: 42.0990, Loss: 0.084829/0.084829, PSNR: 31.6224/31.6224, BPP: 0.0246/0.0246
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0399
+Test epoch 2/10, Time: 42.0399, Loss: 0.084729/0.084729, PSNR: 31.5796/31.5796, BPP: 0.0236/0.0236
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0880
+Test epoch 3/10, Time: 42.0880, Loss: 0.084493/0.084493, PSNR: 31.5311/31.5311, BPP: 0.0226/0.0226
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0374
+Test epoch 4/10, Time: 42.0374, Loss: 0.084481/0.084481, PSNR: 31.5670/31.5670, BPP: 0.0231/0.0231
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.2371
+Test epoch 5/10, Time: 42.2371, Loss: 0.084729/0.084481, PSNR: 31.5118/31.5670, BPP: 0.0225/0.0231
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0713
+Test epoch 6/10, Time: 42.0713, Loss: 0.084474/0.084474, PSNR: 31.5202/31.5202, BPP: 0.0223/0.0223
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.0811
+Test epoch 7/10, Time: 42.0811, Loss: 0.084628/0.084474, PSNR: 31.5080/31.5202, BPP: 0.0223/0.0223
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9433
+Test epoch 8/10, Time: 41.9433, Loss: 0.084658/0.084474, PSNR: 31.5006/31.5202, BPP: 0.0222/0.0223
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0412
+Test epoch 9/10, Time: 42.0412, Loss: 0.084597/0.084474, PSNR: 31.5072/31.5202, BPP: 0.0223/0.0223
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8537
+Test epoch 10/10, Time: 41.8537, Loss: 0.084607/0.084474, PSNR: 31.5087/31.5202, BPP: 0.0223/0.0223
+Training sequence 22: videoSRC17...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.047233/0.047233, PSNR: 36.0047/36.0047, BPP: 0.0255/0.0255
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0378
+Test epoch 1/10, Time: 42.0378, Loss: 0.045910/0.045910, PSNR: 35.7546/35.7546, BPP: 0.0229/0.0229
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0104
+Test epoch 2/10, Time: 42.0104, Loss: 0.045940/0.045910, PSNR: 35.7874/35.7546, BPP: 0.0231/0.0229
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.1480
+Test epoch 3/10, Time: 42.1480, Loss: 0.045757/0.045757, PSNR: 35.7162/35.7162, BPP: 0.0226/0.0226
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9038
+Test epoch 4/10, Time: 41.9038, Loss: 0.045697/0.045697, PSNR: 35.7061/35.7061, BPP: 0.0225/0.0225
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9184
+Test epoch 5/10, Time: 41.9184, Loss: 0.045605/0.045605, PSNR: 35.7200/35.7200, BPP: 0.0224/0.0224
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9501
+Test epoch 6/10, Time: 41.9501, Loss: 0.045640/0.045605, PSNR: 35.6850/35.7200, BPP: 0.0223/0.0224
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9559
+Test epoch 7/10, Time: 41.9559, Loss: 0.045622/0.045605, PSNR: 35.6768/35.7200, BPP: 0.0222/0.0224
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1632
+Test epoch 8/10, Time: 42.1632, Loss: 0.045606/0.045605, PSNR: 35.6792/35.7200, BPP: 0.0222/0.0224
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7773
+Test epoch 9/10, Time: 41.7773, Loss: 0.045610/0.045605, PSNR: 35.6784/35.7200, BPP: 0.0222/0.0224
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9395
+Test epoch 10/10, Time: 41.9395, Loss: 0.045604/0.045604, PSNR: 35.6748/35.6748, BPP: 0.0222/0.0222
+Training sequence 23: videoSRC28...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.019300/0.019300, PSNR: 39.1311/39.1311, BPP: 0.0088/0.0088
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8783
+Test epoch 1/10, Time: 41.8783, Loss: 0.019574/0.019300, PSNR: 38.9190/39.1311, BPP: 0.0085/0.0088
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7265
+Test epoch 2/10, Time: 41.7265, Loss: 0.019370/0.019300, PSNR: 38.9099/39.1311, BPP: 0.0082/0.0088
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8517
+Test epoch 3/10, Time: 41.8517, Loss: 0.019363/0.019300, PSNR: 38.8799/39.1311, BPP: 0.0081/0.0088
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9811
+Test epoch 4/10, Time: 41.9811, Loss: 0.019483/0.019300, PSNR: 38.8682/39.1311, BPP: 0.0082/0.0088
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8350
+Test epoch 5/10, Time: 41.8350, Loss: 0.019354/0.019300, PSNR: 38.8836/39.1311, BPP: 0.0081/0.0088
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9394
+Test epoch 6/10, Time: 41.9394, Loss: 0.019437/0.019300, PSNR: 38.8515/39.1311, BPP: 0.0081/0.0088
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.1556
+Test epoch 7/10, Time: 42.1556, Loss: 0.019399/0.019300, PSNR: 38.8534/39.1311, BPP: 0.0081/0.0088
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0152
+Test epoch 8/10, Time: 42.0152, Loss: 0.019406/0.019300, PSNR: 38.8500/39.1311, BPP: 0.0081/0.0088
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0214
+Test epoch 9/10, Time: 42.0214, Loss: 0.019472/0.019300, PSNR: 38.8356/39.1311, BPP: 0.0081/0.0088
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0727
+Test epoch 10/10, Time: 42.0727, Loss: 0.019470/0.019300, PSNR: 38.8404/39.1311, BPP: 0.0081/0.0088
+Training sequence 24: videoSRC19...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.052362/0.052362, PSNR: 35.3194/35.3194, BPP: 0.0268/0.0268
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9084
+Test epoch 1/10, Time: 41.9084, Loss: 0.051971/0.051971, PSNR: 35.2026/35.2026, BPP: 0.0257/0.0257
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8543
+Test epoch 2/10, Time: 41.8543, Loss: 0.051928/0.051928, PSNR: 35.2344/35.2344, BPP: 0.0259/0.0259
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9934
+Test epoch 3/10, Time: 41.9934, Loss: 0.051595/0.051595, PSNR: 35.2420/35.2420, BPP: 0.0256/0.0256
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9682
+Test epoch 4/10, Time: 41.9682, Loss: 0.051609/0.051595, PSNR: 35.2468/35.2420, BPP: 0.0256/0.0256
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9122
+Test epoch 5/10, Time: 41.9122, Loss: 0.051484/0.051484, PSNR: 35.1956/35.1956, BPP: 0.0251/0.0251
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8573
+Test epoch 6/10, Time: 41.8573, Loss: 0.051573/0.051484, PSNR: 35.2196/35.1956, BPP: 0.0254/0.0251
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9867
+Test epoch 7/10, Time: 41.9867, Loss: 0.051467/0.051467, PSNR: 35.2083/35.2083, BPP: 0.0252/0.0252
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9674
+Test epoch 8/10, Time: 41.9674, Loss: 0.051513/0.051467, PSNR: 35.1948/35.2083, BPP: 0.0252/0.0252
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8535
+Test epoch 9/10, Time: 41.8535, Loss: 0.051513/0.051467, PSNR: 35.1968/35.2083, BPP: 0.0252/0.0252
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0616
+Test epoch 10/10, Time: 42.0616, Loss: 0.051503/0.051467, PSNR: 35.1993/35.2083, BPP: 0.0252/0.0252
+Training sequence 25: videoSRC21...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.020404/0.020404, PSNR: 40.4556/40.4556, BPP: 0.0116/0.0116
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9837
+Test epoch 1/10, Time: 41.9837, Loss: 0.020166/0.020166, PSNR: 40.3778/40.3778, BPP: 0.0112/0.0112
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7311
+Test epoch 2/10, Time: 41.7311, Loss: 0.020148/0.020148, PSNR: 40.3197/40.3197, BPP: 0.0111/0.0111
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7780
+Test epoch 3/10, Time: 41.7780, Loss: 0.019962/0.019962, PSNR: 40.4132/40.4132, BPP: 0.0110/0.0110
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9308
+Test epoch 4/10, Time: 41.9308, Loss: 0.019921/0.019921, PSNR: 40.3989/40.3989, BPP: 0.0110/0.0110
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8683
+Test epoch 5/10, Time: 41.8683, Loss: 0.019832/0.019832, PSNR: 40.4318/40.4318, BPP: 0.0110/0.0110
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7907
+Test epoch 6/10, Time: 41.7907, Loss: 0.019816/0.019816, PSNR: 40.4141/40.4141, BPP: 0.0109/0.0109
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8246
+Test epoch 7/10, Time: 41.8246, Loss: 0.019842/0.019816, PSNR: 40.4187/40.4141, BPP: 0.0109/0.0109
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8182
+Test epoch 8/10, Time: 41.8182, Loss: 0.019852/0.019816, PSNR: 40.4166/40.4141, BPP: 0.0109/0.0109
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9273
+Test epoch 9/10, Time: 41.9273, Loss: 0.019847/0.019816, PSNR: 40.4095/40.4141, BPP: 0.0109/0.0109
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8118
+Test epoch 10/10, Time: 41.8118, Loss: 0.019839/0.019816, PSNR: 40.4119/40.4141, BPP: 0.0109/0.0109
+Training sequence 26: videoSRC24...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.030911/0.030911, PSNR: 37.8031/37.8031, BPP: 0.0165/0.0165
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7745
+Test epoch 1/10, Time: 41.7745, Loss: 0.030750/0.030750, PSNR: 37.6516/37.6516, BPP: 0.0158/0.0158
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7714
+Test epoch 2/10, Time: 41.7714, Loss: 0.030350/0.030350, PSNR: 37.6305/37.6305, BPP: 0.0153/0.0153
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9173
+Test epoch 3/10, Time: 41.9173, Loss: 0.030193/0.030193, PSNR: 37.6577/37.6577, BPP: 0.0153/0.0153
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8075
+Test epoch 4/10, Time: 41.8075, Loss: 0.030194/0.030193, PSNR: 37.6457/37.6577, BPP: 0.0152/0.0153
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9589
+Test epoch 5/10, Time: 41.9589, Loss: 0.030169/0.030169, PSNR: 37.6510/37.6510, BPP: 0.0152/0.0152
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8494
+Test epoch 6/10, Time: 41.8494, Loss: 0.030124/0.030124, PSNR: 37.6374/37.6374, BPP: 0.0151/0.0151
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8415
+Test epoch 7/10, Time: 41.8415, Loss: 0.030098/0.030098, PSNR: 37.6497/37.6497, BPP: 0.0151/0.0151
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8060
+Test epoch 8/10, Time: 41.8060, Loss: 0.030093/0.030093, PSNR: 37.6467/37.6467, BPP: 0.0151/0.0151
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6481
+Test epoch 9/10, Time: 41.6481, Loss: 0.030067/0.030067, PSNR: 37.6513/37.6513, BPP: 0.0151/0.0151
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8340
+Test epoch 10/10, Time: 41.8340, Loss: 0.030060/0.030060, PSNR: 37.6529/37.6529, BPP: 0.0151/0.0151
+Training sequence 27: videoSRC11...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.034577/0.034577, PSNR: 37.6485/37.6485, BPP: 0.0194/0.0194
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8842
+Test epoch 1/10, Time: 41.8842, Loss: 0.034000/0.034000, PSNR: 37.4306/37.4306, BPP: 0.0181/0.0181
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8023
+Test epoch 2/10, Time: 41.8023, Loss: 0.033910/0.033910, PSNR: 37.4803/37.4803, BPP: 0.0182/0.0182
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9725
+Test epoch 3/10, Time: 41.9725, Loss: 0.033751/0.033751, PSNR: 37.4847/37.4847, BPP: 0.0180/0.0180
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7128
+Test epoch 4/10, Time: 41.7128, Loss: 0.033789/0.033751, PSNR: 37.5191/37.4847, BPP: 0.0182/0.0180
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8171
+Test epoch 5/10, Time: 41.8171, Loss: 0.033737/0.033737, PSNR: 37.5113/37.5113, BPP: 0.0181/0.0181
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8815
+Test epoch 6/10, Time: 41.8815, Loss: 0.033709/0.033709, PSNR: 37.5003/37.5003, BPP: 0.0180/0.0180
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7437
+Test epoch 7/10, Time: 41.7437, Loss: 0.033702/0.033702, PSNR: 37.5022/37.5022, BPP: 0.0181/0.0181
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0495
+Test epoch 8/10, Time: 42.0495, Loss: 0.033659/0.033659, PSNR: 37.5129/37.5129, BPP: 0.0180/0.0180
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8651
+Test epoch 9/10, Time: 41.8651, Loss: 0.033703/0.033659, PSNR: 37.5095/37.5129, BPP: 0.0181/0.0180
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7787
+Test epoch 10/10, Time: 41.7787, Loss: 0.033688/0.033659, PSNR: 37.5113/37.5129, BPP: 0.0181/0.0180
+Training sequence 28: videoSRC29...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.007554/0.007554, PSNR: 43.1526/43.1526, BPP: 0.0031/0.0031
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7861
+Test epoch 1/10, Time: 41.7861, Loss: 0.007487/0.007487, PSNR: 42.9752/42.9752, BPP: 0.0027/0.0027
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8303
+Test epoch 2/10, Time: 41.8303, Loss: 0.007346/0.007346, PSNR: 43.0410/43.0410, BPP: 0.0027/0.0027
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7245
+Test epoch 3/10, Time: 41.7245, Loss: 0.007461/0.007346, PSNR: 43.0113/43.0410, BPP: 0.0028/0.0027
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8925
+Test epoch 4/10, Time: 41.8925, Loss: 0.007422/0.007346, PSNR: 42.9884/43.0410, BPP: 0.0027/0.0027
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9536
+Test epoch 5/10, Time: 41.9536, Loss: 0.007299/0.007299, PSNR: 43.0197/43.0197, BPP: 0.0026/0.0026
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9304
+Test epoch 6/10, Time: 41.9304, Loss: 0.007332/0.007299, PSNR: 43.0087/43.0197, BPP: 0.0026/0.0026
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8444
+Test epoch 7/10, Time: 41.8444, Loss: 0.007298/0.007298, PSNR: 43.0256/43.0256, BPP: 0.0026/0.0026
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8859
+Test epoch 8/10, Time: 41.8859, Loss: 0.007293/0.007293, PSNR: 43.0302/43.0302, BPP: 0.0026/0.0026
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9559
+Test epoch 9/10, Time: 41.9559, Loss: 0.007281/0.007281, PSNR: 43.0256/43.0256, BPP: 0.0026/0.0026
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0398
+Test epoch 10/10, Time: 42.0398, Loss: 0.007279/0.007279, PSNR: 43.0312/43.0312, BPP: 0.0026/0.0026
+Training sequence 29: videoSRC30...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.018329/0.018329, PSNR: 38.1919/38.1919, BPP: 0.0053/0.0053
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8305
+Test epoch 1/10, Time: 41.8305, Loss: 0.018182/0.018182, PSNR: 38.0331/38.0331, BPP: 0.0047/0.0047
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9573
+Test epoch 2/10, Time: 41.9573, Loss: 0.018125/0.018125, PSNR: 38.0450/38.0450, BPP: 0.0046/0.0046
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9441
+Test epoch 3/10, Time: 41.9441, Loss: 0.017978/0.017978, PSNR: 38.0775/38.0775, BPP: 0.0046/0.0046
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.2030
+Test epoch 4/10, Time: 42.2030, Loss: 0.018058/0.017978, PSNR: 38.0537/38.0775, BPP: 0.0046/0.0046
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0215
+Test epoch 5/10, Time: 42.0215, Loss: 0.017966/0.017966, PSNR: 38.0713/38.0713, BPP: 0.0046/0.0046
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8734
+Test epoch 6/10, Time: 41.8734, Loss: 0.017936/0.017936, PSNR: 38.0854/38.0854, BPP: 0.0046/0.0046
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.4392
+Test epoch 7/10, Time: 42.4392, Loss: 0.017904/0.017904, PSNR: 38.0957/38.0957, BPP: 0.0046/0.0046
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8266
+Test epoch 8/10, Time: 41.8266, Loss: 0.017943/0.017904, PSNR: 38.0883/38.0957, BPP: 0.0046/0.0046
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9784
+Test epoch 9/10, Time: 41.9784, Loss: 0.017935/0.017904, PSNR: 38.0876/38.0957, BPP: 0.0046/0.0046
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8449
+Test epoch 10/10, Time: 41.8449, Loss: 0.017922/0.017904, PSNR: 38.0900/38.0957, BPP: 0.0046/0.0046
+Training sequence 30: videoSRC04...
+Refresh:  checkpoints/cp_video_model_dcn_85_IPPPPPP_best.pth.tar
+Original Loss: 0.176665/0.176665, PSNR: 31.3571/31.3571, BPP: 0.0719/0.0719
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8835
+Test epoch 1/10, Time: 41.8835, Loss: 0.174573/0.174573, PSNR: 31.2269/31.2269, BPP: 0.0687/0.0687
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8755
+Test epoch 2/10, Time: 41.8755, Loss: 0.174796/0.174573, PSNR: 31.2696/31.2269, BPP: 0.0694/0.0687
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8461
+Test epoch 3/10, Time: 41.8461, Loss: 0.174061/0.174061, PSNR: 31.3079/31.3079, BPP: 0.0694/0.0694
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 46.0357
+Test epoch 4/10, Time: 46.0357, Loss: 0.174014/0.174014, PSNR: 31.2965/31.2965, BPP: 0.0691/0.0691
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 50.8170
+Test epoch 5/10, Time: 50.8170, Loss: 0.173796/0.173796, PSNR: 31.3020/31.3020, BPP: 0.0691/0.0691
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1191
+Test epoch 6/10, Time: 42.1191, Loss: 0.173607/0.173607, PSNR: 31.2931/31.2931, BPP: 0.0686/0.0686
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9847
+Test epoch 7/10, Time: 41.9847, Loss: 0.173632/0.173607, PSNR: 31.2993/31.2931, BPP: 0.0689/0.0686
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0191
+Test epoch 8/10, Time: 42.0191, Loss: 0.173715/0.173607, PSNR: 31.2981/31.2931, BPP: 0.0690/0.0686
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8414
+Test epoch 9/10, Time: 41.8414, Loss: 0.173690/0.173607, PSNR: 31.2976/31.2931, BPP: 0.0689/0.0686
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8998
+Test epoch 10/10, Time: 41.8998, Loss: 0.173707/0.173607, PSNR: 31.2977/31.2931, BPP: 0.0689/0.0686
+OEU result:	Loss: 0.052273 |	PSNR: 35.8430 |	Bpp loss: 0.0222 |
+OEU time: 21305.74s
+
+Testing dataset contain 30 folders, 96 frames / folder
+Testing dataset contain 30 folders, 96 frames / folder
+Loading:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+original loss: 1.0000
+Training sequence 1: videoSRC16...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.024638/0.024638, PSNR: 40.5995/40.5995, BPP: 0.0097/0.0097
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.5926
+Test epoch 1/10, Time: 42.5926, Loss: 0.023946/0.023946, PSNR: 40.4872/40.4872, BPP: 0.0086/0.0086
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8756
+Test epoch 2/10, Time: 41.8756, Loss: 0.023834/0.023834, PSNR: 40.4027/40.4027, BPP: 0.0082/0.0082
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9482
+Test epoch 3/10, Time: 41.9482, Loss: 0.023841/0.023834, PSNR: 40.4334/40.4027, BPP: 0.0083/0.0082
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7104
+Test epoch 4/10, Time: 41.7104, Loss: 0.023732/0.023732, PSNR: 40.3966/40.3966, BPP: 0.0080/0.0080
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.5738
+Test epoch 5/10, Time: 41.5738, Loss: 0.023755/0.023732, PSNR: 40.4211/40.3966, BPP: 0.0082/0.0080
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6577
+Test epoch 6/10, Time: 41.6577, Loss: 0.023775/0.023732, PSNR: 40.4072/40.3966, BPP: 0.0081/0.0080
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7430
+Test epoch 7/10, Time: 41.7430, Loss: 0.023745/0.023732, PSNR: 40.4013/40.3966, BPP: 0.0081/0.0080
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6545
+Test epoch 8/10, Time: 41.6545, Loss: 0.023752/0.023732, PSNR: 40.4040/40.3966, BPP: 0.0081/0.0080
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8220
+Test epoch 9/10, Time: 41.8220, Loss: 0.023721/0.023721, PSNR: 40.4073/40.4073, BPP: 0.0081/0.0081
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.2478
+Test epoch 10/10, Time: 42.2478, Loss: 0.023726/0.023721, PSNR: 40.4052/40.4073, BPP: 0.0081/0.0081
+Training sequence 2: videoSRC23...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.047033/0.047033, PSNR: 38.7672/38.7672, BPP: 0.0241/0.0241
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.4970
+Test epoch 1/10, Time: 42.4970, Loss: 0.045969/0.045969, PSNR: 38.5890/38.5890, BPP: 0.0221/0.0221
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0375
+Test epoch 2/10, Time: 42.0375, Loss: 0.045992/0.045969, PSNR: 38.5605/38.5890, BPP: 0.0220/0.0221
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8360
+Test epoch 3/10, Time: 41.8360, Loss: 0.045834/0.045834, PSNR: 38.5357/38.5357, BPP: 0.0217/0.0217
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9853
+Test epoch 4/10, Time: 41.9853, Loss: 0.045701/0.045701, PSNR: 38.5666/38.5666, BPP: 0.0217/0.0217
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9570
+Test epoch 5/10, Time: 41.9570, Loss: 0.045636/0.045636, PSNR: 38.5598/38.5598, BPP: 0.0216/0.0216
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8539
+Test epoch 6/10, Time: 41.8539, Loss: 0.045681/0.045636, PSNR: 38.5544/38.5598, BPP: 0.0216/0.0216
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8732
+Test epoch 7/10, Time: 41.8732, Loss: 0.045674/0.045636, PSNR: 38.5569/38.5598, BPP: 0.0216/0.0216
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8833
+Test epoch 8/10, Time: 41.8833, Loss: 0.045695/0.045636, PSNR: 38.5479/38.5598, BPP: 0.0216/0.0216
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8412
+Test epoch 9/10, Time: 41.8412, Loss: 0.045655/0.045636, PSNR: 38.5516/38.5598, BPP: 0.0216/0.0216
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7098
+Test epoch 10/10, Time: 41.7098, Loss: 0.045664/0.045636, PSNR: 38.5484/38.5598, BPP: 0.0216/0.0216
+Training sequence 3: videoSRC10...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.135503/0.135503, PSNR: 34.6273/34.6273, BPP: 0.0758/0.0758
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7523
+Test epoch 1/10, Time: 41.7523, Loss: 0.128959/0.128959, PSNR: 34.5239/34.5239, BPP: 0.0677/0.0677
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.4966
+Test epoch 2/10, Time: 41.4966, Loss: 0.127369/0.127369, PSNR: 34.5643/34.5643, BPP: 0.0667/0.0667
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7838
+Test epoch 3/10, Time: 41.7838, Loss: 0.126634/0.126634, PSNR: 34.5987/34.5987, BPP: 0.0664/0.0664
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7888
+Test epoch 4/10, Time: 41.7888, Loss: 0.125813/0.125813, PSNR: 34.5807/34.5807, BPP: 0.0654/0.0654
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 44.3792
+Test epoch 5/10, Time: 44.3792, Loss: 0.125390/0.125390, PSNR: 34.5972/34.5972, BPP: 0.0652/0.0652
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0568
+Test epoch 6/10, Time: 42.0568, Loss: 0.125341/0.125341, PSNR: 34.5968/34.5968, BPP: 0.0651/0.0651
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6447
+Test epoch 7/10, Time: 41.6447, Loss: 0.125125/0.125125, PSNR: 34.6008/34.6008, BPP: 0.0650/0.0650
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8257
+Test epoch 8/10, Time: 41.8257, Loss: 0.125030/0.125030, PSNR: 34.5999/34.5999, BPP: 0.0649/0.0649
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0604
+Test epoch 9/10, Time: 42.0604, Loss: 0.125043/0.125030, PSNR: 34.6015/34.5999, BPP: 0.0649/0.0649
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9168
+Test epoch 10/10, Time: 41.9168, Loss: 0.124982/0.124982, PSNR: 34.6039/34.6039, BPP: 0.0649/0.0649
+Training sequence 4: videoSRC22...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.103142/0.103142, PSNR: 36.3343/36.3343, BPP: 0.0615/0.0615
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9780
+Test epoch 1/10, Time: 41.9780, Loss: 0.099758/0.099758, PSNR: 36.2795/36.2795, BPP: 0.0575/0.0575
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 44.4081
+Test epoch 2/10, Time: 44.4081, Loss: 0.099381/0.099381, PSNR: 36.2621/36.2621, BPP: 0.0570/0.0570
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 62.3657
+Test epoch 3/10, Time: 62.3657, Loss: 0.098814/0.098814, PSNR: 36.2711/36.2711, BPP: 0.0565/0.0565
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8433
+Test epoch 4/10, Time: 41.8433, Loss: 0.098535/0.098535, PSNR: 36.3220/36.3220, BPP: 0.0567/0.0567
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.4770
+Test epoch 5/10, Time: 42.4770, Loss: 0.098388/0.098388, PSNR: 36.3267/36.3267, BPP: 0.0566/0.0566
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8809
+Test epoch 6/10, Time: 41.8809, Loss: 0.098396/0.098388, PSNR: 36.3456/36.3267, BPP: 0.0568/0.0566
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6536
+Test epoch 7/10, Time: 41.6536, Loss: 0.098382/0.098382, PSNR: 36.3584/36.3584, BPP: 0.0569/0.0569
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7498
+Test epoch 8/10, Time: 41.7498, Loss: 0.098365/0.098365, PSNR: 36.3568/36.3568, BPP: 0.0568/0.0568
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8661
+Test epoch 9/10, Time: 41.8661, Loss: 0.098329/0.098329, PSNR: 36.3608/36.3608, BPP: 0.0568/0.0568
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 51.8349
+Test epoch 10/10, Time: 51.8349, Loss: 0.098354/0.098329, PSNR: 36.3600/36.3608, BPP: 0.0569/0.0568
+Training sequence 5: videoSRC14...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.071698/0.071698, PSNR: 37.0925/37.0925, BPP: 0.0381/0.0381
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 55.5965
+Test epoch 1/10, Time: 55.5965, Loss: 0.070356/0.070356, PSNR: 36.8830/36.8830, BPP: 0.0351/0.0351
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 45.2062
+Test epoch 2/10, Time: 45.2062, Loss: 0.070274/0.070274, PSNR: 36.8444/36.8444, BPP: 0.0347/0.0347
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9962
+Test epoch 3/10, Time: 41.9962, Loss: 0.070147/0.070147, PSNR: 36.8519/36.8519, BPP: 0.0346/0.0346
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 47.9476
+Test epoch 4/10, Time: 47.9476, Loss: 0.070043/0.070043, PSNR: 36.8168/36.8168, BPP: 0.0342/0.0342
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 57.7049
+Test epoch 5/10, Time: 57.7049, Loss: 0.070049/0.070043, PSNR: 36.8184/36.8168, BPP: 0.0342/0.0342
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6635
+Test epoch 6/10, Time: 41.6635, Loss: 0.070062/0.070043, PSNR: 36.8147/36.8168, BPP: 0.0342/0.0342
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7045
+Test epoch 7/10, Time: 41.7045, Loss: 0.070059/0.070043, PSNR: 36.8141/36.8168, BPP: 0.0342/0.0342
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7602
+Test epoch 8/10, Time: 41.7602, Loss: 0.070039/0.070039, PSNR: 36.8109/36.8109, BPP: 0.0341/0.0341
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6315
+Test epoch 9/10, Time: 41.6315, Loss: 0.070055/0.070039, PSNR: 36.8071/36.8109, BPP: 0.0341/0.0341
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6228
+Test epoch 10/10, Time: 41.6228, Loss: 0.070049/0.070039, PSNR: 36.8036/36.8109, BPP: 0.0341/0.0341
+Training sequence 6: videoSRC20...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.088491/0.088491, PSNR: 36.5563/36.5563, BPP: 0.0479/0.0479
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8810
+Test epoch 1/10, Time: 41.8810, Loss: 0.084413/0.084413, PSNR: 36.6790/36.6790, BPP: 0.0452/0.0452
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7334
+Test epoch 2/10, Time: 41.7334, Loss: 0.084201/0.084201, PSNR: 36.6361/36.6361, BPP: 0.0445/0.0445
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 47.4362
+Test epoch 3/10, Time: 47.4362, Loss: 0.083305/0.083305, PSNR: 36.7033/36.7033, BPP: 0.0443/0.0443
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 49.0480
+Test epoch 4/10, Time: 49.0480, Loss: 0.083264/0.083264, PSNR: 36.7194/36.7194, BPP: 0.0444/0.0444
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 49.5147
+Test epoch 5/10, Time: 49.5147, Loss: 0.083104/0.083104, PSNR: 36.7479/36.7479, BPP: 0.0445/0.0445
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 48.5171
+Test epoch 6/10, Time: 48.5171, Loss: 0.083000/0.083000, PSNR: 36.7468/36.7468, BPP: 0.0444/0.0444
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6566
+Test epoch 7/10, Time: 41.6566, Loss: 0.082993/0.082993, PSNR: 36.7530/36.7530, BPP: 0.0445/0.0445
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9229
+Test epoch 8/10, Time: 41.9229, Loss: 0.082965/0.082965, PSNR: 36.7500/36.7500, BPP: 0.0444/0.0444
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8601
+Test epoch 9/10, Time: 41.8601, Loss: 0.083023/0.082965, PSNR: 36.7492/36.7500, BPP: 0.0445/0.0444
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9407
+Test epoch 10/10, Time: 41.9407, Loss: 0.082925/0.082925, PSNR: 36.7561/36.7561, BPP: 0.0444/0.0444
+Training sequence 7: videoSRC18...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.100687/0.100687, PSNR: 34.5154/34.5154, BPP: 0.0344/0.0344
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9602
+Test epoch 1/10, Time: 41.9602, Loss: 0.098463/0.098463, PSNR: 34.5083/34.5083, BPP: 0.0316/0.0316
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6453
+Test epoch 2/10, Time: 41.6453, Loss: 0.099216/0.098463, PSNR: 34.4858/34.5083, BPP: 0.0318/0.0316
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.6267
+Test epoch 3/10, Time: 41.6267, Loss: 0.098908/0.098463, PSNR: 34.4903/34.5083, BPP: 0.0315/0.0316
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9066
+Test epoch 4/10, Time: 41.9066, Loss: 0.098553/0.098463, PSNR: 34.5126/34.5083, BPP: 0.0315/0.0316
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7089
+Test epoch 5/10, Time: 41.7089, Loss: 0.098392/0.098392, PSNR: 34.5119/34.5119, BPP: 0.0313/0.0313
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 65.0490
+Test epoch 6/10, Time: 65.0490, Loss: 0.098122/0.098122, PSNR: 34.5062/34.5062, BPP: 0.0309/0.0309
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 68.5123
+Test epoch 7/10, Time: 68.5123, Loss: 0.098163/0.098122, PSNR: 34.5025/34.5062, BPP: 0.0309/0.0309
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.5822
+Test epoch 8/10, Time: 41.5822, Loss: 0.098341/0.098122, PSNR: 34.4964/34.5062, BPP: 0.0309/0.0309
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6732
+Test epoch 9/10, Time: 41.6732, Loss: 0.098240/0.098122, PSNR: 34.5035/34.5062, BPP: 0.0309/0.0309
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.5269
+Test epoch 10/10, Time: 41.5269, Loss: 0.098345/0.098122, PSNR: 34.4988/34.5062, BPP: 0.0310/0.0309
+Training sequence 8: videoSRC25...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.253948/0.253948, PSNR: 31.0784/31.0784, BPP: 0.1147/0.1147
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.6901
+Test epoch 1/10, Time: 41.6901, Loss: 0.250596/0.250596, PSNR: 31.0722/31.0722, BPP: 0.1112/0.1112
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7321
+Test epoch 2/10, Time: 41.7321, Loss: 0.249684/0.249684, PSNR: 31.0869/31.0869, BPP: 0.1108/0.1108
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8149
+Test epoch 3/10, Time: 41.8149, Loss: 0.249375/0.249375, PSNR: 31.0848/31.0848, BPP: 0.1104/0.1104
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8112
+Test epoch 4/10, Time: 41.8112, Loss: 0.249129/0.249129, PSNR: 31.0944/31.0944, BPP: 0.1105/0.1105
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9484
+Test epoch 5/10, Time: 41.9484, Loss: 0.249134/0.249129, PSNR: 31.1109/31.0944, BPP: 0.1111/0.1105
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7192
+Test epoch 6/10, Time: 41.7192, Loss: 0.248912/0.248912, PSNR: 31.1137/31.1137, BPP: 0.1109/0.1109
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 49.1918
+Test epoch 7/10, Time: 49.1918, Loss: 0.248897/0.248897, PSNR: 31.1136/31.1136, BPP: 0.1109/0.1109
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 49.7163
+Test epoch 8/10, Time: 49.7163, Loss: 0.248834/0.248834, PSNR: 31.1166/31.1166, BPP: 0.1110/0.1110
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 50.2782
+Test epoch 9/10, Time: 50.2782, Loss: 0.248971/0.248834, PSNR: 31.1133/31.1166, BPP: 0.1109/0.1110
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9208
+Test epoch 10/10, Time: 41.9208, Loss: 0.248975/0.248834, PSNR: 31.1129/31.1166, BPP: 0.1109/0.1110
+Training sequence 9: videoSRC02...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.035595/0.035595, PSNR: 41.0154/41.0154, BPP: 0.0214/0.0214
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 44.8380
+Test epoch 1/10, Time: 44.8380, Loss: 0.035044/0.035044, PSNR: 40.9908/40.9908, BPP: 0.0208/0.0208
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 49.8498
+Test epoch 2/10, Time: 49.8498, Loss: 0.034473/0.034473, PSNR: 40.8903/40.8903, BPP: 0.0198/0.0198
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 50.2845
+Test epoch 3/10, Time: 50.2845, Loss: 0.034272/0.034272, PSNR: 40.9472/40.9472, BPP: 0.0198/0.0198
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7143
+Test epoch 4/10, Time: 41.7143, Loss: 0.034097/0.034097, PSNR: 40.9426/40.9426, BPP: 0.0196/0.0196
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6758
+Test epoch 5/10, Time: 41.6758, Loss: 0.034067/0.034067, PSNR: 40.9559/40.9559, BPP: 0.0197/0.0197
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7766
+Test epoch 6/10, Time: 41.7766, Loss: 0.034094/0.034067, PSNR: 40.9383/40.9559, BPP: 0.0196/0.0197
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7573
+Test epoch 7/10, Time: 41.7573, Loss: 0.034050/0.034050, PSNR: 40.9555/40.9555, BPP: 0.0196/0.0196
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.6175
+Test epoch 8/10, Time: 42.6175, Loss: 0.033988/0.033988, PSNR: 40.9634/40.9634, BPP: 0.0196/0.0196
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8425
+Test epoch 9/10, Time: 41.8425, Loss: 0.034024/0.033988, PSNR: 40.9587/40.9634, BPP: 0.0196/0.0196
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7743
+Test epoch 10/10, Time: 41.7743, Loss: 0.034018/0.033988, PSNR: 40.9618/40.9634, BPP: 0.0196/0.0196
+Training sequence 10: videoSRC09...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.169494/0.169494, PSNR: 32.7658/32.7658, BPP: 0.0781/0.0781
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9031
+Test epoch 1/10, Time: 41.9031, Loss: 0.167643/0.167643, PSNR: 32.7737/32.7737, BPP: 0.0764/0.0764
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8037
+Test epoch 2/10, Time: 41.8037, Loss: 0.167175/0.167175, PSNR: 32.7233/32.7233, BPP: 0.0748/0.0748
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7059
+Test epoch 3/10, Time: 41.7059, Loss: 0.166837/0.166837, PSNR: 32.7498/32.7498, BPP: 0.0751/0.0751
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8328
+Test epoch 4/10, Time: 41.8328, Loss: 0.166635/0.166635, PSNR: 32.7445/32.7445, BPP: 0.0748/0.0748
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8137
+Test epoch 5/10, Time: 41.8137, Loss: 0.166643/0.166635, PSNR: 32.7419/32.7445, BPP: 0.0747/0.0748
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6735
+Test epoch 6/10, Time: 41.6735, Loss: 0.166572/0.166572, PSNR: 32.7388/32.7388, BPP: 0.0746/0.0746
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7574
+Test epoch 7/10, Time: 41.7574, Loss: 0.166516/0.166516, PSNR: 32.7368/32.7368, BPP: 0.0745/0.0745
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.8075
+Test epoch 8/10, Time: 42.8075, Loss: 0.166488/0.166488, PSNR: 32.7365/32.7365, BPP: 0.0744/0.0744
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8114
+Test epoch 9/10, Time: 41.8114, Loss: 0.166553/0.166488, PSNR: 32.7328/32.7365, BPP: 0.0744/0.0744
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8169
+Test epoch 10/10, Time: 41.8169, Loss: 0.166505/0.166488, PSNR: 32.7360/32.7365, BPP: 0.0744/0.0744
+Training sequence 11: videoSRC27...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.080275/0.080275, PSNR: 36.3764/36.3764, BPP: 0.0390/0.0390
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9851
+Test epoch 1/10, Time: 41.9851, Loss: 0.079138/0.079138, PSNR: 36.3608/36.3608, BPP: 0.0377/0.0377
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8246
+Test epoch 2/10, Time: 41.8246, Loss: 0.078798/0.078798, PSNR: 36.2953/36.2953, BPP: 0.0367/0.0367
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8491
+Test epoch 3/10, Time: 41.8491, Loss: 0.078509/0.078509, PSNR: 36.3250/36.3250, BPP: 0.0368/0.0368
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9005
+Test epoch 4/10, Time: 41.9005, Loss: 0.078511/0.078509, PSNR: 36.3372/36.3250, BPP: 0.0369/0.0368
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7805
+Test epoch 5/10, Time: 41.7805, Loss: 0.078401/0.078401, PSNR: 36.3327/36.3327, BPP: 0.0367/0.0367
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9825
+Test epoch 6/10, Time: 41.9825, Loss: 0.078361/0.078361, PSNR: 36.3225/36.3225, BPP: 0.0366/0.0366
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7641
+Test epoch 7/10, Time: 41.7641, Loss: 0.078397/0.078361, PSNR: 36.3223/36.3225, BPP: 0.0366/0.0366
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 49.2630
+Test epoch 8/10, Time: 49.2630, Loss: 0.078346/0.078346, PSNR: 36.3225/36.3225, BPP: 0.0366/0.0366
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 49.6786
+Test epoch 9/10, Time: 49.6786, Loss: 0.078398/0.078346, PSNR: 36.3176/36.3225, BPP: 0.0366/0.0366
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7630
+Test epoch 10/10, Time: 41.7630, Loss: 0.078390/0.078346, PSNR: 36.3169/36.3225, BPP: 0.0366/0.0366
+Training sequence 12: videoSRC05...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.101663/0.101663, PSNR: 34.9065/34.9065, BPP: 0.0456/0.0456
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8713
+Test epoch 1/10, Time: 41.8713, Loss: 0.100485/0.100485, PSNR: 34.8707/34.8707, BPP: 0.0440/0.0440
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6360
+Test epoch 2/10, Time: 41.6360, Loss: 0.099484/0.099484, PSNR: 34.9024/34.9024, BPP: 0.0434/0.0434
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.5529
+Test epoch 3/10, Time: 41.5529, Loss: 0.098974/0.098974, PSNR: 34.9147/34.9147, BPP: 0.0431/0.0431
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7072
+Test epoch 4/10, Time: 41.7072, Loss: 0.098973/0.098973, PSNR: 34.9124/34.9124, BPP: 0.0430/0.0430
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6952
+Test epoch 5/10, Time: 41.6952, Loss: 0.098889/0.098889, PSNR: 34.9120/34.9120, BPP: 0.0429/0.0429
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8638
+Test epoch 6/10, Time: 41.8638, Loss: 0.098692/0.098692, PSNR: 34.9191/34.9191, BPP: 0.0428/0.0428
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7610
+Test epoch 7/10, Time: 41.7610, Loss: 0.098769/0.098692, PSNR: 34.9172/34.9191, BPP: 0.0429/0.0428
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7311
+Test epoch 8/10, Time: 41.7311, Loss: 0.098745/0.098692, PSNR: 34.9182/34.9191, BPP: 0.0429/0.0428
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7650
+Test epoch 9/10, Time: 41.7650, Loss: 0.098738/0.098692, PSNR: 34.9158/34.9191, BPP: 0.0428/0.0428
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 49.7903
+Test epoch 10/10, Time: 49.7903, Loss: 0.098758/0.098692, PSNR: 34.9163/34.9191, BPP: 0.0429/0.0428
+Training sequence 13: videoSRC07...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.080249/0.080249, PSNR: 34.9722/34.9722, BPP: 0.0259/0.0259
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8726
+Test epoch 1/10, Time: 41.8726, Loss: 0.079171/0.079171, PSNR: 34.9760/34.9760, BPP: 0.0249/0.0249
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0533
+Test epoch 2/10, Time: 42.0533, Loss: 0.078754/0.078754, PSNR: 34.9270/34.9270, BPP: 0.0239/0.0239
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8175
+Test epoch 3/10, Time: 41.8175, Loss: 0.078596/0.078596, PSNR: 34.9469/34.9469, BPP: 0.0240/0.0240
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.1174
+Test epoch 4/10, Time: 42.1174, Loss: 0.078588/0.078588, PSNR: 34.9574/34.9574, BPP: 0.0241/0.0241
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7246
+Test epoch 5/10, Time: 41.7246, Loss: 0.078532/0.078532, PSNR: 34.9481/34.9481, BPP: 0.0239/0.0239
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1352
+Test epoch 6/10, Time: 42.1352, Loss: 0.078525/0.078525, PSNR: 34.9488/34.9488, BPP: 0.0239/0.0239
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9197
+Test epoch 7/10, Time: 41.9197, Loss: 0.078491/0.078491, PSNR: 34.9500/34.9500, BPP: 0.0239/0.0239
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8657
+Test epoch 8/10, Time: 41.8657, Loss: 0.078453/0.078453, PSNR: 34.9520/34.9520, BPP: 0.0239/0.0239
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9917
+Test epoch 9/10, Time: 41.9917, Loss: 0.078493/0.078453, PSNR: 34.9490/34.9520, BPP: 0.0239/0.0239
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8354
+Test epoch 10/10, Time: 41.8354, Loss: 0.078476/0.078453, PSNR: 34.9487/34.9520, BPP: 0.0239/0.0239
+Training sequence 14: videoSRC15...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.079022/0.079022, PSNR: 34.7115/34.7115, BPP: 0.0211/0.0211
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 52.0812
+Test epoch 1/10, Time: 52.0812, Loss: 0.077606/0.077606, PSNR: 34.5757/34.5757, BPP: 0.0177/0.0177
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 50.5295
+Test epoch 2/10, Time: 50.5295, Loss: 0.079111/0.077606, PSNR: 34.4637/34.5757, BPP: 0.0174/0.0177
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 47.5687
+Test epoch 3/10, Time: 47.5687, Loss: 0.077275/0.077275, PSNR: 34.5838/34.5838, BPP: 0.0174/0.0174
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.5856
+Test epoch 4/10, Time: 41.5856, Loss: 0.077285/0.077275, PSNR: 34.5864/34.5838, BPP: 0.0175/0.0174
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6351
+Test epoch 5/10, Time: 41.6351, Loss: 0.077697/0.077275, PSNR: 34.5567/34.5838, BPP: 0.0174/0.0174
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7371
+Test epoch 6/10, Time: 41.7371, Loss: 0.077489/0.077275, PSNR: 34.5718/34.5838, BPP: 0.0174/0.0174
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7076
+Test epoch 7/10, Time: 41.7076, Loss: 0.076942/0.076942, PSNR: 34.6031/34.6031, BPP: 0.0173/0.0173
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6814
+Test epoch 8/10, Time: 41.6814, Loss: 0.076984/0.076942, PSNR: 34.6008/34.6031, BPP: 0.0173/0.0173
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7921
+Test epoch 9/10, Time: 41.7921, Loss: 0.077033/0.076942, PSNR: 34.5969/34.6031, BPP: 0.0173/0.0173
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 58.1747
+Test epoch 10/10, Time: 58.1747, Loss: 0.077003/0.076942, PSNR: 34.5995/34.6031, BPP: 0.0173/0.0173
+Training sequence 15: videoSRC08...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.042678/0.042678, PSNR: 37.8034/37.8034, BPP: 0.0143/0.0143
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8623
+Test epoch 1/10, Time: 41.8623, Loss: 0.039813/0.039813, PSNR: 37.7411/37.7411, BPP: 0.0110/0.0110
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6546
+Test epoch 2/10, Time: 41.6546, Loss: 0.039624/0.039624, PSNR: 37.7354/37.7354, BPP: 0.0108/0.0108
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.6232
+Test epoch 3/10, Time: 41.6232, Loss: 0.039690/0.039624, PSNR: 37.7361/37.7354, BPP: 0.0108/0.0108
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9117
+Test epoch 4/10, Time: 41.9117, Loss: 0.039987/0.039624, PSNR: 37.7247/37.7354, BPP: 0.0110/0.0108
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9435
+Test epoch 5/10, Time: 41.9435, Loss: 0.039448/0.039448, PSNR: 37.7521/37.7521, BPP: 0.0107/0.0107
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8086
+Test epoch 6/10, Time: 41.8086, Loss: 0.039627/0.039448, PSNR: 37.7321/37.7521, BPP: 0.0107/0.0107
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7434
+Test epoch 7/10, Time: 41.7434, Loss: 0.039561/0.039448, PSNR: 37.7419/37.7521, BPP: 0.0107/0.0107
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 94.4120
+Test epoch 8/10, Time: 94.4120, Loss: 0.039626/0.039448, PSNR: 37.7393/37.7521, BPP: 0.0108/0.0107
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7994
+Test epoch 9/10, Time: 41.7994, Loss: 0.039657/0.039448, PSNR: 37.7391/37.7521, BPP: 0.0108/0.0107
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7821
+Test epoch 10/10, Time: 41.7821, Loss: 0.039561/0.039448, PSNR: 37.7388/37.7521, BPP: 0.0107/0.0107
+Training sequence 16: videoSRC01...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.031186/0.031186, PSNR: 39.8386/39.8386, BPP: 0.0135/0.0135
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8378
+Test epoch 1/10, Time: 41.8378, Loss: 0.026219/0.026219, PSNR: 39.7048/39.7048, BPP: 0.0080/0.0080
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7489
+Test epoch 2/10, Time: 41.7489, Loss: 0.026139/0.026139, PSNR: 39.6730/39.6730, BPP: 0.0077/0.0077
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8380
+Test epoch 3/10, Time: 41.8380, Loss: 0.025201/0.025201, PSNR: 39.6647/39.6647, BPP: 0.0068/0.0068
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.5963
+Test epoch 4/10, Time: 41.5963, Loss: 0.025416/0.025201, PSNR: 39.6869/39.6647, BPP: 0.0071/0.0068
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6169
+Test epoch 5/10, Time: 41.6169, Loss: 0.025076/0.025076, PSNR: 39.6891/39.6891, BPP: 0.0067/0.0067
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.5626
+Test epoch 6/10, Time: 41.5626, Loss: 0.025053/0.025053, PSNR: 39.6694/39.6694, BPP: 0.0066/0.0066
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6716
+Test epoch 7/10, Time: 41.6716, Loss: 0.024871/0.024871, PSNR: 39.6583/39.6583, BPP: 0.0064/0.0064
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7584
+Test epoch 8/10, Time: 41.7584, Loss: 0.024613/0.024613, PSNR: 39.6575/39.6575, BPP: 0.0061/0.0061
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.5434
+Test epoch 9/10, Time: 41.5434, Loss: 0.024841/0.024613, PSNR: 39.6556/39.6575, BPP: 0.0064/0.0061
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7373
+Test epoch 10/10, Time: 41.7373, Loss: 0.024836/0.024613, PSNR: 39.6585/39.6575, BPP: 0.0064/0.0061
+Training sequence 17: videoSRC03...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.034291/0.034291, PSNR: 39.0333/39.0333, BPP: 0.0128/0.0128
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7497
+Test epoch 1/10, Time: 41.7497, Loss: 0.033546/0.033546, PSNR: 39.0127/39.0127, BPP: 0.0119/0.0119
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8201
+Test epoch 2/10, Time: 41.8201, Loss: 0.033496/0.033496, PSNR: 38.9626/38.9626, BPP: 0.0116/0.0116
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7746
+Test epoch 3/10, Time: 41.7746, Loss: 0.033265/0.033265, PSNR: 38.9898/38.9898, BPP: 0.0115/0.0115
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9536
+Test epoch 4/10, Time: 41.9536, Loss: 0.033083/0.033083, PSNR: 39.0266/39.0266, BPP: 0.0115/0.0115
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8023
+Test epoch 5/10, Time: 41.8023, Loss: 0.032975/0.032975, PSNR: 39.0283/39.0283, BPP: 0.0114/0.0114
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7525
+Test epoch 6/10, Time: 41.7525, Loss: 0.033033/0.032975, PSNR: 39.0316/39.0283, BPP: 0.0115/0.0114
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8835
+Test epoch 7/10, Time: 41.8835, Loss: 0.032990/0.032975, PSNR: 39.0330/39.0283, BPP: 0.0114/0.0114
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 49.3289
+Test epoch 8/10, Time: 49.3289, Loss: 0.032965/0.032965, PSNR: 39.0298/39.0298, BPP: 0.0114/0.0114
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7165
+Test epoch 9/10, Time: 41.7165, Loss: 0.032962/0.032962, PSNR: 39.0368/39.0368, BPP: 0.0114/0.0114
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7998
+Test epoch 10/10, Time: 41.7998, Loss: 0.032940/0.032940, PSNR: 39.0336/39.0336, BPP: 0.0114/0.0114
+Training sequence 18: videoSRC06...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.100768/0.100768, PSNR: 32.7715/32.7715, BPP: 0.0108/0.0108
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8115
+Test epoch 1/10, Time: 41.8115, Loss: 0.100536/0.100536, PSNR: 32.7820/32.7820, BPP: 0.0108/0.0108
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8375
+Test epoch 2/10, Time: 41.8375, Loss: 0.101029/0.100536, PSNR: 32.7697/32.7820, BPP: 0.0110/0.0108
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8636
+Test epoch 3/10, Time: 41.8636, Loss: 0.100356/0.100356, PSNR: 32.7880/32.7880, BPP: 0.0107/0.0107
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.6309
+Test epoch 4/10, Time: 41.6309, Loss: 0.100727/0.100356, PSNR: 32.7856/32.7880, BPP: 0.0111/0.0107
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6275
+Test epoch 5/10, Time: 41.6275, Loss: 0.100278/0.100278, PSNR: 32.7897/32.7897, BPP: 0.0107/0.0107
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6223
+Test epoch 6/10, Time: 41.6223, Loss: 0.100229/0.100229, PSNR: 32.7917/32.7917, BPP: 0.0107/0.0107
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6644
+Test epoch 7/10, Time: 41.6644, Loss: 0.100205/0.100205, PSNR: 32.7921/32.7921, BPP: 0.0107/0.0107
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7454
+Test epoch 8/10, Time: 41.7454, Loss: 0.100126/0.100126, PSNR: 32.7930/32.7930, BPP: 0.0106/0.0106
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 46.2706
+Test epoch 9/10, Time: 46.2706, Loss: 0.100131/0.100126, PSNR: 32.7927/32.7930, BPP: 0.0106/0.0106
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 68.3664
+Test epoch 10/10, Time: 68.3664, Loss: 0.100139/0.100126, PSNR: 32.7922/32.7930, BPP: 0.0106/0.0106
+Training sequence 19: videoSRC26...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.045968/0.045968, PSNR: 39.0466/39.0466, BPP: 0.0243/0.0243
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 46.7289
+Test epoch 1/10, Time: 46.7289, Loss: 0.044422/0.044422, PSNR: 39.1079/39.1079, BPP: 0.0231/0.0231
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7535
+Test epoch 2/10, Time: 41.7535, Loss: 0.043991/0.043991, PSNR: 39.2243/39.2243, BPP: 0.0232/0.0232
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7364
+Test epoch 3/10, Time: 41.7364, Loss: 0.043726/0.043726, PSNR: 39.2279/39.2279, BPP: 0.0229/0.0229
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7505
+Test epoch 4/10, Time: 41.7505, Loss: 0.043649/0.043649, PSNR: 39.1933/39.1933, BPP: 0.0227/0.0227
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6733
+Test epoch 5/10, Time: 41.6733, Loss: 0.043513/0.043513, PSNR: 39.2317/39.2317, BPP: 0.0227/0.0227
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6520
+Test epoch 6/10, Time: 41.6520, Loss: 0.043509/0.043509, PSNR: 39.2232/39.2232, BPP: 0.0227/0.0227
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.5342
+Test epoch 7/10, Time: 41.5342, Loss: 0.043489/0.043489, PSNR: 39.2248/39.2248, BPP: 0.0227/0.0227
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6905
+Test epoch 8/10, Time: 41.6905, Loss: 0.043458/0.043458, PSNR: 39.2321/39.2321, BPP: 0.0227/0.0227
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7260
+Test epoch 9/10, Time: 41.7260, Loss: 0.043492/0.043458, PSNR: 39.2298/39.2321, BPP: 0.0227/0.0227
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.5913
+Test epoch 10/10, Time: 41.5913, Loss: 0.043497/0.043458, PSNR: 39.2346/39.2321, BPP: 0.0227/0.0227
+Training sequence 20: videoSRC12...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.070598/0.070598, PSNR: 36.1720/36.1720, BPP: 0.0288/0.0288
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9212
+Test epoch 1/10, Time: 41.9212, Loss: 0.068658/0.068658, PSNR: 35.9536/35.9536, BPP: 0.0246/0.0246
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8481
+Test epoch 2/10, Time: 41.8481, Loss: 0.068649/0.068649, PSNR: 35.9304/35.9304, BPP: 0.0243/0.0243
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 46.6955
+Test epoch 3/10, Time: 46.6955, Loss: 0.068227/0.068227, PSNR: 35.9292/35.9292, BPP: 0.0238/0.0238
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 50.3789
+Test epoch 4/10, Time: 50.3789, Loss: 0.068340/0.068227, PSNR: 35.9217/35.9292, BPP: 0.0238/0.0238
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 50.6583
+Test epoch 5/10, Time: 50.6583, Loss: 0.068014/0.068014, PSNR: 35.9289/35.9289, BPP: 0.0236/0.0236
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 50.6558
+Test epoch 6/10, Time: 50.6558, Loss: 0.068124/0.068014, PSNR: 35.9079/35.9289, BPP: 0.0235/0.0236
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 50.6143
+Test epoch 7/10, Time: 50.6143, Loss: 0.068149/0.068014, PSNR: 35.8980/35.9289, BPP: 0.0234/0.0236
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 50.5173
+Test epoch 8/10, Time: 50.5173, Loss: 0.068111/0.068014, PSNR: 35.8974/35.9289, BPP: 0.0233/0.0236
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 50.4414
+Test epoch 9/10, Time: 50.4414, Loss: 0.068106/0.068014, PSNR: 35.8968/35.9289, BPP: 0.0233/0.0236
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 50.5036
+Test epoch 10/10, Time: 50.5036, Loss: 0.068114/0.068014, PSNR: 35.8969/35.9289, BPP: 0.0233/0.0236
+Training sequence 21: videoSRC13...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.131375/0.131375, PSNR: 32.9366/32.9366, BPP: 0.0436/0.0436
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 51.7080
+Test epoch 1/10, Time: 51.7080, Loss: 0.130170/0.130170, PSNR: 32.8209/32.8209, BPP: 0.0397/0.0397
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 51.7925
+Test epoch 2/10, Time: 51.7925, Loss: 0.131404/0.130170, PSNR: 32.7167/32.8209, BPP: 0.0386/0.0397
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 51.0534
+Test epoch 3/10, Time: 51.0534, Loss: 0.130556/0.130170, PSNR: 32.6941/32.8209, BPP: 0.0372/0.0397
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 51.1995
+Test epoch 4/10, Time: 51.1995, Loss: 0.131443/0.130170, PSNR: 32.7198/32.8209, BPP: 0.0387/0.0397
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 51.6090
+Test epoch 5/10, Time: 51.6090, Loss: 0.130630/0.130170, PSNR: 32.6767/32.8209, BPP: 0.0368/0.0397
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 51.5395
+Test epoch 6/10, Time: 51.5395, Loss: 0.130535/0.130170, PSNR: 32.6723/32.8209, BPP: 0.0366/0.0397
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 51.5895
+Test epoch 7/10, Time: 51.5895, Loss: 0.130313/0.130170, PSNR: 32.6635/32.8209, BPP: 0.0362/0.0397
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 51.6765
+Test epoch 8/10, Time: 51.6765, Loss: 0.130314/0.130170, PSNR: 32.6610/32.8209, BPP: 0.0362/0.0397
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 51.0286
+Test epoch 9/10, Time: 51.0286, Loss: 0.130315/0.130170, PSNR: 32.6626/32.8209, BPP: 0.0362/0.0397
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 51.3060
+Test epoch 10/10, Time: 51.3060, Loss: 0.130482/0.130170, PSNR: 32.6596/32.8209, BPP: 0.0363/0.0397
+Training sequence 22: videoSRC17...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.069928/0.069928, PSNR: 37.2625/37.2625, BPP: 0.0375/0.0375
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 48.5921
+Test epoch 1/10, Time: 48.5921, Loss: 0.067818/0.067818, PSNR: 37.0718/37.0718, BPP: 0.0340/0.0340
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 43.3564
+Test epoch 2/10, Time: 43.3564, Loss: 0.067865/0.067818, PSNR: 37.0438/37.0718, BPP: 0.0338/0.0340
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0897
+Test epoch 3/10, Time: 42.0897, Loss: 0.067522/0.067522, PSNR: 37.0660/37.0660, BPP: 0.0337/0.0337
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 43.3475
+Test epoch 4/10, Time: 43.3475, Loss: 0.067465/0.067465, PSNR: 37.0594/37.0594, BPP: 0.0336/0.0336
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.9499
+Test epoch 5/10, Time: 42.9499, Loss: 0.067459/0.067459, PSNR: 37.0633/37.0633, BPP: 0.0336/0.0336
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1495
+Test epoch 6/10, Time: 42.1495, Loss: 0.067414/0.067414, PSNR: 37.0514/37.0514, BPP: 0.0335/0.0335
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8098
+Test epoch 7/10, Time: 41.8098, Loss: 0.067378/0.067378, PSNR: 37.0572/37.0572, BPP: 0.0335/0.0335
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9435
+Test epoch 8/10, Time: 41.9435, Loss: 0.067345/0.067345, PSNR: 37.0553/37.0553, BPP: 0.0334/0.0334
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9209
+Test epoch 9/10, Time: 41.9209, Loss: 0.067373/0.067345, PSNR: 37.0552/37.0553, BPP: 0.0334/0.0334
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7878
+Test epoch 10/10, Time: 41.7878, Loss: 0.067366/0.067345, PSNR: 37.0529/37.0553, BPP: 0.0334/0.0334
+Training sequence 23: videoSRC28...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.038720/0.038720, PSNR: 40.2934/40.2934, BPP: 0.0226/0.0226
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9189
+Test epoch 1/10, Time: 41.9189, Loss: 0.028598/0.028598, PSNR: 40.1096/40.1096, BPP: 0.0118/0.0118
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8698
+Test epoch 2/10, Time: 41.8698, Loss: 0.030177/0.028598, PSNR: 40.0961/40.1096, BPP: 0.0133/0.0118
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7232
+Test epoch 3/10, Time: 41.7232, Loss: 0.031175/0.028598, PSNR: 40.1003/40.1096, BPP: 0.0143/0.0118
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.5911
+Test epoch 4/10, Time: 41.5911, Loss: 0.031126/0.028598, PSNR: 40.0680/40.1096, BPP: 0.0141/0.0118
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6419
+Test epoch 5/10, Time: 41.6419, Loss: 0.031042/0.028598, PSNR: 40.0857/40.1096, BPP: 0.0141/0.0118
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8253
+Test epoch 6/10, Time: 41.8253, Loss: 0.032545/0.028598, PSNR: 40.0813/40.1096, BPP: 0.0156/0.0118
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7600
+Test epoch 7/10, Time: 41.7600, Loss: 0.029828/0.028598, PSNR: 40.0719/40.1096, BPP: 0.0128/0.0118
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9268
+Test epoch 8/10, Time: 41.9268, Loss: 0.029230/0.028598, PSNR: 40.0721/40.1096, BPP: 0.0122/0.0118
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8884
+Test epoch 9/10, Time: 41.8884, Loss: 0.029424/0.028598, PSNR: 40.0722/40.1096, BPP: 0.0124/0.0118
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6800
+Test epoch 10/10, Time: 41.6800, Loss: 0.029583/0.028598, PSNR: 40.0728/40.1096, BPP: 0.0126/0.0118
+Training sequence 24: videoSRC19...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.074919/0.074919, PSNR: 36.7150/36.7150, BPP: 0.0379/0.0379
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8441
+Test epoch 1/10, Time: 41.8441, Loss: 0.074381/0.074381, PSNR: 36.6904/36.6904, BPP: 0.0371/0.0371
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8764
+Test epoch 2/10, Time: 41.8764, Loss: 0.074222/0.074222, PSNR: 36.6972/36.6972, BPP: 0.0370/0.0370
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9590
+Test epoch 3/10, Time: 41.9590, Loss: 0.073803/0.073803, PSNR: 36.6751/36.6751, BPP: 0.0364/0.0364
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7054
+Test epoch 4/10, Time: 41.7054, Loss: 0.073788/0.073788, PSNR: 36.6683/36.6683, BPP: 0.0363/0.0363
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6712
+Test epoch 5/10, Time: 41.6712, Loss: 0.073674/0.073674, PSNR: 36.6625/36.6625, BPP: 0.0361/0.0361
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 126.9732
+Test epoch 6/10, Time: 126.9732, Loss: 0.073699/0.073674, PSNR: 36.6663/36.6625, BPP: 0.0362/0.0361
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.3540
+Test epoch 7/10, Time: 42.3540, Loss: 0.073650/0.073650, PSNR: 36.6602/36.6602, BPP: 0.0361/0.0361
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8025
+Test epoch 8/10, Time: 41.8025, Loss: 0.073642/0.073642, PSNR: 36.6599/36.6599, BPP: 0.0361/0.0361
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 93.0813
+Test epoch 9/10, Time: 93.0813, Loss: 0.073626/0.073626, PSNR: 36.6624/36.6624, BPP: 0.0361/0.0361
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 105.9787
+Test epoch 10/10, Time: 105.9787, Loss: 0.073629/0.073626, PSNR: 36.6622/36.6624, BPP: 0.0361/0.0361
+Training sequence 25: videoSRC21...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.030469/0.030469, PSNR: 41.7029/41.7029, BPP: 0.0175/0.0175
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 51.2491
+Test epoch 1/10, Time: 51.2491, Loss: 0.029432/0.029432, PSNR: 41.6556/41.6556, BPP: 0.0163/0.0163
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 74.0136
+Test epoch 2/10, Time: 74.0136, Loss: 0.028727/0.028727, PSNR: 41.6981/41.6981, BPP: 0.0157/0.0157
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 50.6369
+Test epoch 3/10, Time: 50.6369, Loss: 0.028877/0.028727, PSNR: 41.6608/41.6981, BPP: 0.0157/0.0157
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 50.3409
+Test epoch 4/10, Time: 50.3409, Loss: 0.029232/0.028727, PSNR: 41.6858/41.6981, BPP: 0.0161/0.0157
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 50.7174
+Test epoch 5/10, Time: 50.7174, Loss: 0.029057/0.028727, PSNR: 41.6756/41.6981, BPP: 0.0159/0.0157
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 50.9754
+Test epoch 6/10, Time: 50.9754, Loss: 0.029205/0.028727, PSNR: 41.6829/41.6981, BPP: 0.0161/0.0157
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 50.5195
+Test epoch 7/10, Time: 50.5195, Loss: 0.029015/0.028727, PSNR: 41.6846/41.6981, BPP: 0.0159/0.0157
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 54.5240
+Test epoch 8/10, Time: 54.5240, Loss: 0.029224/0.028727, PSNR: 41.6750/41.6981, BPP: 0.0161/0.0157
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 51.3019
+Test epoch 9/10, Time: 51.3019, Loss: 0.029306/0.028727, PSNR: 41.6739/41.6981, BPP: 0.0162/0.0157
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 51.5131
+Test epoch 10/10, Time: 51.5131, Loss: 0.029256/0.028727, PSNR: 41.6781/41.6981, BPP: 0.0161/0.0157
+Training sequence 26: videoSRC24...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.048523/0.048523, PSNR: 39.0365/39.0365, BPP: 0.0269/0.0269
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 50.9611
+Test epoch 1/10, Time: 50.9611, Loss: 0.044228/0.044228, PSNR: 38.9623/38.9623, BPP: 0.0222/0.0222
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 51.0490
+Test epoch 2/10, Time: 51.0490, Loss: 0.044008/0.044008, PSNR: 38.9441/38.9441, BPP: 0.0219/0.0219
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 51.6862
+Test epoch 3/10, Time: 51.6862, Loss: 0.043605/0.043605, PSNR: 38.9743/38.9743, BPP: 0.0217/0.0217
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 52.1705
+Test epoch 4/10, Time: 52.1705, Loss: 0.043326/0.043326, PSNR: 38.9745/38.9745, BPP: 0.0214/0.0214
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 51.8342
+Test epoch 5/10, Time: 51.8342, Loss: 0.043264/0.043264, PSNR: 38.9816/38.9816, BPP: 0.0213/0.0213
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 51.8856
+Test epoch 6/10, Time: 51.8856, Loss: 0.043318/0.043264, PSNR: 38.9818/38.9816, BPP: 0.0214/0.0213
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 52.1238
+Test epoch 7/10, Time: 52.1238, Loss: 0.043311/0.043264, PSNR: 38.9831/38.9816, BPP: 0.0214/0.0213
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 51.2331
+Test epoch 8/10, Time: 51.2331, Loss: 0.043149/0.043149, PSNR: 38.9881/38.9881, BPP: 0.0213/0.0213
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.6705
+Test epoch 9/10, Time: 42.6705, Loss: 0.043145/0.043145, PSNR: 38.9901/38.9901, BPP: 0.0213/0.0213
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8429
+Test epoch 10/10, Time: 41.8429, Loss: 0.043305/0.043145, PSNR: 38.9898/38.9901, BPP: 0.0214/0.0213
+Training sequence 27: videoSRC11...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.051020/0.051020, PSNR: 38.8812/38.8812, BPP: 0.0282/0.0282
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 52.0575
+Test epoch 1/10, Time: 52.0575, Loss: 0.050189/0.050189, PSNR: 38.7534/38.7534, BPP: 0.0268/0.0268
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 43.8092
+Test epoch 2/10, Time: 43.8092, Loss: 0.050116/0.050116, PSNR: 38.7271/38.7271, BPP: 0.0265/0.0265
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0808
+Test epoch 3/10, Time: 42.0808, Loss: 0.049700/0.049700, PSNR: 38.7574/38.7574, BPP: 0.0263/0.0263
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7067
+Test epoch 4/10, Time: 41.7067, Loss: 0.049686/0.049686, PSNR: 38.7600/38.7600, BPP: 0.0263/0.0263
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 47.4039
+Test epoch 5/10, Time: 47.4039, Loss: 0.049698/0.049686, PSNR: 38.7608/38.7600, BPP: 0.0263/0.0263
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9812
+Test epoch 6/10, Time: 41.9812, Loss: 0.049643/0.049643, PSNR: 38.7586/38.7586, BPP: 0.0262/0.0262
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8200
+Test epoch 7/10, Time: 41.8200, Loss: 0.049729/0.049643, PSNR: 38.7549/38.7586, BPP: 0.0263/0.0262
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 47.8658
+Test epoch 8/10, Time: 47.8658, Loss: 0.049585/0.049585, PSNR: 38.7633/38.7633, BPP: 0.0262/0.0262
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 49.6861
+Test epoch 9/10, Time: 49.6861, Loss: 0.049610/0.049585, PSNR: 38.7574/38.7633, BPP: 0.0262/0.0262
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 50.4999
+Test epoch 10/10, Time: 50.4999, Loss: 0.049621/0.049585, PSNR: 38.7590/38.7633, BPP: 0.0262/0.0262
+Training sequence 28: videoSRC29...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.021227/0.021227, PSNR: 44.1847/44.1847, BPP: 0.0143/0.0143
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 51.3420
+Test epoch 1/10, Time: 51.3420, Loss: 0.011712/0.011712, PSNR: 44.0893/44.0893, BPP: 0.0045/0.0045
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 50.2898
+Test epoch 2/10, Time: 50.2898, Loss: 0.011948/0.011712, PSNR: 43.9982/44.0893, BPP: 0.0046/0.0045
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 50.5925
+Test epoch 3/10, Time: 50.5925, Loss: 0.010871/0.010871, PSNR: 44.0804/44.0804, BPP: 0.0036/0.0036
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 67.9859
+Test epoch 4/10, Time: 67.9859, Loss: 0.011602/0.010871, PSNR: 44.0173/44.0804, BPP: 0.0043/0.0036
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 74.4762
+Test epoch 5/10, Time: 74.4762, Loss: 0.011051/0.010871, PSNR: 44.0297/44.0804, BPP: 0.0037/0.0036
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 74.8844
+Test epoch 6/10, Time: 74.8844, Loss: 0.011631/0.010871, PSNR: 43.9677/44.0804, BPP: 0.0042/0.0036
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 50.7249
+Test epoch 7/10, Time: 50.7249, Loss: 0.011688/0.010871, PSNR: 43.9328/44.0804, BPP: 0.0042/0.0036
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6755
+Test epoch 8/10, Time: 41.6755, Loss: 0.011781/0.010871, PSNR: 43.9342/44.0804, BPP: 0.0043/0.0036
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6560
+Test epoch 9/10, Time: 41.6560, Loss: 0.011776/0.010871, PSNR: 43.9380/44.0804, BPP: 0.0043/0.0036
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7610
+Test epoch 10/10, Time: 41.7610, Loss: 0.011686/0.010871, PSNR: 43.9379/44.0804, BPP: 0.0042/0.0036
+Training sequence 29: videoSRC30...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.028465/0.028465, PSNR: 39.0858/39.0858, BPP: 0.0074/0.0074
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9308
+Test epoch 1/10, Time: 41.9308, Loss: 0.028354/0.028354, PSNR: 39.0058/39.0058, BPP: 0.0069/0.0069
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7533
+Test epoch 2/10, Time: 41.7533, Loss: 0.028429/0.028354, PSNR: 38.9661/39.0058, BPP: 0.0068/0.0069
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8507
+Test epoch 3/10, Time: 41.8507, Loss: 0.027906/0.027906, PSNR: 38.9930/38.9930, BPP: 0.0064/0.0064
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7839
+Test epoch 4/10, Time: 41.7839, Loss: 0.028199/0.027906, PSNR: 38.9801/38.9930, BPP: 0.0066/0.0064
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 47.5267
+Test epoch 5/10, Time: 47.5267, Loss: 0.027869/0.027869, PSNR: 38.9928/38.9928, BPP: 0.0063/0.0063
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 50.2638
+Test epoch 6/10, Time: 50.2638, Loss: 0.028343/0.027869, PSNR: 38.9647/38.9928, BPP: 0.0067/0.0063
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 50.3972
+Test epoch 7/10, Time: 50.3972, Loss: 0.028377/0.027869, PSNR: 38.9754/38.9928, BPP: 0.0067/0.0063
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 75.6971
+Test epoch 8/10, Time: 75.6971, Loss: 0.028311/0.027869, PSNR: 38.9765/38.9928, BPP: 0.0067/0.0063
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 75.1571
+Test epoch 9/10, Time: 75.1571, Loss: 0.028414/0.027869, PSNR: 38.9709/38.9928, BPP: 0.0068/0.0063
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 77.6246
+Test epoch 10/10, Time: 77.6246, Loss: 0.028368/0.027869, PSNR: 38.9746/38.9928, BPP: 0.0067/0.0063
+Training sequence 30: videoSRC04...
+Refresh:  checkpoints/cp_video_model_dcn_170_IPPPPPP_best.pth.tar
+Original Loss: 0.277645/0.277645, PSNR: 32.4056/32.4056, BPP: 0.1042/0.1042
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.6597
+Test epoch 1/10, Time: 41.6597, Loss: 0.274319/0.274319, PSNR: 32.3083/32.3083, BPP: 0.1008/0.1008
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7657
+Test epoch 2/10, Time: 41.7657, Loss: 0.275490/0.274319, PSNR: 32.3876/32.3083, BPP: 0.1036/0.1008
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8687
+Test epoch 3/10, Time: 41.8687, Loss: 0.272943/0.272943, PSNR: 32.4269/32.4269, BPP: 0.1029/0.1029
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7348
+Test epoch 4/10, Time: 41.7348, Loss: 0.272807/0.272807, PSNR: 32.4281/32.4281, BPP: 0.1027/0.1027
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6177
+Test epoch 5/10, Time: 41.6177, Loss: 0.272106/0.272106, PSNR: 32.4365/32.4365, BPP: 0.1021/0.1021
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7713
+Test epoch 6/10, Time: 41.7713, Loss: 0.272237/0.272106, PSNR: 32.4338/32.4365, BPP: 0.1024/0.1021
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7573
+Test epoch 7/10, Time: 41.7573, Loss: 0.272085/0.272085, PSNR: 32.4334/32.4334, BPP: 0.1024/0.1024
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8268
+Test epoch 8/10, Time: 41.8268, Loss: 0.271991/0.271991, PSNR: 32.4407/32.4407, BPP: 0.1024/0.1024
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6938
+Test epoch 9/10, Time: 41.6938, Loss: 0.271958/0.271958, PSNR: 32.4362/32.4362, BPP: 0.1024/0.1024
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6446
+Test epoch 10/10, Time: 41.6446, Loss: 0.271926/0.271926, PSNR: 32.4386/32.4386, BPP: 0.1024/0.1024
+OEU result:	Loss: 0.078865 |	PSNR: 36.9876 |	Bpp loss: 0.0323 |
+OEU time: 22442.51s
+
+Testing dataset contain 30 folders, 96 frames / folder
+Testing dataset contain 30 folders, 96 frames / folder
+Loading:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+original loss: 1.0000
+Training sequence 1: videoSRC16...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.043623/0.043623, PSNR: 41.4320/41.4320, BPP: 0.0161/0.0161
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.2723
+Test epoch 1/10, Time: 42.2723, Loss: 0.044219/0.043623, PSNR: 41.3462/41.4320, BPP: 0.0162/0.0161
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9736
+Test epoch 2/10, Time: 41.9736, Loss: 0.043436/0.043436, PSNR: 41.3221/41.3221, BPP: 0.0152/0.0152
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9067
+Test epoch 3/10, Time: 41.9067, Loss: 0.042722/0.042722, PSNR: 41.3285/41.3285, BPP: 0.0146/0.0146
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8210
+Test epoch 4/10, Time: 41.8210, Loss: 0.042677/0.042677, PSNR: 41.3295/41.3295, BPP: 0.0145/0.0145
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 43.7954
+Test epoch 5/10, Time: 43.7954, Loss: 0.042651/0.042651, PSNR: 41.3332/41.3332, BPP: 0.0145/0.0145
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8606
+Test epoch 6/10, Time: 41.8606, Loss: 0.042505/0.042505, PSNR: 41.3315/41.3315, BPP: 0.0144/0.0144
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8213
+Test epoch 7/10, Time: 41.8213, Loss: 0.042433/0.042433, PSNR: 41.3297/41.3297, BPP: 0.0143/0.0143
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.9979
+Test epoch 8/10, Time: 42.9979, Loss: 0.042564/0.042433, PSNR: 41.3356/41.3297, BPP: 0.0144/0.0143
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 44.1874
+Test epoch 9/10, Time: 44.1874, Loss: 0.042521/0.042433, PSNR: 41.3345/41.3297, BPP: 0.0144/0.0143
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7818
+Test epoch 10/10, Time: 41.7818, Loss: 0.042551/0.042433, PSNR: 41.3355/41.3297, BPP: 0.0144/0.0143
+Training sequence 2: videoSRC23...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.072722/0.072722, PSNR: 40.2951/40.2951, BPP: 0.0367/0.0367
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7243
+Test epoch 1/10, Time: 41.7243, Loss: 0.071301/0.071301, PSNR: 40.1061/40.1061, BPP: 0.0337/0.0337
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6917
+Test epoch 2/10, Time: 41.6917, Loss: 0.070854/0.070854, PSNR: 40.1395/40.1395, BPP: 0.0335/0.0335
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8524
+Test epoch 3/10, Time: 41.8524, Loss: 0.070697/0.070697, PSNR: 40.1436/40.1436, BPP: 0.0334/0.0334
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9044
+Test epoch 4/10, Time: 41.9044, Loss: 0.070611/0.070611, PSNR: 40.1512/40.1512, BPP: 0.0334/0.0334
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9727
+Test epoch 5/10, Time: 41.9727, Loss: 0.070704/0.070611, PSNR: 40.1389/40.1512, BPP: 0.0334/0.0334
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7286
+Test epoch 6/10, Time: 41.7286, Loss: 0.070507/0.070507, PSNR: 40.1334/40.1334, BPP: 0.0331/0.0331
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8460
+Test epoch 7/10, Time: 41.8460, Loss: 0.070479/0.070479, PSNR: 40.1352/40.1352, BPP: 0.0331/0.0331
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7589
+Test epoch 8/10, Time: 41.7589, Loss: 0.070513/0.070479, PSNR: 40.1313/40.1352, BPP: 0.0331/0.0331
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7593
+Test epoch 9/10, Time: 41.7593, Loss: 0.070466/0.070466, PSNR: 40.1305/40.1305, BPP: 0.0331/0.0331
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7500
+Test epoch 10/10, Time: 41.7500, Loss: 0.070475/0.070466, PSNR: 40.1310/40.1305, BPP: 0.0331/0.0331
+Training sequence 3: videoSRC10...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.205173/0.205173, PSNR: 36.0240/36.0240, BPP: 0.1083/0.1083
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8330
+Test epoch 1/10, Time: 41.8330, Loss: 0.200796/0.200796, PSNR: 35.9526/35.9526, BPP: 0.1022/0.1022
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7776
+Test epoch 2/10, Time: 41.7776, Loss: 0.198441/0.198441, PSNR: 35.9414/35.9414, BPP: 0.0996/0.0996
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9182
+Test epoch 3/10, Time: 41.9182, Loss: 0.196256/0.196256, PSNR: 35.9723/35.9723, BPP: 0.0981/0.0981
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0007
+Test epoch 4/10, Time: 42.0007, Loss: 0.196139/0.196139, PSNR: 36.0000/36.0000, BPP: 0.0987/0.0987
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6088
+Test epoch 5/10, Time: 41.6088, Loss: 0.194206/0.194206, PSNR: 36.0002/36.0002, BPP: 0.0967/0.0967
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8054
+Test epoch 6/10, Time: 41.8054, Loss: 0.194323/0.194206, PSNR: 36.0240/36.0002, BPP: 0.0973/0.0967
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8357
+Test epoch 7/10, Time: 41.8357, Loss: 0.193679/0.193679, PSNR: 36.0276/36.0276, BPP: 0.0968/0.0968
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7586
+Test epoch 8/10, Time: 41.7586, Loss: 0.193653/0.193653, PSNR: 36.0265/36.0265, BPP: 0.0967/0.0967
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.5742
+Test epoch 9/10, Time: 41.5742, Loss: 0.193527/0.193527, PSNR: 36.0267/36.0267, BPP: 0.0966/0.0966
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7246
+Test epoch 10/10, Time: 41.7246, Loss: 0.193555/0.193527, PSNR: 36.0260/36.0267, BPP: 0.0966/0.0966
+Training sequence 4: videoSRC22...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.149232/0.149232, PSNR: 38.1183/38.1183, BPP: 0.0878/0.0878
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8862
+Test epoch 1/10, Time: 41.8862, Loss: 0.145967/0.145967, PSNR: 38.1341/38.1341, BPP: 0.0846/0.0846
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7477
+Test epoch 2/10, Time: 41.7477, Loss: 0.145796/0.145796, PSNR: 38.1717/38.1717, BPP: 0.0849/0.0849
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8779
+Test epoch 3/10, Time: 41.8779, Loss: 0.145176/0.145176, PSNR: 38.1601/38.1601, BPP: 0.0842/0.0842
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8081
+Test epoch 4/10, Time: 41.8081, Loss: 0.145150/0.145150, PSNR: 38.1638/38.1638, BPP: 0.0842/0.0842
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8535
+Test epoch 5/10, Time: 41.8535, Loss: 0.144874/0.144874, PSNR: 38.1854/38.1854, BPP: 0.0842/0.0842
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7451
+Test epoch 6/10, Time: 41.7451, Loss: 0.144847/0.144847, PSNR: 38.1920/38.1920, BPP: 0.0843/0.0843
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8023
+Test epoch 7/10, Time: 41.8023, Loss: 0.144731/0.144731, PSNR: 38.1926/38.1926, BPP: 0.0842/0.0842
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8358
+Test epoch 8/10, Time: 41.8358, Loss: 0.144733/0.144731, PSNR: 38.1954/38.1926, BPP: 0.0842/0.0842
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9013
+Test epoch 9/10, Time: 41.9013, Loss: 0.144753/0.144731, PSNR: 38.2014/38.1926, BPP: 0.0843/0.0842
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8279
+Test epoch 10/10, Time: 41.8279, Loss: 0.144785/0.144731, PSNR: 38.1970/38.1926, BPP: 0.0843/0.0842
+Training sequence 5: videoSRC14...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.114746/0.114746, PSNR: 38.4214/38.4214, BPP: 0.0595/0.0595
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8439
+Test epoch 1/10, Time: 41.8439, Loss: 0.112322/0.112322, PSNR: 38.3142/38.3142, BPP: 0.0557/0.0557
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8143
+Test epoch 2/10, Time: 41.8143, Loss: 0.111847/0.111847, PSNR: 38.2768/38.2768, BPP: 0.0547/0.0547
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8911
+Test epoch 3/10, Time: 41.8911, Loss: 0.111511/0.111511, PSNR: 38.2741/38.2741, BPP: 0.0544/0.0544
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9057
+Test epoch 4/10, Time: 41.9057, Loss: 0.111495/0.111495, PSNR: 38.2709/38.2709, BPP: 0.0543/0.0543
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8523
+Test epoch 5/10, Time: 41.8523, Loss: 0.111440/0.111440, PSNR: 38.2697/38.2697, BPP: 0.0542/0.0542
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6909
+Test epoch 6/10, Time: 41.6909, Loss: 0.111378/0.111378, PSNR: 38.2737/38.2737, BPP: 0.0542/0.0542
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7265
+Test epoch 7/10, Time: 41.7265, Loss: 0.111320/0.111320, PSNR: 38.2734/38.2734, BPP: 0.0542/0.0542
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9029
+Test epoch 8/10, Time: 41.9029, Loss: 0.111325/0.111320, PSNR: 38.2720/38.2734, BPP: 0.0542/0.0542
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0053
+Test epoch 9/10, Time: 42.0053, Loss: 0.111239/0.111239, PSNR: 38.2721/38.2721, BPP: 0.0541/0.0541
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9418
+Test epoch 10/10, Time: 41.9418, Loss: 0.111287/0.111239, PSNR: 38.2710/38.2721, BPP: 0.0541/0.0541
+Training sequence 6: videoSRC20...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.126997/0.126997, PSNR: 38.3280/38.3280, BPP: 0.0662/0.0662
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9191
+Test epoch 1/10, Time: 41.9191, Loss: 0.124032/0.124032, PSNR: 38.4544/38.4544, BPP: 0.0652/0.0652
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7585
+Test epoch 2/10, Time: 41.7585, Loss: 0.123084/0.123084, PSNR: 38.4852/38.4852, BPP: 0.0647/0.0647
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9629
+Test epoch 3/10, Time: 41.9629, Loss: 0.122151/0.122151, PSNR: 38.5358/38.5358, BPP: 0.0646/0.0646
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7891
+Test epoch 4/10, Time: 41.7891, Loss: 0.122394/0.122151, PSNR: 38.5265/38.5358, BPP: 0.0646/0.0646
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8464
+Test epoch 5/10, Time: 41.8464, Loss: 0.122125/0.122125, PSNR: 38.5434/38.5434, BPP: 0.0647/0.0647
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6281
+Test epoch 6/10, Time: 41.6281, Loss: 0.121986/0.121986, PSNR: 38.5462/38.5462, BPP: 0.0646/0.0646
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7349
+Test epoch 7/10, Time: 41.7349, Loss: 0.122000/0.121986, PSNR: 38.5567/38.5462, BPP: 0.0647/0.0646
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7179
+Test epoch 8/10, Time: 41.7179, Loss: 0.121976/0.121976, PSNR: 38.5501/38.5501, BPP: 0.0646/0.0646
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8636
+Test epoch 9/10, Time: 41.8636, Loss: 0.121946/0.121946, PSNR: 38.5524/38.5524, BPP: 0.0646/0.0646
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8588
+Test epoch 10/10, Time: 41.8588, Loss: 0.121929/0.121929, PSNR: 38.5548/38.5548, BPP: 0.0646/0.0646
+Training sequence 7: videoSRC18...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.149931/0.149931, PSNR: 36.2570/36.2570, BPP: 0.0499/0.0499
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9114
+Test epoch 1/10, Time: 41.9114, Loss: 0.148256/0.148256, PSNR: 36.3241/36.3241, BPP: 0.0495/0.0495
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8605
+Test epoch 2/10, Time: 41.8605, Loss: 0.147427/0.147427, PSNR: 36.3108/36.3108, BPP: 0.0482/0.0482
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7712
+Test epoch 3/10, Time: 41.7712, Loss: 0.147030/0.147030, PSNR: 36.3121/36.3121, BPP: 0.0476/0.0476
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7595
+Test epoch 4/10, Time: 41.7595, Loss: 0.146605/0.146605, PSNR: 36.3355/36.3355, BPP: 0.0475/0.0475
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7844
+Test epoch 5/10, Time: 41.7844, Loss: 0.146670/0.146605, PSNR: 36.3229/36.3355, BPP: 0.0472/0.0475
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6730
+Test epoch 6/10, Time: 41.6730, Loss: 0.146364/0.146364, PSNR: 36.3245/36.3245, BPP: 0.0469/0.0469
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.5089
+Test epoch 7/10, Time: 41.5089, Loss: 0.146328/0.146328, PSNR: 36.3293/36.3293, BPP: 0.0471/0.0471
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6798
+Test epoch 8/10, Time: 41.6798, Loss: 0.146544/0.146328, PSNR: 36.3216/36.3293, BPP: 0.0471/0.0471
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7196
+Test epoch 9/10, Time: 41.7196, Loss: 0.146574/0.146328, PSNR: 36.3171/36.3293, BPP: 0.0470/0.0471
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6384
+Test epoch 10/10, Time: 41.6384, Loss: 0.146300/0.146300, PSNR: 36.3302/36.3302, BPP: 0.0470/0.0470
+Training sequence 8: videoSRC25...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.405377/0.405377, PSNR: 32.2800/32.2800, BPP: 0.1678/0.1678
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9791
+Test epoch 1/10, Time: 41.9791, Loss: 0.401550/0.401550, PSNR: 32.2674/32.2674, BPP: 0.1635/0.1635
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8939
+Test epoch 2/10, Time: 41.8939, Loss: 0.400469/0.400469, PSNR: 32.2982/32.2982, BPP: 0.1640/0.1640
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9528
+Test epoch 3/10, Time: 41.9528, Loss: 0.399620/0.399620, PSNR: 32.3084/32.3084, BPP: 0.1638/0.1638
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8398
+Test epoch 4/10, Time: 41.8398, Loss: 0.399415/0.399415, PSNR: 32.3188/32.3188, BPP: 0.1642/0.1642
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8924
+Test epoch 5/10, Time: 41.8924, Loss: 0.399371/0.399371, PSNR: 32.3249/32.3249, BPP: 0.1644/0.1644
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8467
+Test epoch 6/10, Time: 41.8467, Loss: 0.399148/0.399148, PSNR: 32.3273/32.3273, BPP: 0.1643/0.1643
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8719
+Test epoch 7/10, Time: 41.8719, Loss: 0.398948/0.398948, PSNR: 32.3277/32.3277, BPP: 0.1641/0.1641
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9077
+Test epoch 8/10, Time: 41.9077, Loss: 0.399049/0.398948, PSNR: 32.3279/32.3277, BPP: 0.1642/0.1641
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8681
+Test epoch 9/10, Time: 41.8681, Loss: 0.398925/0.398925, PSNR: 32.3288/32.3288, BPP: 0.1642/0.1642
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7802
+Test epoch 10/10, Time: 41.7802, Loss: 0.398821/0.398821, PSNR: 32.3311/32.3311, BPP: 0.1642/0.1642
+Training sequence 9: videoSRC02...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.052759/0.052759, PSNR: 42.6164/42.6164, BPP: 0.0309/0.0309
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7408
+Test epoch 1/10, Time: 41.7408, Loss: 0.051823/0.051823, PSNR: 42.5955/42.5955, BPP: 0.0299/0.0299
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6295
+Test epoch 2/10, Time: 41.6295, Loss: 0.051049/0.051049, PSNR: 42.5153/42.5153, BPP: 0.0287/0.0287
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7018
+Test epoch 3/10, Time: 41.7018, Loss: 0.050872/0.050872, PSNR: 42.5273/42.5273, BPP: 0.0286/0.0286
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7943
+Test epoch 4/10, Time: 41.7943, Loss: 0.050731/0.050731, PSNR: 42.5416/42.5416, BPP: 0.0285/0.0285
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7799
+Test epoch 5/10, Time: 41.7799, Loss: 0.050618/0.050618, PSNR: 42.5183/42.5183, BPP: 0.0283/0.0283
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9145
+Test epoch 6/10, Time: 41.9145, Loss: 0.050607/0.050607, PSNR: 42.5195/42.5195, BPP: 0.0283/0.0283
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9118
+Test epoch 7/10, Time: 41.9118, Loss: 0.050558/0.050558, PSNR: 42.5317/42.5317, BPP: 0.0283/0.0283
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8586
+Test epoch 8/10, Time: 41.8586, Loss: 0.050553/0.050553, PSNR: 42.5376/42.5376, BPP: 0.0283/0.0283
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9610
+Test epoch 9/10, Time: 41.9610, Loss: 0.050569/0.050553, PSNR: 42.5291/42.5376, BPP: 0.0283/0.0283
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 47.4093
+Test epoch 10/10, Time: 47.4093, Loss: 0.050588/0.050553, PSNR: 42.5249/42.5376, BPP: 0.0283/0.0283
+Training sequence 10: videoSRC09...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.274927/0.274927, PSNR: 33.9652/33.9652, BPP: 0.1198/0.1198
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 43.9778
+Test epoch 1/10, Time: 43.9778, Loss: 0.271431/0.271431, PSNR: 33.9535/33.9535, BPP: 0.1160/0.1160
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9243
+Test epoch 2/10, Time: 41.9243, Loss: 0.271551/0.271431, PSNR: 33.9780/33.9535, BPP: 0.1170/0.1160
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9648
+Test epoch 3/10, Time: 41.9648, Loss: 0.271011/0.271011, PSNR: 33.9804/33.9804, BPP: 0.1166/0.1166
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8353
+Test epoch 4/10, Time: 41.8353, Loss: 0.270762/0.270762, PSNR: 33.9757/33.9757, BPP: 0.1162/0.1162
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8248
+Test epoch 5/10, Time: 41.8248, Loss: 0.270866/0.270762, PSNR: 33.9865/33.9757, BPP: 0.1167/0.1162
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9274
+Test epoch 6/10, Time: 41.9274, Loss: 0.270778/0.270762, PSNR: 33.9881/33.9757, BPP: 0.1167/0.1162
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9080
+Test epoch 7/10, Time: 41.9080, Loss: 0.270900/0.270762, PSNR: 33.9881/33.9757, BPP: 0.1168/0.1162
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9405
+Test epoch 8/10, Time: 41.9405, Loss: 0.270924/0.270762, PSNR: 33.9920/33.9757, BPP: 0.1169/0.1162
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 43.8600
+Test epoch 9/10, Time: 43.8600, Loss: 0.270880/0.270762, PSNR: 33.9891/33.9757, BPP: 0.1168/0.1162
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9301
+Test epoch 10/10, Time: 41.9301, Loss: 0.270803/0.270762, PSNR: 33.9900/33.9757, BPP: 0.1168/0.1162
+Training sequence 11: videoSRC27...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.124727/0.124727, PSNR: 37.9214/37.9214, BPP: 0.0602/0.0602
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.2063
+Test epoch 1/10, Time: 42.2063, Loss: 0.123632/0.123632, PSNR: 37.8620/37.8620, BPP: 0.0583/0.0583
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8952
+Test epoch 2/10, Time: 41.8952, Loss: 0.123331/0.123331, PSNR: 37.9382/37.9382, BPP: 0.0592/0.0592
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0164
+Test epoch 3/10, Time: 42.0164, Loss: 0.122865/0.122865, PSNR: 37.9225/37.9225, BPP: 0.0585/0.0585
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8495
+Test epoch 4/10, Time: 41.8495, Loss: 0.122783/0.122783, PSNR: 37.9089/37.9089, BPP: 0.0582/0.0582
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8561
+Test epoch 5/10, Time: 41.8561, Loss: 0.122639/0.122639, PSNR: 37.9122/37.9122, BPP: 0.0581/0.0581
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9693
+Test epoch 6/10, Time: 41.9693, Loss: 0.122572/0.122572, PSNR: 37.9186/37.9186, BPP: 0.0582/0.0582
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8404
+Test epoch 7/10, Time: 41.8404, Loss: 0.122584/0.122572, PSNR: 37.9304/37.9186, BPP: 0.0584/0.0582
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9359
+Test epoch 8/10, Time: 41.9359, Loss: 0.122598/0.122572, PSNR: 37.9198/37.9186, BPP: 0.0582/0.0582
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0031
+Test epoch 9/10, Time: 42.0031, Loss: 0.122599/0.122572, PSNR: 37.9213/37.9186, BPP: 0.0582/0.0582
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0307
+Test epoch 10/10, Time: 42.0307, Loss: 0.122540/0.122540, PSNR: 37.9216/37.9216, BPP: 0.0582/0.0582
+Training sequence 12: videoSRC05...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.166279/0.166279, PSNR: 35.9500/35.9500, BPP: 0.0681/0.0681
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7447
+Test epoch 1/10, Time: 41.7447, Loss: 0.165073/0.165073, PSNR: 35.9183/35.9183, BPP: 0.0662/0.0662
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9542
+Test epoch 2/10, Time: 41.9542, Loss: 0.164774/0.164774, PSNR: 35.9254/35.9254, BPP: 0.0660/0.0660
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9355
+Test epoch 3/10, Time: 41.9355, Loss: 0.164061/0.164061, PSNR: 35.9329/35.9329, BPP: 0.0655/0.0655
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9375
+Test epoch 4/10, Time: 41.9375, Loss: 0.163658/0.163658, PSNR: 35.9473/35.9473, BPP: 0.0654/0.0654
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7598
+Test epoch 5/10, Time: 41.7598, Loss: 0.163432/0.163432, PSNR: 35.9541/35.9541, BPP: 0.0653/0.0653
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8719
+Test epoch 6/10, Time: 41.8719, Loss: 0.163233/0.163233, PSNR: 35.9583/35.9583, BPP: 0.0652/0.0652
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8973
+Test epoch 7/10, Time: 41.8973, Loss: 0.163283/0.163233, PSNR: 35.9610/35.9583, BPP: 0.0653/0.0652
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8154
+Test epoch 8/10, Time: 41.8154, Loss: 0.163264/0.163233, PSNR: 35.9635/35.9583, BPP: 0.0654/0.0652
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9212
+Test epoch 9/10, Time: 41.9212, Loss: 0.163251/0.163233, PSNR: 35.9639/35.9583, BPP: 0.0654/0.0652
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9484
+Test epoch 10/10, Time: 41.9484, Loss: 0.163223/0.163223, PSNR: 35.9637/35.9637, BPP: 0.0653/0.0653
+Training sequence 13: videoSRC07...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.146659/0.146659, PSNR: 35.7624/35.7624, BPP: 0.0454/0.0454
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7164
+Test epoch 1/10, Time: 41.7164, Loss: 0.146049/0.146049, PSNR: 35.7582/35.7582, BPP: 0.0447/0.0447
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8671
+Test epoch 2/10, Time: 41.8671, Loss: 0.145809/0.145809, PSNR: 35.7343/35.7343, BPP: 0.0439/0.0439
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8828
+Test epoch 3/10, Time: 41.8828, Loss: 0.145205/0.145205, PSNR: 35.7416/35.7416, BPP: 0.0434/0.0434
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8897
+Test epoch 4/10, Time: 41.8897, Loss: 0.145021/0.145021, PSNR: 35.7378/35.7378, BPP: 0.0432/0.0432
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8985
+Test epoch 5/10, Time: 41.8985, Loss: 0.145067/0.145021, PSNR: 35.7517/35.7378, BPP: 0.0435/0.0432
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8259
+Test epoch 6/10, Time: 41.8259, Loss: 0.145048/0.145021, PSNR: 35.7516/35.7378, BPP: 0.0435/0.0432
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9997
+Test epoch 7/10, Time: 41.9997, Loss: 0.145031/0.145021, PSNR: 35.7518/35.7378, BPP: 0.0435/0.0432
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8087
+Test epoch 8/10, Time: 41.8087, Loss: 0.144972/0.144972, PSNR: 35.7524/35.7524, BPP: 0.0435/0.0435
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9121
+Test epoch 9/10, Time: 41.9121, Loss: 0.144989/0.144972, PSNR: 35.7535/35.7524, BPP: 0.0435/0.0435
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9828
+Test epoch 10/10, Time: 41.9828, Loss: 0.145018/0.144972, PSNR: 35.7529/35.7524, BPP: 0.0435/0.0435
+Training sequence 14: videoSRC15...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.146222/0.146222, PSNR: 35.5087/35.5087, BPP: 0.0384/0.0384
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9359
+Test epoch 1/10, Time: 41.9359, Loss: 0.143337/0.143337, PSNR: 35.3963/35.3963, BPP: 0.0325/0.0325
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8773
+Test epoch 2/10, Time: 41.8773, Loss: 0.143271/0.143271, PSNR: 35.4550/35.4550, BPP: 0.0340/0.0340
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7395
+Test epoch 3/10, Time: 41.7395, Loss: 0.140404/0.140404, PSNR: 35.4318/35.4318, BPP: 0.0305/0.0305
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7135
+Test epoch 4/10, Time: 41.7135, Loss: 0.140810/0.140404, PSNR: 35.4296/35.4318, BPP: 0.0308/0.0305
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7853
+Test epoch 5/10, Time: 41.7853, Loss: 0.140546/0.140404, PSNR: 35.4660/35.4318, BPP: 0.0316/0.0305
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8215
+Test epoch 6/10, Time: 41.8215, Loss: 0.140491/0.140404, PSNR: 35.4473/35.4318, BPP: 0.0310/0.0305
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7841
+Test epoch 7/10, Time: 41.7841, Loss: 0.140424/0.140404, PSNR: 35.4525/35.4318, BPP: 0.0311/0.0305
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7876
+Test epoch 8/10, Time: 41.7876, Loss: 0.140331/0.140331, PSNR: 35.4577/35.4577, BPP: 0.0311/0.0311
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0366
+Test epoch 9/10, Time: 42.0366, Loss: 0.140458/0.140331, PSNR: 35.4590/35.4577, BPP: 0.0313/0.0311
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6214
+Test epoch 10/10, Time: 41.6214, Loss: 0.140435/0.140331, PSNR: 35.4632/35.4577, BPP: 0.0314/0.0311
+Training sequence 15: videoSRC08...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.071080/0.071080, PSNR: 38.5519/38.5519, BPP: 0.0178/0.0178
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9333
+Test epoch 1/10, Time: 41.9333, Loss: 0.071237/0.071080, PSNR: 38.4572/38.5519, BPP: 0.0167/0.0178
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8781
+Test epoch 2/10, Time: 41.8781, Loss: 0.070932/0.070932, PSNR: 38.4488/38.4488, BPP: 0.0163/0.0163
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8497
+Test epoch 3/10, Time: 41.8497, Loss: 0.070725/0.070725, PSNR: 38.4573/38.4573, BPP: 0.0162/0.0162
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8765
+Test epoch 4/10, Time: 41.8765, Loss: 0.070404/0.070404, PSNR: 38.4693/38.4693, BPP: 0.0161/0.0161
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8283
+Test epoch 5/10, Time: 41.8283, Loss: 0.070345/0.070345, PSNR: 38.4779/38.4779, BPP: 0.0161/0.0161
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9230
+Test epoch 6/10, Time: 41.9230, Loss: 0.070313/0.070313, PSNR: 38.4792/38.4792, BPP: 0.0161/0.0161
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7664
+Test epoch 7/10, Time: 41.7664, Loss: 0.070313/0.070313, PSNR: 38.4766/38.4792, BPP: 0.0161/0.0161
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9458
+Test epoch 8/10, Time: 41.9458, Loss: 0.070282/0.070282, PSNR: 38.4790/38.4790, BPP: 0.0161/0.0161
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9665
+Test epoch 9/10, Time: 41.9665, Loss: 0.070275/0.070275, PSNR: 38.4781/38.4781, BPP: 0.0160/0.0160
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7415
+Test epoch 10/10, Time: 41.7415, Loss: 0.070289/0.070275, PSNR: 38.4777/38.4781, BPP: 0.0160/0.0160
+Training sequence 16: videoSRC01...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.049553/0.049553, PSNR: 40.2882/40.2882, BPP: 0.0139/0.0139
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9309
+Test epoch 1/10, Time: 41.9309, Loss: 0.046084/0.046084, PSNR: 40.1247/40.1247, BPP: 0.0091/0.0091
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7843
+Test epoch 2/10, Time: 41.7843, Loss: 0.046380/0.046084, PSNR: 40.1509/40.1247, BPP: 0.0096/0.0091
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8093
+Test epoch 3/10, Time: 41.8093, Loss: 0.045539/0.045539, PSNR: 40.1513/40.1513, BPP: 0.0087/0.0087
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8115
+Test epoch 4/10, Time: 41.8115, Loss: 0.045695/0.045539, PSNR: 40.1588/40.1513, BPP: 0.0090/0.0087
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8553
+Test epoch 5/10, Time: 41.8553, Loss: 0.045846/0.045539, PSNR: 40.1716/40.1513, BPP: 0.0092/0.0087
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6929
+Test epoch 6/10, Time: 41.6929, Loss: 0.045504/0.045504, PSNR: 40.1613/40.1613, BPP: 0.0088/0.0088
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7066
+Test epoch 7/10, Time: 41.7066, Loss: 0.045579/0.045504, PSNR: 40.1718/40.1613, BPP: 0.0090/0.0088
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8656
+Test epoch 8/10, Time: 41.8656, Loss: 0.045593/0.045504, PSNR: 40.1660/40.1613, BPP: 0.0089/0.0088
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7731
+Test epoch 9/10, Time: 41.7731, Loss: 0.045727/0.045504, PSNR: 40.1646/40.1613, BPP: 0.0090/0.0088
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8863
+Test epoch 10/10, Time: 41.8863, Loss: 0.045518/0.045504, PSNR: 40.1664/40.1613, BPP: 0.0089/0.0088
+Training sequence 17: videoSRC03...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.054636/0.054636, PSNR: 40.3025/40.3025, BPP: 0.0188/0.0188
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9277
+Test epoch 1/10, Time: 41.9277, Loss: 0.053694/0.053694, PSNR: 40.3004/40.3004, BPP: 0.0178/0.0178
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8690
+Test epoch 2/10, Time: 41.8690, Loss: 0.053832/0.053694, PSNR: 40.2314/40.3004, BPP: 0.0174/0.0178
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0214
+Test epoch 3/10, Time: 42.0214, Loss: 0.053607/0.053607, PSNR: 40.2729/40.2729, BPP: 0.0175/0.0175
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8697
+Test epoch 4/10, Time: 41.8697, Loss: 0.053533/0.053533, PSNR: 40.2608/40.2608, BPP: 0.0173/0.0173
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8674
+Test epoch 5/10, Time: 41.8674, Loss: 0.053438/0.053438, PSNR: 40.2822/40.2822, BPP: 0.0174/0.0174
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8700
+Test epoch 6/10, Time: 41.8700, Loss: 0.053110/0.053110, PSNR: 40.2877/40.2877, BPP: 0.0171/0.0171
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.1103
+Test epoch 7/10, Time: 42.1103, Loss: 0.052984/0.052984, PSNR: 40.2966/40.2966, BPP: 0.0170/0.0170
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6112
+Test epoch 8/10, Time: 41.6112, Loss: 0.053029/0.052984, PSNR: 40.2942/40.2966, BPP: 0.0171/0.0170
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8427
+Test epoch 9/10, Time: 41.8427, Loss: 0.053002/0.052984, PSNR: 40.2964/40.2966, BPP: 0.0171/0.0170
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8140
+Test epoch 10/10, Time: 41.8140, Loss: 0.053010/0.052984, PSNR: 40.2974/40.2966, BPP: 0.0171/0.0170
+Training sequence 18: videoSRC06...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.225700/0.225700, PSNR: 32.9054/32.9054, BPP: 0.0298/0.0298
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9148
+Test epoch 1/10, Time: 41.9148, Loss: 0.226181/0.225700, PSNR: 32.8996/32.9054, BPP: 0.0300/0.0298
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9725
+Test epoch 2/10, Time: 41.9725, Loss: 0.226835/0.225700, PSNR: 32.8932/32.9054, BPP: 0.0304/0.0298
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8751
+Test epoch 3/10, Time: 41.8751, Loss: 0.225636/0.225636, PSNR: 32.9201/32.9201, BPP: 0.0304/0.0304
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9372
+Test epoch 4/10, Time: 41.9372, Loss: 0.225611/0.225611, PSNR: 32.9198/32.9198, BPP: 0.0304/0.0304
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9361
+Test epoch 5/10, Time: 41.9361, Loss: 0.225610/0.225610, PSNR: 32.9207/32.9207, BPP: 0.0304/0.0304
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0100
+Test epoch 6/10, Time: 42.0100, Loss: 0.225397/0.225397, PSNR: 32.9215/32.9215, BPP: 0.0303/0.0303
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9244
+Testing dataset contain 30 folders, 96 frames / folder
+Testing dataset contain 30 folders, 96 frames / folder
+Loading:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+original loss: 1.0000
+Training sequence 1: videoSRC16...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.043623/0.043623, PSNR: 41.4320/41.4320, BPP: 0.0161/0.0161
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.2637
+Test epoch 1/10, Time: 42.2637, Loss: 0.043116/0.043116, PSNR: 41.3430/41.3430, BPP: 0.0151/0.0151
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.0252
+Test epoch 2/10, Time: 42.0252, Loss: 0.043057/0.043057, PSNR: 41.2939/41.2939, BPP: 0.0147/0.0147
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8753
+Test epoch 3/10, Time: 41.8753, Loss: 0.042731/0.042731, PSNR: 41.3174/41.3174, BPP: 0.0145/0.0145
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.1338
+Test epoch 4/10, Time: 42.1338, Loss: 0.042634/0.042634, PSNR: 41.3387/41.3387, BPP: 0.0145/0.0145
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9779
+Test epoch 5/10, Time: 41.9779, Loss: 0.042576/0.042576, PSNR: 41.3332/41.3332, BPP: 0.0144/0.0144
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.3480
+Test epoch 6/10, Time: 42.3480, Loss: 0.042486/0.042486, PSNR: 41.3333/41.3333, BPP: 0.0143/0.0143
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 51.0578
+Test epoch 7/10, Time: 51.0578, Loss: 0.042492/0.042486, PSNR: 41.3369/41.3333, BPP: 0.0144/0.0143
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8479
+Test epoch 8/10, Time: 41.8479, Loss: 0.042449/0.042449, PSNR: 41.3378/41.3378, BPP: 0.0143/0.0143
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7509
+Test epoch 9/10, Time: 41.7509, Loss: 0.042448/0.042448, PSNR: 41.3370/41.3370, BPP: 0.0143/0.0143
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8797
+Test epoch 10/10, Time: 41.8797, Loss: 0.042471/0.042448, PSNR: 41.3390/41.3370, BPP: 0.0144/0.0143
+Training sequence 2: videoSRC23...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.072722/0.072722, PSNR: 40.2951/40.2951, BPP: 0.0367/0.0367
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7269
+Test epoch 1/10, Time: 41.7269, Loss: 0.071440/0.071440, PSNR: 40.0987/40.0987, BPP: 0.0337/0.0337
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8614
+Test epoch 2/10, Time: 41.8614, Loss: 0.070750/0.070750, PSNR: 40.1547/40.1547, BPP: 0.0336/0.0336
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.6682
+Test epoch 3/10, Time: 41.6682, Loss: 0.070717/0.070717, PSNR: 40.1313/40.1313, BPP: 0.0333/0.0333
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.8343
+Test epoch 4/10, Time: 42.8343, Loss: 0.070579/0.070579, PSNR: 40.1454/40.1454, BPP: 0.0333/0.0333
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8045
+Test epoch 5/10, Time: 41.8045, Loss: 0.070694/0.070579, PSNR: 40.1343/40.1454, BPP: 0.0333/0.0333
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7138
+Test epoch 6/10, Time: 41.7138, Loss: 0.070827/0.070579, PSNR: 40.1238/40.1454, BPP: 0.0334/0.0333
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8673
+Test epoch 7/10, Time: 41.8673, Loss: 0.070734/0.070579, PSNR: 40.1237/40.1454, BPP: 0.0333/0.0333
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8391
+Test epoch 8/10, Time: 41.8391, Loss: 0.070636/0.070579, PSNR: 40.1240/40.1454, BPP: 0.0332/0.0333
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8288
+Test epoch 9/10, Time: 41.8288, Loss: 0.070561/0.070561, PSNR: 40.1268/40.1268, BPP: 0.0331/0.0331
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6696
+Test epoch 10/10, Time: 41.6696, Loss: 0.070580/0.070561, PSNR: 40.1276/40.1268, BPP: 0.0331/0.0331
+Training sequence 3: videoSRC10...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.205173/0.205173, PSNR: 36.0240/36.0240, BPP: 0.1083/0.1083
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8706
+Test epoch 1/10, Time: 41.8706, Loss: 0.199412/0.199412, PSNR: 35.9664/35.9664, BPP: 0.1011/0.1011
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7144
+Test epoch 2/10, Time: 41.7144, Loss: 0.198280/0.198280, PSNR: 35.9579/35.9579, BPP: 0.0998/0.0998
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8116
+Test epoch 3/10, Time: 41.8116, Loss: 0.197335/0.197335, PSNR: 35.9934/35.9934, BPP: 0.0997/0.0997
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8294
+Test epoch 4/10, Time: 41.8294, Loss: 0.195926/0.195926, PSNR: 35.9496/35.9496, BPP: 0.0973/0.0973
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8334
+Test epoch 5/10, Time: 41.8334, Loss: 0.194919/0.194919, PSNR: 36.0252/36.0252, BPP: 0.0980/0.0980
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7658
+Test epoch 6/10, Time: 41.7658, Loss: 0.194757/0.194757, PSNR: 35.9995/35.9995, BPP: 0.0972/0.0972
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6656
+Test epoch 7/10, Time: 41.6656, Loss: 0.193909/0.193909, PSNR: 36.0176/36.0176, BPP: 0.0968/0.0968
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7132
+Test epoch 8/10, Time: 41.7132, Loss: 0.193491/0.193491, PSNR: 36.0275/36.0275, BPP: 0.0966/0.0966
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6727
+Test epoch 9/10, Time: 41.6727, Loss: 0.193592/0.193491, PSNR: 36.0254/36.0275, BPP: 0.0967/0.0966
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.5672
+Test epoch 10/10, Time: 41.5672, Loss: 0.193564/0.193491, PSNR: 36.0268/36.0275, BPP: 0.0967/0.0966
+Training sequence 4: videoSRC22...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.149232/0.149232, PSNR: 38.1183/38.1183, BPP: 0.0878/0.0878
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7240
+Test epoch 1/10, Time: 41.7240, Loss: 0.145966/0.145966, PSNR: 38.1581/38.1581, BPP: 0.0849/0.0849
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6684
+Test epoch 2/10, Time: 41.6684, Loss: 0.145527/0.145527, PSNR: 38.1714/38.1714, BPP: 0.0847/0.0847
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 43.0988
+Test epoch 3/10, Time: 43.0988, Loss: 0.145236/0.145236, PSNR: 38.1530/38.1530, BPP: 0.0841/0.0841
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 87.5291
+Test epoch 4/10, Time: 87.5291, Loss: 0.145178/0.145178, PSNR: 38.1822/38.1822, BPP: 0.0845/0.0845
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 66.1117
+Test epoch 5/10, Time: 66.1117, Loss: 0.144784/0.144784, PSNR: 38.1863/38.1863, BPP: 0.0842/0.0842
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 65.8091
+Test epoch 6/10, Time: 65.8091, Loss: 0.144706/0.144706, PSNR: 38.1791/38.1791, BPP: 0.0840/0.0840
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 62.6513
+Test epoch 7/10, Time: 62.6513, Loss: 0.144696/0.144696, PSNR: 38.1954/38.1954, BPP: 0.0842/0.0842
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 149.7693
+Test epoch 8/10, Time: 149.7693, Loss: 0.144706/0.144696, PSNR: 38.1952/38.1954, BPP: 0.0842/0.0842
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 158.3338
+Test epoch 9/10, Time: 158.3338, Loss: 0.144710/0.144696, PSNR: 38.1969/38.1954, BPP: 0.0842/0.0842
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 155.5119
+Test epoch 10/10, Time: 155.5119, Loss: 0.144712/0.144696, PSNR: 38.1963/38.1954, BPP: 0.0842/0.0842
+Training sequence 5: videoSRC14...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.114746/0.114746, PSNR: 38.4214/38.4214, BPP: 0.0595/0.0595
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 156.4441
+Test epoch 1/10, Time: 156.4441, Loss: 0.112141/0.112141, PSNR: 38.3080/38.3080, BPP: 0.0554/0.0554
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 147.2676
+Test epoch 2/10, Time: 147.2676, Loss: 0.112002/0.112002, PSNR: 38.2733/38.2733, BPP: 0.0548/0.0548
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 146.4858
+Test epoch 3/10, Time: 146.4858, Loss: 0.111606/0.111606, PSNR: 38.2932/38.2932, BPP: 0.0547/0.0547
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 149.4616
+Test epoch 4/10, Time: 149.4616, Loss: 0.111580/0.111580, PSNR: 38.2800/38.2800, BPP: 0.0545/0.0545
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 147.8983
+Test epoch 5/10, Time: 147.8983, Loss: 0.111398/0.111398, PSNR: 38.2757/38.2757, BPP: 0.0543/0.0543
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 148.1667
+Test epoch 6/10, Time: 148.1667, Loss: 0.111423/0.111398, PSNR: 38.2807/38.2757, BPP: 0.0544/0.0543
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 149.3692
+Test epoch 7/10, Time: 149.3692, Loss: 0.111420/0.111398, PSNR: 38.2779/38.2757, BPP: 0.0543/0.0543
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 143.0436
+Test epoch 8/10, Time: 143.0436, Loss: 0.111383/0.111383, PSNR: 38.2766/38.2766, BPP: 0.0543/0.0543
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 149.2230
+Test epoch 9/10, Time: 149.2230, Loss: 0.111384/0.111383, PSNR: 38.2773/38.2766, BPP: 0.0543/0.0543
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 148.9922
+Test epoch 10/10, Time: 148.9922, Loss: 0.111327/0.111327, PSNR: 38.2787/38.2787, BPP: 0.0543/0.0543
+Training sequence 6: videoSRC20...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.126997/0.126997, PSNR: 38.3280/38.3280, BPP: 0.0662/0.0662
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7007
+Test epoch 1/10, Time: 41.7007, Loss: 0.123823/0.123823, PSNR: 38.4342/38.4342, BPP: 0.0647/0.0647
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6487
+Test epoch 2/10, Time: 41.6487, Loss: 0.122869/0.122869, PSNR: 38.5232/38.5232, BPP: 0.0651/0.0651
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8574
+Test epoch 3/10, Time: 41.8574, Loss: 0.122466/0.122466, PSNR: 38.5233/38.5233, BPP: 0.0647/0.0647
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.6810
+Test epoch 4/10, Time: 41.6810, Loss: 0.122253/0.122253, PSNR: 38.5361/38.5361, BPP: 0.0647/0.0647
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.6258
+Test epoch 5/10, Time: 41.6258, Loss: 0.122221/0.122221, PSNR: 38.5444/38.5444, BPP: 0.0648/0.0648
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7479
+Test epoch 6/10, Time: 41.7479, Loss: 0.121941/0.121941, PSNR: 38.5406/38.5406, BPP: 0.0645/0.0645
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8526
+Test epoch 7/10, Time: 41.8526, Loss: 0.121928/0.121928, PSNR: 38.5562/38.5562, BPP: 0.0647/0.0647
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7250
+Test epoch 8/10, Time: 41.7250, Loss: 0.121910/0.121910, PSNR: 38.5499/38.5499, BPP: 0.0646/0.0646
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.6797
+Test epoch 9/10, Time: 41.6797, Loss: 0.121942/0.121910, PSNR: 38.5529/38.5499, BPP: 0.0646/0.0646
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8948
+Test epoch 10/10, Time: 41.8948, Loss: 0.121924/0.121910, PSNR: 38.5503/38.5499, BPP: 0.0646/0.0646
+Training sequence 7: videoSRC18...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.149931/0.149931, PSNR: 36.2570/36.2570, BPP: 0.0499/0.0499
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0012
+Test epoch 1/10, Time: 42.0012, Loss: 0.148587/0.148587, PSNR: 36.3364/36.3364, BPP: 0.0499/0.0499
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6532
+Test epoch 2/10, Time: 41.6532, Loss: 0.147955/0.147955, PSNR: 36.3009/36.3009, BPP: 0.0485/0.0485
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7696
+Test epoch 3/10, Time: 41.7696, Loss: 0.147121/0.147121, PSNR: 36.3091/36.3091, BPP: 0.0476/0.0476
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9501
+Test epoch 4/10, Time: 41.9501, Loss: 0.146927/0.146927, PSNR: 36.3321/36.3321, BPP: 0.0479/0.0479
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7651
+Test epoch 5/10, Time: 41.7651, Loss: 0.146310/0.146310, PSNR: 36.3314/36.3314, BPP: 0.0472/0.0472
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9062
+Test epoch 6/10, Time: 41.9062, Loss: 0.146150/0.146150, PSNR: 36.3297/36.3297, BPP: 0.0469/0.0469
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6303
+Test epoch 7/10, Time: 41.6303, Loss: 0.146169/0.146150, PSNR: 36.3327/36.3297, BPP: 0.0470/0.0469
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6571
+Test epoch 8/10, Time: 41.6571, Loss: 0.146663/0.146150, PSNR: 36.3201/36.3297, BPP: 0.0472/0.0469
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7406
+Test epoch 9/10, Time: 41.7406, Loss: 0.146289/0.146150, PSNR: 36.3308/36.3297, BPP: 0.0470/0.0469
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7758
+Test epoch 10/10, Time: 41.7758, Loss: 0.146227/0.146150, PSNR: 36.3319/36.3297, BPP: 0.0470/0.0469
+Training sequence 8: videoSRC25...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.405377/0.405377, PSNR: 32.2800/32.2800, BPP: 0.1678/0.1678
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8508
+Test epoch 1/10, Time: 41.8508, Loss: 0.401302/0.401302, PSNR: 32.2636/32.2636, BPP: 0.1630/0.1630
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7377
+Test epoch 2/10, Time: 41.7377, Loss: 0.400964/0.400964, PSNR: 32.3035/32.3035, BPP: 0.1648/0.1648
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8536
+Test epoch 3/10, Time: 41.8536, Loss: 0.399741/0.399741, PSNR: 32.3090/32.3090, BPP: 0.1639/0.1639
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.6487
+Test epoch 4/10, Time: 41.6487, Loss: 0.399347/0.399347, PSNR: 32.3153/32.3153, BPP: 0.1639/0.1639
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7729
+Test epoch 5/10, Time: 41.7729, Loss: 0.399413/0.399347, PSNR: 32.3231/32.3153, BPP: 0.1644/0.1639
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7354
+Test epoch 6/10, Time: 41.7354, Loss: 0.399485/0.399347, PSNR: 32.3248/32.3153, BPP: 0.1645/0.1639
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7301
+Test epoch 7/10, Time: 41.7301, Loss: 0.399118/0.399118, PSNR: 32.3252/32.3252, BPP: 0.1642/0.1642
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8919
+Test epoch 8/10, Time: 41.8919, Loss: 0.398975/0.398975, PSNR: 32.3295/32.3295, BPP: 0.1643/0.1643
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7400
+Test epoch 9/10, Time: 41.7400, Loss: 0.398868/0.398868, PSNR: 32.3307/32.3307, BPP: 0.1643/0.1643
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8205
+Test epoch 10/10, Time: 41.8205, Loss: 0.399013/0.398868, PSNR: 32.3289/32.3307, BPP: 0.1642/0.1643
+Training sequence 9: videoSRC02...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.052759/0.052759, PSNR: 42.6164/42.6164, BPP: 0.0309/0.0309
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7823
+Test epoch 1/10, Time: 41.7823, Loss: 0.051880/0.051880, PSNR: 42.5756/42.5756, BPP: 0.0298/0.0298
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6654
+Test epoch 2/10, Time: 41.6654, Loss: 0.051145/0.051145, PSNR: 42.5382/42.5382, BPP: 0.0289/0.0289
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7919
+Test epoch 3/10, Time: 41.7919, Loss: 0.051003/0.051003, PSNR: 42.5377/42.5377, BPP: 0.0287/0.0287
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8165
+Test epoch 4/10, Time: 41.8165, Loss: 0.050811/0.050811, PSNR: 42.5575/42.5575, BPP: 0.0287/0.0287
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7555
+Test epoch 5/10, Time: 41.7555, Loss: 0.050673/0.050673, PSNR: 42.5110/42.5110, BPP: 0.0283/0.0283
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9172
+Test epoch 6/10, Time: 41.9172, Loss: 0.050596/0.050596, PSNR: 42.5232/42.5232, BPP: 0.0283/0.0283
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9103
+Test epoch 7/10, Time: 41.9103, Loss: 0.050531/0.050531, PSNR: 42.5283/42.5283, BPP: 0.0282/0.0282
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7679
+Test epoch 8/10, Time: 41.7679, Loss: 0.050526/0.050526, PSNR: 42.5330/42.5330, BPP: 0.0283/0.0283
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8184
+Test epoch 9/10, Time: 41.8184, Loss: 0.050525/0.050525, PSNR: 42.5305/42.5305, BPP: 0.0282/0.0282
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7971
+Test epoch 10/10, Time: 41.7971, Loss: 0.050521/0.050521, PSNR: 42.5331/42.5331, BPP: 0.0282/0.0282
+Training sequence 10: videoSRC09...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.274927/0.274927, PSNR: 33.9652/33.9652, BPP: 0.1198/0.1198
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8904
+Test epoch 1/10, Time: 41.8904, Loss: 0.271477/0.271477, PSNR: 33.9580/33.9580, BPP: 0.1162/0.1162
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8219
+Test epoch 2/10, Time: 41.8219, Loss: 0.271319/0.271319, PSNR: 33.9630/33.9630, BPP: 0.1163/0.1163
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8596
+Test epoch 3/10, Time: 41.8596, Loss: 0.271076/0.271076, PSNR: 33.9752/33.9752, BPP: 0.1165/0.1165
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9325
+Test epoch 4/10, Time: 41.9325, Loss: 0.270796/0.270796, PSNR: 33.9721/33.9721, BPP: 0.1161/0.1161
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8700
+Test epoch 5/10, Time: 41.8700, Loss: 0.270992/0.270796, PSNR: 33.9910/33.9721, BPP: 0.1170/0.1161
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7857
+Test epoch 6/10, Time: 41.7857, Loss: 0.270940/0.270796, PSNR: 33.9865/33.9721, BPP: 0.1168/0.1161
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8098
+Test epoch 7/10, Time: 41.8098, Loss: 0.270974/0.270796, PSNR: 33.9929/33.9721, BPP: 0.1170/0.1161
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7864
+Test epoch 8/10, Time: 41.7864, Loss: 0.270999/0.270796, PSNR: 33.9912/33.9721, BPP: 0.1170/0.1161
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7221
+Test epoch 9/10, Time: 41.7221, Loss: 0.270977/0.270796, PSNR: 33.9883/33.9721, BPP: 0.1169/0.1161
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8746
+Test epoch 10/10, Time: 41.8746, Loss: 0.270865/0.270796, PSNR: 33.9889/33.9721, BPP: 0.1168/0.1161
+Training sequence 11: videoSRC27...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.124727/0.124727, PSNR: 37.9214/37.9214, BPP: 0.0602/0.0602
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0655
+Test epoch 1/10, Time: 42.0655, Loss: 0.123804/0.123804, PSNR: 37.8885/37.8885, BPP: 0.0589/0.0589
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8976
+Test epoch 2/10, Time: 41.8976, Loss: 0.123248/0.123248, PSNR: 37.9340/37.9340, BPP: 0.0591/0.0591
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.8995
+Test epoch 3/10, Time: 41.8995, Loss: 0.122668/0.122668, PSNR: 37.9168/37.9168, BPP: 0.0582/0.0582
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8057
+Test epoch 4/10, Time: 41.8057, Loss: 0.122817/0.122668, PSNR: 37.9333/37.9168, BPP: 0.0587/0.0582
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9718
+Test epoch 5/10, Time: 41.9718, Loss: 0.122651/0.122651, PSNR: 37.9151/37.9151, BPP: 0.0582/0.0582
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9250
+Test epoch 6/10, Time: 41.9250, Loss: 0.122540/0.122540, PSNR: 37.9072/37.9072, BPP: 0.0580/0.0580
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9638
+Test epoch 7/10, Time: 41.9638, Loss: 0.122579/0.122540, PSNR: 37.9178/37.9072, BPP: 0.0581/0.0580
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9749
+Test epoch 8/10, Time: 41.9749, Loss: 0.122499/0.122499, PSNR: 37.9132/37.9132, BPP: 0.0580/0.0580
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8777
+Test epoch 9/10, Time: 41.8777, Loss: 0.122480/0.122480, PSNR: 37.9183/37.9183, BPP: 0.0581/0.0581
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9472
+Test epoch 10/10, Time: 41.9472, Loss: 0.122605/0.122480, PSNR: 37.9136/37.9183, BPP: 0.0581/0.0581
+Training sequence 12: videoSRC05...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.166279/0.166279, PSNR: 35.9500/35.9500, BPP: 0.0681/0.0681
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8614
+Test epoch 1/10, Time: 41.8614, Loss: 0.165369/0.165369, PSNR: 35.9086/35.9086, BPP: 0.0662/0.0662
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8895
+Test epoch 2/10, Time: 41.8895, Loss: 0.165033/0.165033, PSNR: 35.9229/35.9229, BPP: 0.0662/0.0662
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7457
+Test epoch 3/10, Time: 41.7457, Loss: 0.163788/0.163788, PSNR: 35.9462/35.9462, BPP: 0.0655/0.0655
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9641
+Test epoch 4/10, Time: 41.9641, Loss: 0.163305/0.163305, PSNR: 35.9524/35.9524, BPP: 0.0652/0.0652
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9474
+Test epoch 5/10, Time: 41.9474, Loss: 0.163224/0.163224, PSNR: 35.9598/35.9598, BPP: 0.0652/0.0652
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8843
+Test epoch 6/10, Time: 41.8843, Loss: 0.163098/0.163098, PSNR: 35.9581/35.9581, BPP: 0.0651/0.0651
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.6995
+Test epoch 7/10, Time: 41.6995, Loss: 0.163109/0.163098, PSNR: 35.9611/35.9581, BPP: 0.0651/0.0651
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8927
+Test epoch 8/10, Time: 41.8927, Loss: 0.163208/0.163098, PSNR: 35.9639/35.9581, BPP: 0.0653/0.0651
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0411
+Test epoch 9/10, Time: 42.0411, Loss: 0.163165/0.163098, PSNR: 35.9636/35.9581, BPP: 0.0652/0.0651
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.8082
+Test epoch 10/10, Time: 41.8082, Loss: 0.163193/0.163098, PSNR: 35.9626/35.9581, BPP: 0.0653/0.0651
+Training sequence 13: videoSRC07...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.146659/0.146659, PSNR: 35.7624/35.7624, BPP: 0.0454/0.0454
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.0599
+Test epoch 1/10, Time: 42.0599, Loss: 0.146297/0.146297, PSNR: 35.7492/35.7492, BPP: 0.0447/0.0447
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9688
+Test epoch 2/10, Time: 41.9688, Loss: 0.145624/0.145624, PSNR: 35.7467/35.7467, BPP: 0.0440/0.0440
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9584
+Test epoch 3/10, Time: 41.9584, Loss: 0.145264/0.145264, PSNR: 35.7347/35.7347, BPP: 0.0433/0.0433
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8766
+Test epoch 4/10, Time: 41.8766, Loss: 0.145061/0.145061, PSNR: 35.7461/35.7461, BPP: 0.0434/0.0434
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.7119
+Test epoch 5/10, Time: 41.7119, Loss: 0.145097/0.145061, PSNR: 35.7608/35.7461, BPP: 0.0438/0.0434
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8244
+Test epoch 6/10, Time: 41.8244, Loss: 0.145149/0.145061, PSNR: 35.7583/35.7461, BPP: 0.0438/0.0434
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7392
+Test epoch 7/10, Time: 41.7392, Loss: 0.145063/0.145061, PSNR: 35.7542/35.7461, BPP: 0.0436/0.0434
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7466
+Test epoch 8/10, Time: 41.7466, Loss: 0.145059/0.145059, PSNR: 35.7576/35.7576, BPP: 0.0437/0.0437
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7880
+Test epoch 9/10, Time: 41.7880, Loss: 0.145032/0.145032, PSNR: 35.7559/35.7559, BPP: 0.0436/0.0436
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7896
+Test epoch 10/10, Time: 41.7896, Loss: 0.145052/0.145032, PSNR: 35.7542/35.7559, BPP: 0.0436/0.0436
+Training sequence 14: videoSRC15...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.146222/0.146222, PSNR: 35.5087/35.5087, BPP: 0.0384/0.0384
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1424
+Test epoch 1/10, Time: 42.1424, Loss: 0.142483/0.142483, PSNR: 35.4099/35.4099, BPP: 0.0320/0.0320
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 52.7818
+Test epoch 2/10, Time: 52.7818, Loss: 0.142074/0.142074, PSNR: 35.4306/35.4306, BPP: 0.0322/0.0322
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9773
+Test epoch 3/10, Time: 41.9773, Loss: 0.141481/0.141481, PSNR: 35.4286/35.4286, BPP: 0.0315/0.0315
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.0967
+Test epoch 4/10, Time: 42.0967, Loss: 0.141212/0.141212, PSNR: 35.4388/35.4388, BPP: 0.0315/0.0315
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8520
+Test epoch 5/10, Time: 41.8520, Loss: 0.140818/0.140818, PSNR: 35.4643/35.4643, BPP: 0.0318/0.0318
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8032
+Test epoch 6/10, Time: 41.8032, Loss: 0.140774/0.140774, PSNR: 35.4452/35.4452, BPP: 0.0312/0.0312
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7365
+Test epoch 7/10, Time: 41.7365, Loss: 0.140440/0.140440, PSNR: 35.4585/35.4585, BPP: 0.0313/0.0313
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.1234
+Test epoch 8/10, Time: 42.1234, Loss: 0.140380/0.140380, PSNR: 35.4575/35.4575, BPP: 0.0312/0.0312
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9944
+Test epoch 9/10, Time: 41.9944, Loss: 0.140609/0.140380, PSNR: 35.4528/35.4575, BPP: 0.0313/0.0312
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0119
+Test epoch 10/10, Time: 42.0119, Loss: 0.140535/0.140380, PSNR: 35.4548/35.4575, BPP: 0.0312/0.0312
+Training sequence 15: videoSRC08...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.071080/0.071080, PSNR: 38.5519/38.5519, BPP: 0.0178/0.0178
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1476
+Test epoch 1/10, Time: 42.1476, Loss: 0.071148/0.071080, PSNR: 38.4441/38.5519, BPP: 0.0165/0.0178
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9184
+Test epoch 2/10, Time: 41.9184, Loss: 0.071256/0.071080, PSNR: 38.4266/38.5519, BPP: 0.0164/0.0178
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9567
+Test epoch 3/10, Time: 41.9567, Loss: 0.070731/0.070731, PSNR: 38.4503/38.4503, BPP: 0.0161/0.0161
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7862
+Test epoch 4/10, Time: 41.7862, Loss: 0.070533/0.070533, PSNR: 38.4650/38.4650, BPP: 0.0161/0.0161
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8237
+Test epoch 5/10, Time: 41.8237, Loss: 0.070390/0.070390, PSNR: 38.4758/38.4758, BPP: 0.0161/0.0161
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7841
+Test epoch 6/10, Time: 41.7841, Loss: 0.070367/0.070367, PSNR: 38.4722/38.4722, BPP: 0.0161/0.0161
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9107
+Test epoch 7/10, Time: 41.9107, Loss: 0.070330/0.070330, PSNR: 38.4737/38.4737, BPP: 0.0160/0.0160
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8536
+Test epoch 8/10, Time: 41.8536, Loss: 0.070364/0.070330, PSNR: 38.4726/38.4737, BPP: 0.0161/0.0160
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7998
+Test epoch 9/10, Time: 41.7998, Loss: 0.070331/0.070330, PSNR: 38.4771/38.4737, BPP: 0.0161/0.0160
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 64.3285
+Test epoch 10/10, Time: 64.3285, Loss: 0.070350/0.070330, PSNR: 38.4757/38.4737, BPP: 0.0161/0.0160
+Training sequence 16: videoSRC01...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.049553/0.049553, PSNR: 40.2882/40.2882, BPP: 0.0139/0.0139
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8327
+Test epoch 1/10, Time: 41.8327, Loss: 0.047155/0.047155, PSNR: 40.1102/40.1102, BPP: 0.0100/0.0100
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 56.5730
+Test epoch 2/10, Time: 56.5730, Loss: 0.046244/0.046244, PSNR: 40.1584/40.1584, BPP: 0.0095/0.0095
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.6758
+Test epoch 3/10, Time: 41.6758, Loss: 0.045880/0.045880, PSNR: 40.1583/40.1583, BPP: 0.0092/0.0092
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 45.1147
+Test epoch 4/10, Time: 45.1147, Loss: 0.045591/0.045591, PSNR: 40.1654/40.1654, BPP: 0.0089/0.0089
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8777
+Test epoch 5/10, Time: 41.8777, Loss: 0.045872/0.045591, PSNR: 40.1719/40.1654, BPP: 0.0093/0.0089
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.0061
+Test epoch 6/10, Time: 42.0061, Loss: 0.045817/0.045591, PSNR: 40.1744/40.1654, BPP: 0.0092/0.0089
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8725
+Test epoch 7/10, Time: 41.8725, Loss: 0.045688/0.045591, PSNR: 40.1768/40.1654, BPP: 0.0091/0.0089
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7619
+Test epoch 8/10, Time: 41.7619, Loss: 0.045588/0.045588, PSNR: 40.1706/40.1706, BPP: 0.0090/0.0090
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 43.5038
+Test epoch 9/10, Time: 43.5038, Loss: 0.045649/0.045588, PSNR: 40.1727/40.1706, BPP: 0.0090/0.0090
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7974
+Test epoch 10/10, Time: 41.7974, Loss: 0.045796/0.045588, PSNR: 40.1719/40.1706, BPP: 0.0092/0.0090
+Training sequence 17: videoSRC03...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.054636/0.054636, PSNR: 40.3025/40.3025, BPP: 0.0188/0.0188
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.9704
+Test epoch 1/10, Time: 41.9704, Loss: 0.053618/0.053618, PSNR: 40.3085/40.3085, BPP: 0.0178/0.0178
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8689
+Test epoch 2/10, Time: 41.8689, Loss: 0.053575/0.053575, PSNR: 40.2200/40.2200, BPP: 0.0170/0.0170
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9630
+Test epoch 3/10, Time: 41.9630, Loss: 0.053135/0.053135, PSNR: 40.2849/40.2849, BPP: 0.0171/0.0171
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9394
+Test epoch 4/10, Time: 41.9394, Loss: 0.053112/0.053112, PSNR: 40.2909/40.2909, BPP: 0.0171/0.0171
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9203
+Test epoch 5/10, Time: 41.9203, Loss: 0.053011/0.053011, PSNR: 40.2825/40.2825, BPP: 0.0170/0.0170
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9664
+Test epoch 6/10, Time: 41.9664, Loss: 0.053110/0.053011, PSNR: 40.2741/40.2825, BPP: 0.0170/0.0170
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 62.0336
+Test epoch 7/10, Time: 62.0336, Loss: 0.052979/0.052979, PSNR: 40.2857/40.2857, BPP: 0.0169/0.0169
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 68.7860
+Test epoch 8/10, Time: 68.7860, Loss: 0.052963/0.052963, PSNR: 40.2894/40.2894, BPP: 0.0170/0.0170
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 68.2634
+Test epoch 9/10, Time: 68.2634, Loss: 0.052950/0.052950, PSNR: 40.2917/40.2917, BPP: 0.0170/0.0170
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 112.3882
+Test epoch 10/10, Time: 112.3882, Loss: 0.052971/0.052950, PSNR: 40.2890/40.2917, BPP: 0.0170/0.0170
+Training sequence 18: videoSRC06...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.225700/0.225700, PSNR: 32.9054/32.9054, BPP: 0.0298/0.0298
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 49.7987
+Test epoch 1/10, Time: 49.7987, Loss: 0.225729/0.225700, PSNR: 32.9073/32.9054, BPP: 0.0299/0.0298
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9166
+Test epoch 2/10, Time: 41.9166, Loss: 0.226534/0.225700, PSNR: 32.9002/32.9054, BPP: 0.0304/0.0298
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0617
+Test epoch 3/10, Time: 42.0617, Loss: 0.225774/0.225700, PSNR: 32.9165/32.9054, BPP: 0.0304/0.0298
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7628
+Test epoch 4/10, Time: 41.7628, Loss: 0.225206/0.225206, PSNR: 32.9188/32.9188, BPP: 0.0299/0.0299
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0321
+Test epoch 5/10, Time: 42.0321, Loss: 0.225101/0.225101, PSNR: 32.9201/32.9201, BPP: 0.0299/0.0299
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9464
+Test epoch 6/10, Time: 41.9464, Loss: 0.225053/0.225053, PSNR: 32.9231/32.9231, BPP: 0.0300/0.0300
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9884
+Test epoch 7/10, Time: 41.9884, Loss: 0.225199/0.225053, PSNR: 32.9223/32.9231, BPP: 0.0301/0.0300
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.8471
+Test epoch 8/10, Time: 41.8471, Loss: 0.225172/0.225053, PSNR: 32.9236/32.9231, BPP: 0.0301/0.0300
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9170
+Test epoch 9/10, Time: 41.9170, Loss: 0.225219/0.225053, PSNR: 32.9231/32.9231, BPP: 0.0302/0.0300
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.1224
+Test epoch 10/10, Time: 42.1224, Loss: 0.225250/0.225053, PSNR: 32.9230/32.9231, BPP: 0.0302/0.0300
+Training sequence 19: videoSRC26...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.069938/0.069938, PSNR: 40.3964/40.3964, BPP: 0.0346/0.0346
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1208
+Test epoch 1/10, Time: 42.1208, Loss: 0.067413/0.067413, PSNR: 40.5609/40.5609, BPP: 0.0334/0.0334
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.8991
+Test epoch 2/10, Time: 41.8991, Loss: 0.067093/0.067093, PSNR: 40.5608/40.5608, BPP: 0.0330/0.0330
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.0117
+Test epoch 3/10, Time: 42.0117, Loss: 0.066709/0.066709, PSNR: 40.5884/40.5884, BPP: 0.0329/0.0329
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9463
+Test epoch 4/10, Time: 41.9463, Loss: 0.066489/0.066489, PSNR: 40.6173/40.6173, BPP: 0.0328/0.0328
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9500
+Test epoch 5/10, Time: 41.9500, Loss: 0.066428/0.066428, PSNR: 40.6085/40.6085, BPP: 0.0327/0.0327
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9454
+Test epoch 6/10, Time: 41.9454, Loss: 0.066353/0.066353, PSNR: 40.6126/40.6126, BPP: 0.0327/0.0327
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8627
+Test epoch 7/10, Time: 41.8627, Loss: 0.066360/0.066353, PSNR: 40.6079/40.6126, BPP: 0.0326/0.0327
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7423
+Test epoch 8/10, Time: 41.7423, Loss: 0.066356/0.066353, PSNR: 40.6126/40.6126, BPP: 0.0327/0.0327
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.8601
+Test epoch 9/10, Time: 41.8601, Loss: 0.066362/0.066353, PSNR: 40.6127/40.6126, BPP: 0.0327/0.0327
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6696
+Test epoch 10/10, Time: 41.6696, Loss: 0.066396/0.066353, PSNR: 40.6094/40.6126, BPP: 0.0327/0.0327
+Training sequence 20: videoSRC12...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.116964/0.116964, PSNR: 37.7548/37.7548, BPP: 0.0521/0.0521
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 66.4349
+Test epoch 1/10, Time: 66.4349, Loss: 0.110330/0.110330, PSNR: 37.4807/37.4807, BPP: 0.0410/0.0410
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 67.5893
+Test epoch 2/10, Time: 67.5893, Loss: 0.110882/0.110330, PSNR: 37.5105/37.4807, BPP: 0.0420/0.0410
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 67.2412
+Test epoch 3/10, Time: 67.2412, Loss: 0.110683/0.110330, PSNR: 37.5109/37.4807, BPP: 0.0418/0.0410
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 123.4473
+Test epoch 4/10, Time: 123.4473, Loss: 0.112224/0.110330, PSNR: 37.4942/37.4807, BPP: 0.0430/0.0410
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 107.8606
+Test epoch 5/10, Time: 107.8606, Loss: 0.111674/0.110330, PSNR: 37.4922/37.4807, BPP: 0.0424/0.0410
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.6680
+Test epoch 6/10, Time: 41.6680, Loss: 0.110852/0.110330, PSNR: 37.4994/37.4807, BPP: 0.0417/0.0410
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9242
+Test epoch 7/10, Time: 41.9242, Loss: 0.111362/0.110330, PSNR: 37.4801/37.4807, BPP: 0.0419/0.0410
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0790
+Test epoch 8/10, Time: 42.0790, Loss: 0.110421/0.110330, PSNR: 37.4790/37.4807, BPP: 0.0410/0.0410
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 48.9360
+Test epoch 9/10, Time: 48.9360, Loss: 0.110604/0.110330, PSNR: 37.4744/37.4807, BPP: 0.0411/0.0410
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.7513
+Test epoch 10/10, Time: 41.7513, Loss: 0.110856/0.110330, PSNR: 37.4723/37.4807, BPP: 0.0413/0.0410
+Training sequence 21: videoSRC13...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.228791/0.228791, PSNR: 33.9329/33.9329, BPP: 0.0724/0.0724
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8221
+Test epoch 1/10, Time: 41.8221, Loss: 0.236388/0.228791, PSNR: 33.8838/33.9329, BPP: 0.0783/0.0724
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 48.3892
+Test epoch 2/10, Time: 48.3892, Loss: 0.226052/0.226052, PSNR: 33.8873/33.8873, BPP: 0.0680/0.0680
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 78.2378
+Test epoch 3/10, Time: 78.2378, Loss: 0.225155/0.225155, PSNR: 33.8782/33.8782, BPP: 0.0668/0.0668
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 69.8998
+Test epoch 4/10, Time: 69.8998, Loss: 0.225181/0.225155, PSNR: 33.8819/33.8782, BPP: 0.0670/0.0668
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 70.0157
+Test epoch 5/10, Time: 70.0157, Loss: 0.224479/0.224479, PSNR: 33.8691/33.8691, BPP: 0.0658/0.0658
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 67.3441
+Test epoch 6/10, Time: 67.3441, Loss: 0.224322/0.224322, PSNR: 33.8669/33.8669, BPP: 0.0656/0.0656
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.0007
+Test epoch 7/10, Time: 42.0007, Loss: 0.224393/0.224322, PSNR: 33.8573/33.8669, BPP: 0.0653/0.0656
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.9754
+Test epoch 8/10, Time: 41.9754, Loss: 0.224441/0.224322, PSNR: 33.8644/33.8669, BPP: 0.0656/0.0656
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9801
+Test epoch 9/10, Time: 41.9801, Loss: 0.224412/0.224322, PSNR: 33.8664/33.8669, BPP: 0.0656/0.0656
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0670
+Test epoch 10/10, Time: 42.0670, Loss: 0.224455/0.224322, PSNR: 33.8645/33.8669, BPP: 0.0656/0.0656
+Training sequence 22: videoSRC17...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.111052/0.111052, PSNR: 38.3321/38.3321, BPP: 0.0546/0.0546
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 42.1034
+Test epoch 1/10, Time: 42.1034, Loss: 0.109346/0.109346, PSNR: 38.2008/38.2008, BPP: 0.0512/0.0512
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 42.1324
+Test epoch 2/10, Time: 42.1324, Loss: 0.108906/0.108906, PSNR: 38.2418/38.2418, BPP: 0.0514/0.0514
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 42.2432
+Test epoch 3/10, Time: 42.2432, Loss: 0.108757/0.108757, PSNR: 38.1995/38.1995, BPP: 0.0506/0.0506
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 42.2185
+Test epoch 4/10, Time: 42.2185, Loss: 0.108574/0.108574, PSNR: 38.2251/38.2251, BPP: 0.0508/0.0508
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 42.0955
+Test epoch 5/10, Time: 42.0955, Loss: 0.108532/0.108532, PSNR: 38.2279/38.2279, BPP: 0.0508/0.0508
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9335
+Test epoch 6/10, Time: 41.9335, Loss: 0.108572/0.108532, PSNR: 38.2268/38.2279, BPP: 0.0508/0.0508
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9564
+Test epoch 7/10, Time: 41.9564, Loss: 0.108525/0.108525, PSNR: 38.2280/38.2280, BPP: 0.0508/0.0508
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.2636
+Test epoch 8/10, Time: 42.2636, Loss: 0.108544/0.108525, PSNR: 38.2244/38.2280, BPP: 0.0508/0.0508
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 132.6346
+Test epoch 9/10, Time: 132.6346, Loss: 0.108564/0.108525, PSNR: 38.2267/38.2280, BPP: 0.0508/0.0508
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 126.3791
+Test epoch 10/10, Time: 126.3791, Loss: 0.108556/0.108525, PSNR: 38.2291/38.2280, BPP: 0.0509/0.0508
+Training sequence 23: videoSRC28...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.046846/0.046846, PSNR: 41.4800/41.4800, BPP: 0.0196/0.0196
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 69.5922
+Test epoch 1/10, Time: 69.5922, Loss: 0.045020/0.045020, PSNR: 41.2507/41.2507, BPP: 0.0162/0.0162
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 69.7882
+Test epoch 2/10, Time: 69.7882, Loss: 0.046371/0.045020, PSNR: 41.2956/41.2507, BPP: 0.0179/0.0162
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 48.6353
+Test epoch 3/10, Time: 48.6353, Loss: 0.045262/0.045020, PSNR: 41.2757/41.2507, BPP: 0.0166/0.0162
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 67.4182
+Test epoch 4/10, Time: 67.4182, Loss: 0.045504/0.045020, PSNR: 41.2532/41.2507, BPP: 0.0167/0.0162
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 51.8164
+Test epoch 5/10, Time: 51.8164, Loss: 0.045323/0.045020, PSNR: 41.2505/41.2507, BPP: 0.0165/0.0162
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8711
+Test epoch 6/10, Time: 41.8711, Loss: 0.045196/0.045020, PSNR: 41.2475/41.2507, BPP: 0.0163/0.0162
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9288
+Test epoch 7/10, Time: 41.9288, Loss: 0.045015/0.045015, PSNR: 41.2458/41.2458, BPP: 0.0161/0.0161
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.4427
+Test epoch 8/10, Time: 42.4427, Loss: 0.045351/0.045015, PSNR: 41.2473/41.2458, BPP: 0.0165/0.0161
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 42.0020
+Test epoch 9/10, Time: 42.0020, Loss: 0.045115/0.045015, PSNR: 41.2490/41.2458, BPP: 0.0163/0.0161
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.9973
+Test epoch 10/10, Time: 41.9973, Loss: 0.045480/0.045015, PSNR: 41.2458/41.2458, BPP: 0.0166/0.0161
+Training sequence 24: videoSRC19...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.114191/0.114191, PSNR: 38.4036/38.4036, BPP: 0.0581/0.0581
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 51.2362
+Test epoch 1/10, Time: 51.2362, Loss: 0.113699/0.113699, PSNR: 38.3388/38.3388, BPP: 0.0568/0.0568
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 68.1517
+Test epoch 2/10, Time: 68.1517, Loss: 0.113321/0.113321, PSNR: 38.3717/38.3717, BPP: 0.0568/0.0568
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 78.5024
+Test epoch 3/10, Time: 78.5024, Loss: 0.112976/0.112976, PSNR: 38.3596/38.3596, BPP: 0.0563/0.0563
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 105.2922
+Test epoch 4/10, Time: 105.2922, Loss: 0.112920/0.112920, PSNR: 38.3674/38.3674, BPP: 0.0563/0.0563
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 119.5901
+Test epoch 5/10, Time: 119.5901, Loss: 0.112751/0.112751, PSNR: 38.3710/38.3710, BPP: 0.0562/0.0562
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 125.6590
+Test epoch 6/10, Time: 125.6590, Loss: 0.112790/0.112751, PSNR: 38.3750/38.3710, BPP: 0.0563/0.0562
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 65.6757
+Test epoch 7/10, Time: 65.6757, Loss: 0.112710/0.112710, PSNR: 38.3543/38.3543, BPP: 0.0559/0.0559
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 69.3447
+Test epoch 8/10, Time: 69.3447, Loss: 0.112674/0.112674, PSNR: 38.3609/38.3609, BPP: 0.0560/0.0560
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 92.3135
+Test epoch 9/10, Time: 92.3135, Loss: 0.112640/0.112640, PSNR: 38.3621/38.3621, BPP: 0.0560/0.0560
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 55.4204
+Test epoch 10/10, Time: 55.4204, Loss: 0.112656/0.112640, PSNR: 38.3619/38.3621, BPP: 0.0560/0.0560
+Training sequence 25: videoSRC21...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.043929/0.043929, PSNR: 43.0621/43.0621, BPP: 0.0231/0.0231
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 68.5020
+Test epoch 1/10, Time: 68.5020, Loss: 0.043849/0.043849, PSNR: 42.9652/42.9652, BPP: 0.0226/0.0226
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 50.7737
+Test epoch 2/10, Time: 50.7737, Loss: 0.043748/0.043748, PSNR: 42.8917/42.8917, BPP: 0.0222/0.0222
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 46.9285
+Test epoch 3/10, Time: 46.9285, Loss: 0.043663/0.043663, PSNR: 42.9821/42.9821, BPP: 0.0225/0.0225
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7773
+Test epoch 4/10, Time: 41.7773, Loss: 0.043624/0.043624, PSNR: 42.9874/42.9874, BPP: 0.0225/0.0225
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9181
+Test epoch 5/10, Time: 41.9181, Loss: 0.043348/0.043348, PSNR: 43.0065/43.0065, BPP: 0.0223/0.0223
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8484
+Test epoch 6/10, Time: 41.8484, Loss: 0.043357/0.043348, PSNR: 43.0071/43.0065, BPP: 0.0223/0.0223
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.9452
+Test epoch 7/10, Time: 41.9452, Loss: 0.043300/0.043300, PSNR: 43.0165/43.0165, BPP: 0.0223/0.0223
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7190
+Test epoch 8/10, Time: 41.7190, Loss: 0.043329/0.043300, PSNR: 43.0185/43.0165, BPP: 0.0223/0.0223
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 43.3773
+Test epoch 9/10, Time: 43.3773, Loss: 0.043339/0.043300, PSNR: 43.0137/43.0165, BPP: 0.0223/0.0223
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 44.8627
+Test epoch 10/10, Time: 44.8627, Loss: 0.043320/0.043300, PSNR: 43.0160/43.0165, BPP: 0.0223/0.0223
+Training sequence 26: videoSRC24...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.069314/0.069314, PSNR: 40.4955/40.4955, BPP: 0.0348/0.0348
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 53.5724
+Test epoch 1/10, Time: 53.5724, Loss: 0.069180/0.069180, PSNR: 40.4005/40.4005, BPP: 0.0339/0.0339
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.9151
+Test epoch 2/10, Time: 41.9151, Loss: 0.068477/0.068477, PSNR: 40.3610/40.3610, BPP: 0.0329/0.0329
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 43.4753
+Test epoch 3/10, Time: 43.4753, Loss: 0.068309/0.068309, PSNR: 40.3908/40.3908, BPP: 0.0330/0.0330
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9393
+Test epoch 4/10, Time: 41.9393, Loss: 0.067673/0.067673, PSNR: 40.4014/40.4014, BPP: 0.0324/0.0324
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 46.3763
+Test epoch 5/10, Time: 46.3763, Loss: 0.067643/0.067643, PSNR: 40.4239/40.4239, BPP: 0.0326/0.0326
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 139.5438
+Test epoch 6/10, Time: 139.5438, Loss: 0.067545/0.067545, PSNR: 40.4204/40.4204, BPP: 0.0325/0.0325
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 47.7108
+Test epoch 7/10, Time: 47.7108, Loss: 0.067388/0.067388, PSNR: 40.4209/40.4209, BPP: 0.0323/0.0323
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 46.2364
+Test epoch 8/10, Time: 46.2364, Loss: 0.067337/0.067337, PSNR: 40.4158/40.4158, BPP: 0.0322/0.0322
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7275
+Test epoch 9/10, Time: 41.7275, Loss: 0.067377/0.067337, PSNR: 40.4170/40.4158, BPP: 0.0323/0.0322
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 48.6110
+Test epoch 10/10, Time: 48.6110, Loss: 0.067332/0.067332, PSNR: 40.4158/40.4158, BPP: 0.0322/0.0322
+Training sequence 27: videoSRC11...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.077236/0.077236, PSNR: 40.4886/40.4886, BPP: 0.0419/0.0419
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 98.0785
+Test epoch 1/10, Time: 98.0785, Loss: 0.076723/0.076723, PSNR: 40.3843/40.3843, BPP: 0.0406/0.0406
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6726
+Test epoch 2/10, Time: 41.6726, Loss: 0.076717/0.076717, PSNR: 40.3423/40.3423, BPP: 0.0402/0.0402
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.7065
+Test epoch 3/10, Time: 41.7065, Loss: 0.076306/0.076306, PSNR: 40.3871/40.3871, BPP: 0.0402/0.0402
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9219
+Test epoch 4/10, Time: 41.9219, Loss: 0.076248/0.076248, PSNR: 40.3811/40.3811, BPP: 0.0401/0.0401
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8027
+Test epoch 5/10, Time: 41.8027, Loss: 0.076178/0.076178, PSNR: 40.3952/40.3952, BPP: 0.0401/0.0401
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.9125
+Test epoch 6/10, Time: 41.9125, Loss: 0.076159/0.076159, PSNR: 40.3956/40.3956, BPP: 0.0401/0.0401
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7642
+Test epoch 7/10, Time: 41.7642, Loss: 0.076160/0.076159, PSNR: 40.3887/40.3956, BPP: 0.0401/0.0401
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.7150
+Test epoch 8/10, Time: 41.7150, Loss: 0.076172/0.076159, PSNR: 40.3959/40.3956, BPP: 0.0401/0.0401
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7173
+Test epoch 9/10, Time: 41.7173, Loss: 0.076158/0.076158, PSNR: 40.3939/40.3939, BPP: 0.0401/0.0401
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.0395
+Test epoch 10/10, Time: 42.0395, Loss: 0.076149/0.076149, PSNR: 40.3938/40.3938, BPP: 0.0401/0.0401
+Training sequence 28: videoSRC29...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.018888/0.018888, PSNR: 45.0512/45.0512, BPP: 0.0064/0.0064
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.8108
+Test epoch 1/10, Time: 41.8108, Loss: 0.018524/0.018524, PSNR: 44.8107/44.8107, BPP: 0.0052/0.0052
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 43.3794
+Test epoch 2/10, Time: 43.3794, Loss: 0.018663/0.018524, PSNR: 44.8233/44.8107, BPP: 0.0053/0.0052
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9625
+Test epoch 3/10, Time: 41.9625, Loss: 0.018509/0.018509, PSNR: 44.8133/44.8133, BPP: 0.0051/0.0051
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.9899
+Test epoch 4/10, Time: 41.9899, Loss: 0.018624/0.018509, PSNR: 44.8431/44.8133, BPP: 0.0053/0.0051
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.8430
+Test epoch 5/10, Time: 41.8430, Loss: 0.019187/0.018509, PSNR: 44.7739/44.8133, BPP: 0.0057/0.0051
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.7275
+Test epoch 6/10, Time: 41.7275, Loss: 0.018804/0.018509, PSNR: 44.7877/44.8133, BPP: 0.0053/0.0051
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.7084
+Test epoch 7/10, Time: 41.7084, Loss: 0.018698/0.018509, PSNR: 44.7945/44.8133, BPP: 0.0052/0.0051
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 41.6816
+Test epoch 8/10, Time: 41.6816, Loss: 0.018710/0.018509, PSNR: 44.7835/44.8133, BPP: 0.0052/0.0051
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.7210
+Test epoch 9/10, Time: 41.7210, Loss: 0.018633/0.018509, PSNR: 44.7904/44.8133, BPP: 0.0051/0.0051
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 41.6489
+Test epoch 10/10, Time: 41.6489, Loss: 0.018603/0.018509, PSNR: 44.7940/44.8133, BPP: 0.0051/0.0051
+Training sequence 29: videoSRC30...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.051867/0.051867, PSNR: 39.7565/39.7565, BPP: 0.0115/0.0115
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 41.7948
+Test epoch 1/10, Time: 41.7948, Loss: 0.051632/0.051632, PSNR: 39.6255/39.6255, BPP: 0.0100/0.0100
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.7585
+Test epoch 2/10, Time: 41.7585, Loss: 0.051713/0.051632, PSNR: 39.6027/39.6255, BPP: 0.0098/0.0100
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.6093
+Test epoch 3/10, Time: 41.6093, Loss: 0.051562/0.051562, PSNR: 39.6109/39.6109, BPP: 0.0097/0.0097
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.7987
+Test epoch 4/10, Time: 41.7987, Loss: 0.051401/0.051401, PSNR: 39.6192/39.6192, BPP: 0.0097/0.0097
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9208
+Test epoch 5/10, Time: 41.9208, Loss: 0.051411/0.051401, PSNR: 39.6175/39.6192, BPP: 0.0097/0.0097
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 41.8560
+Test epoch 6/10, Time: 41.8560, Loss: 0.051578/0.051401, PSNR: 39.6036/39.6192, BPP: 0.0097/0.0097
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 42.3102
+Test epoch 7/10, Time: 42.3102, Loss: 0.051472/0.051401, PSNR: 39.6114/39.6192, BPP: 0.0097/0.0097
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0056
+Test epoch 8/10, Time: 42.0056, Loss: 0.051502/0.051401, PSNR: 39.6072/39.6192, BPP: 0.0096/0.0097
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 44.2438
+Test epoch 9/10, Time: 44.2438, Loss: 0.051473/0.051401, PSNR: 39.6107/39.6192, BPP: 0.0096/0.0097
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 58.9980
+Test epoch 10/10, Time: 58.9980, Loss: 0.051498/0.051401, PSNR: 39.6085/39.6192, BPP: 0.0096/0.0097
+Training sequence 30: videoSRC04...
+Refresh:  checkpoints/cp_video_model_dcn_380_IPPPPPP_best.pth.tar
+Original Loss: 0.474260/0.474260, PSNR: 33.4678/33.4678, BPP: 0.1536/0.1536
+Train epoch 1/10: 	Learning rate: 2e-05	Time: 45.5729
+Test epoch 1/10, Time: 45.5729, Loss: 0.473296/0.473296, PSNR: 33.5174/33.5174, BPP: 0.1554/0.1554
+Train epoch 2/10: 	Learning rate: 2e-05	Time: 41.6994
+Test epoch 2/10, Time: 41.6994, Loss: 0.469591/0.469591, PSNR: 33.5062/33.5062, BPP: 0.1546/0.1546
+Train epoch 3/10: 	Learning rate: 1e-05	Time: 41.9247
+Test epoch 3/10, Time: 41.9247, Loss: 0.466714/0.466714, PSNR: 33.5125/33.5125, BPP: 0.1524/0.1524
+Train epoch 4/10: 	Learning rate: 1e-05	Time: 41.8715
+Test epoch 4/10, Time: 41.8715, Loss: 0.466664/0.466664, PSNR: 33.5226/33.5226, BPP: 0.1532/0.1532
+Train epoch 5/10: 	Learning rate: 5e-06	Time: 41.9833
+Test epoch 5/10, Time: 41.9833, Loss: 0.465643/0.465643, PSNR: 33.5416/33.5416, BPP: 0.1533/0.1533
+Train epoch 6/10: 	Learning rate: 5e-06	Time: 42.1184
+Test epoch 6/10, Time: 42.1184, Loss: 0.465506/0.465506, PSNR: 33.5413/33.5413, BPP: 0.1532/0.1532
+Train epoch 7/10: 	Learning rate: 1e-06	Time: 41.8217
+Test epoch 7/10, Time: 41.8217, Loss: 0.465434/0.465434, PSNR: 33.5462/33.5462, BPP: 0.1535/0.1535
+Train epoch 8/10: 	Learning rate: 1e-06	Time: 42.0131
+Test epoch 8/10, Time: 42.0131, Loss: 0.465215/0.465215, PSNR: 33.5528/33.5528, BPP: 0.1535/0.1535
+Train epoch 9/10: 	Learning rate: 5e-07	Time: 41.9237
+Test epoch 9/10, Time: 41.9237, Loss: 0.465164/0.465164, PSNR: 33.5503/33.5503, BPP: 0.1534/0.1534
+Train epoch 10/10: 	Learning rate: 1e-07	Time: 42.5572
+Test epoch 10/10, Time: 42.5572, Loss: 0.465136/0.465136, PSNR: 33.5499/33.5499, BPP: 0.1534/0.1534
+OEU result:	Loss: 0.130156 |	PSNR: 38.2078 |	Bpp loss: 0.0499 |
+OEU time: 24388.03s
+
